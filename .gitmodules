@@ -1,0 +1,3 @@
+[submodule "pre-view-frontend"]
+	path = pre-view-frontend
+	url = https://github.com/LegendAVRS/pre-view-frontend.git
