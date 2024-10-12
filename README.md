@@ -1,3 +1,11 @@
+---
+title: Re:view
+sdk: docker
+base_path: /index.html
+app_port: 8000
+pinned: false
+---
+
 ### Setup Env
 
 ```
