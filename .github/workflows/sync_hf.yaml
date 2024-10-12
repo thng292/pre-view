@@ -15,6 +15,7 @@ jobs:
           submodules: recursive
           fetch-depth: 0
           lfs: true
+          ssh-key: ${{ secrets.DEPLOY_PRIVATE_KEY }}
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
