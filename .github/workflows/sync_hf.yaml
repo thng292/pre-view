@@ -26,7 +26,4 @@ jobs:
         run: pip install huggingface_hub
 
       - name: Push to hub
-        env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          HF_USERNAME: ${{ secrets.HF_USERNAME }}
-        run: huggingface-cli upload --repo-type space --private --commit-message "${{ github.event.head_commit.message }}" thng292/pre-view . .
+        run: huggingface-cli upload --repo-type space --private --commit-message "${{ github.event.head_commit.message }}" --token ${{ secrets.HF_TOKEN }} thng292/pre-view . .
