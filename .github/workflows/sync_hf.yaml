@@ -16,14 +16,17 @@ jobs:
           fetch-depth: 0
           lfs: true
           token: ${{ secrets.DEPLOY_PRIVATE_KEY }}
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: "pip" # caching pip dependencies
+
+      - name: Install huggingface-cli
+        run: pip install huggingface_hub
+
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           HF_USERNAME: ${{ secrets.HF_USERNAME }}
-        run: |
-          pip install huggingface_hub
-          huggingface-cli upload --repo-type space --private pre-view . .
+        run: huggingface-cli upload --repo-type space --private --commit-message ${{ github.event.head_commit.message }} thng292/pre-view . .
