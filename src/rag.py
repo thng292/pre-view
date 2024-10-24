@@ -7,7 +7,6 @@ problems = [
     If it is not possible to find such a value for ans[i] that satisfies the condition, then set ans[i] = -1.
      
     Example 1:
-
     Input: nums = [2,3,5,7]
     Output: [-1,1,4,3]
     Explanation:
@@ -19,7 +18,6 @@ problems = [
 
 
     Example 2:
-
     Input: nums = [11,13,31]
     Output: [9,12,15]
     Explanation:
@@ -28,10 +26,8 @@ problems = [
     For i = 1, the smallest ans[1] that satisfies ans[1] OR (ans[1] + 1) = 13 is 12, because 12 OR (12 + 1) = 13.
     For i = 2, the smallest ans[2] that satisfies ans[2] OR (ans[2] + 1) = 31 is 15, because 15 OR (15 + 1) = 31.
 
-
      
     Constraints:
-
     1 <= nums.length <= 100
     2 <= nums[i] <= 109
     nums[i] is a prime number.""")
