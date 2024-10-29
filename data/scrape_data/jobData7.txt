@@ -1,0 +1,2217 @@
+ IT Helpdesk
+ Công ty cổ phần SANAN
+Mô tả công việc
+Triển khai công cụ hỗ trợ nghiệp vụ & xây dựng quy trình nghiệp vụ IT cho người dùng cuối:
+Tìm hiểu và đánh giá các công cụ (tools) tối ưu hỗ trợ nghiệp vụ văn phòng, đảm bảo chúng phù hợp với yêu cầu công việc và tối ưu hóa hiệu suất làm việc của các phòng ban. Hỗ trợ người dùng cuối trong quá trình triển khai và sử dụng các công cụ này.
+Xây dựng các tài liệu hướng dẫn sử dụng công cụ (manuals) để hỗ trợ người dùng trong việc nắm bắt và sử dụng các ứng dụng, hệ thống một cách hiệu quả.
+Thiết lập các quy trình liên quan đến các nghiệp vụ IT, xây dựng và triển khai các công cụ tiếp nhận và quản lý yêu cầu hỗ trợ IT từ các phòng ban, đảm bảo tính hiệu quả, nhanh chóng, nhất quán và dễ dàng tuân thủ.
+Hỗ trợ kỹ thuật phần cứng và phần mềm:
+Cung cấp hỗ trợ kỹ thuật liên quan đến phần cứng và phần mềm, bao gồm cài đặt, cấu hình, và khắc phục sự cố thiết bị máy tính, máy in, và các thiết bị ngoại vi khác.
+Đảm bảo các hệ thống và ứng dụng hoạt động ổn định, đáp ứng yêu cầu công việc của người dùng.
+Quản lý và duy trì hệ thống mạng:
+Thiết lập và quản lý hệ thống mạng nội bộ (LAN/WAN), hệ thống camera an ninh, và hệ thống kiểm soát ra vào bằng vân tay trong văn phòng.
+Giám sát và bảo trì hệ thống để đảm bảo hoạt động liên tục, không gián đoạn
+Hỗ trợ an ninh thông tin (Information Security):
+Phối hợp với các bộ phận liên quan để thực hiện các công việc đảm bảo an ninh thông tin, bảo vệ dữ liệu và phòng chống rủi ro bảo mật.
+Cài đặt, điều tra và xử lý các lỗi liên quan đến phần mềm trong môi trường bảo mật cao.
+Lập kế hoạch và báo cáo công việc:
+Xây dựng và thực hiện kế hoạch công việc hàng tháng, bao gồm quản lý tiến độ, ưu tiên các nhiệm vụ và đảm bảo hoàn thành đúng thời hạn.
+Lập báo cáo tổng kết công việc theo quý, phân tích kết quả và đề xuất các cải tiến để nâng cao hiệu quả hoạt động của bộ phận IT.
+Hỗ trợ & tư vấn giải pháp cho khách hàng đang sử dụng dịch vụ phần mềm của công ty:
+Hỗ trợ cài đặt, điều tra và xử lý lỗi phần mềm cho các trường học có sử dụng SanAn Kids, đảm bảo phần mềm hoạt động ổn định và đáp ứng nhu cầu giáo dục.
+Tư vấn các giải pháp phần cứng/phần mềm cho nhà trường, đồng thời làm cầu nối giữa nhà trường và các nhà cung cấp dịch vụ, đảm bảo việc triển khai các giải pháp công nghệ được thực hiện hiệu quả và tối ưu.
+Yêu cầu ứng viên
+Tốt nghiệp đại học chuyên ngành Quản trị mạng hoặc các chuyên ngành liên quan.
+Có ít nhất 1 năm kinh nghiệm làm IT helpdesk
+Có khả năng tư duy và giải quyết vấn đề tốt.
+Có sự linh hoạt và sáng tạo trong cách suy nghĩ, không lối mòn.
+Sử dụng thành thạo máy tính, máy tính bảng, MS Office, hệ điều hành Windows. Ưu tiên ứng viên có hiểu biết tốt về MacOSX và Linux
+Có kinh nghiệm xử lý sự cố về máy tính, tương thích phần cứng, phần mềm với các hệ điều hành.
+Hiểu biết sâu về công nghệ mạng, mô hình mạng OSI, TCP/IP, IPv6, quản lý địa chỉ IP, tối ưu hoá mạng WAN và kiểm soát truy cập
+Ưu tiên ứng viên có chứng chỉ MCSA/CCNA
+Quyền lợi
+Môi trường làm việc công ty startup trẻ trung, vui vẻ, hòa đồng, thân thiện, chuyên nghiệp, được tiếp cận và làm việc với các công nghệ mới, năng động và lộ trình thăng tiến rõ ràng. Tham gia các buổi seminar chia sẻ về kỹ năng & kiến thức từ các thành viên trong công ty và các developer nhiều năm kinh nghiệm. Cơ hội phát triển lên các vị trí key member, leader trong một môi trường công ty tăng trưởng nhanh.
+Hưởng đầy đủ chế độ: BHYT, BHXH, BHTN... Được tham gia các hoạt động văn hóa đoàn thể trong năm: Nghỉ mát, teambuilding, thể thao...
+Hưởng các chương trình phúc lợi nội bộ: Khám sức khỏe định kỳ, nghỉ 12 ngày/năm, thêm 1 ngày phép vào ngày sinh nhật của nhân viên và 2 Recharge days. Review tăng lương và thưởng 2 lần/năm (tăng lương theo thâm niên và thành tích). Thưởng Tết bao gồm: tháng lương thứ 13 + thưởng theo doanh số (dựa theo tình hình kinh doanh của công ty theo từng năm).
+Môi trường startup với các dự án giáo dục và outsourcing, tạo điều kiện cho sự sáng tạo và phát triển.
+Thời gian làm việc Core time linh hoạt về thời gian và địa điểm, cho phép bạn tự quản lý lịch trình của mình.
+Dễ dàng cân đối giữa công việc và cuộc sống với số ngày nghỉ phép lên đến 21 ngày trong năm.
+Thu nhập hàng tháng: UP TO 10,000,000 (Lương gộp)
+Địa điểm làm việc
+- Hà Nội: Số 2 ngõ 219 Trung Kính, phường Yên Hòa, quận Cầu Giấy, Hà Nội, Cầu Giấy
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)
+----------------------------------
+ Chuyên Viên Business Analyst (Build Trợ Lý TGĐ)
+ CÔNG TY TNHH TRƯỜNG DOANH NHÂN HBR
+Mô tả công việc
+Hỗ trợ TGĐ và Giám đốc CNNT (CIO) trong việc phối hợp với các phòng ban để phân tích nhu cầu kinh doanh (BA), thiết kế hệ thống và tự động hóa các quy trình kinh doanh (RPA) nhằm nâng cao hiệu suất làm việc của tổ chức.
+Hỗ trợ TGĐ & CIO giám sát tiến độ các công việc của phòng CNTT.
+Hỗ trợ xử lí, phân tích dữ liệu, chuẩn bị báo cáo, ghi chép các nội dung cuộc họp
+Tham gia vào hoạt động tổ chức, truyền thông, đào tạo về mảng Data Science cho toàn bộ cán bộ công nhân viên.
+Báo cáo định kỳ: Cập nhật, báo cáo công việc theo quy định & khi được yêu cầu.
+Công việc khác:
+Yêu cầu chuẩn chỉnh về hình ảnh, tác phong đáp ứng tiêu chí đại sứ thương hiệu của Tập đoàn.
+Tham gia đào tạo, huấn luyện trong toàn bộ quá trình làm việc.
+Thực hiện các công việc khác theo chỉ đạo của cấp trên.
+Yêu cầu ứng viên
+Học vấn: Tốt nghiệp Đại học chuyên ngành CNTT hoặc Tài chính Doanh nghiệp/Kiểm toán/Kế toán Quản trị hoặc có liên quan và ưu tiên đã có kinh nghiệm làm về BA ở các dự án CNTT trước đó.
+Tư duy logic và hệ thống tốt; nhanh nhẹn, nhạy bén và chăm chỉ.
+Năng động, có khả năng tổ chức các hoạt động là lợi thế.
+Có khả năng viết và nghe hiểu, giao tiếp tốt.
+Có khả năng làm việc độc lập và sẵn sàng học hỏi.
+UV có kinh nghiệm làm trợ lý và phân tích BA là một lợi thế.
+Yêu thích và định hướng làm việc trong môi trường CNTT.
+Biết sử dụng AI hỗ trợ trong công việc (ChatGPT, Gemini,...).
+Quyền lợi
+Lương cứng
+: 15.000.000vnđ - 20.000.000vnđ/tháng + Thưởng KPIs
+Phụ cấp: 42.000vnđ/ngày.
+Các chính sách:
+Phụ cấp công tác.
+Đóng BHXH, BHYT.
+Du lịch, nghỉ mát, teambuilding, Year End Party...
+Nghỉ lễ theo lịch quốc gia (Tết dương lịch, 8/3, 30/4, 1/5, 1/6, trung thu...).
+Nghỉ phép năm 12 ngày/năm.
+Ưu đãi học phí lên tới 100% các khóa học tại Tiếng anh giao tiếp Langmaster.
+Ưu đãi học phí lên tới 38% các khóa học tại IELTS LangGo.
+Ưu đãi học phí lên tới 50% các khóa học tại BingGo Leaders
+Gói chính sách đào tạo bên ngoài, miễn giảm học phí nâng cao năng lực.
+Gói đào tạo phát triển năng lực tổng trị giá lên tới 100 triệu (Khóa đào tạo nội bộ tại Trường DN HBR và các khóa chuyên sâu bên ngoài khác).
+Địa điểm làm việc
+- Hà Nội: 201 Cầu Giấy, Cầu Giấy
+Thời gian làm việc
+Thứ 2 - Thứ 7 (từ 08:30 đến 17:30)
+----------------------------------
+ Software Project Manager
+ Công ty cổ phần Hạ tầng Viễn thông CMC Telecom Pro Company
+Mô tả công việc
+INTRODUCTION:
+CMC Telecom proudly holds the position of Vietnam's leading private Technology - Telecommunication Infrastructure company (An AWS Advanced Consulting Partner and the first Premier Partner of Google Cloud in Vietnam). After 15 years of constant development, CMC Telecom has successfully evolved from providing basic transmission services to providing comprehensive services through five primary business activities: Internet Transmission Channels, Data Centers, Cloud Computing, Managed Service, and Information Security.
+JOB DESCRIPTION:
+As a Software Project Manager at Ctel’s ITO Department, you will be responsible for driving project members and resources to deliver significant Tech plus Banking projects with the scope of work as follows:
+Oversee the entire project/product development process - from start to delivery.
+Participate in workshops, meetings, and discussions.
+Assist in tracking in-country application-specific issues for assigned work streams.
+Assist in risk assessment & mitigation plans.
+Facilitate cross-workstream alignment.
+Facilitate the development of a master work plan for in-country applications (development, testing..)
+Be the local contact point with the Group Central PMO team to propose, manage, support, and follow up on projects, and change requests.
+Share experience and assist in impact assessment, validation approaches, options & solutions, and identification of dependencies.
+Escalate major issues to management for attention/ decision.
+Yêu cầu ứng viên
+Business proficiency level of English.
+Around 2 - 4 years of proven experience as a full-cycle Software Project Manager or above.
+Having an overall understanding of Software coding skills, Server, Database, and Network.
+Strong leadership and organizational abilities.
+Strong attention to detail and multi-tasking skills.
+Ability to work in a fast-paced, team-oriented, result-oriented environment.
+Prior experience in a large financial institution is a big plus.
+Bachelor's degree in Computer Science or other comparable majors is a plus.
+Quyền lợi
+Salary payment mechanism included in monthly salary, annual KPI, and other bonuses. Average income 13 - 14 months salary/year.
+Performance review and salary adjustment 2 times a year.
+13 days off (12 days of annual leave and 1 day off for birthdays with full pay).
+Company-sponsored social events and gatherings.
+Regular training and team sharing sessions.
+Company team building.
+Private health check.
+PJICO care insurance.
+Participate in training courses to improve skills and operations of CMC as well as major technology companies such as Microsoft, IBM, Google,...
+Địa điểm làm việc
+- Hồ Chí Minh: 12 Tôn Đản, phường 13, Quận 4
+----------------------------------
+ Lập Trình Viên ASP.Net C#
+ Công ty Cổ phần Công nghệ Phần mềm Tinh Vân
+Mô tả công việc
+Tham gia vào các dự án của công ty và khách hàng.
+Tham gia phân tích, thiết kế phần mềm.
+Phối hợp để lên kế hoạch phát triển sản phẩm và xây dựng team.
+Làm việc tại Ba Đình, Hà Nội
+Yêu cầu ứng viên
+Có ít nhất 2 năm kinh nghiệm: ASP.net, C# VB.net, windows service
+Thành thạo Entity Framework Core
+Có thể viết Unit Test (xUnit, Moq), Intergration Test
+Ưu tiên biết thêm Neo4j (Cypher), Docker, Kubernetes, SOLID principles
+Có khả năng tư duy, học hỏi nhanh, cẩn thận, tỉ mỉ.
+Thành thạo về hệ quản trị cơ sở dữ liệu MS SQL,
+Đam mê công việc, chấp nhận thách thức công việc, cởi mở thân thiện, làm việc nhóm hiệu quả.
+Tiếng Anh đọc viết
+Quyền lợi
+Mức lương thỏa thuận theo năng lực và kinh nghiệm, upto 20 triệu/tháng
+Thưởng lương mềm dự án lên đến 2.5 tháng lương/năm
+Thưởng ngày lễ, tết theo quy định chung từng năm
+Xét lương 1 lần/ năm và đột xuất nếu hoàn thành tốt công việc
+Nghỉ thứ 7, chủ nhật, hưởng 12 ngày phép/năm
+Hưởng đầy đủ các chính sách bảo hiểm Ytế, BHXH, BH Thất nghiệp theo luật Lao động
+Sau 12 tháng làm việc được hưởng thêm gói bảo hiểm sức khỏe 24/7 (theo chính sách từng năm)
+Công ty có chính sách khuyến học: hỗ trợ chi phí cho các khóa học bên ngoài, hỗ trợ 100% chi phí thi các chứng chỉ liên quan đến IT, kỹ năng mềm
+Hưởng chế độ nghỉ mát 1 lần/năm, chế độ Teambuilding hàng quý
+Có chính sách thăm hỏi ốm đau, hiếu, hỉ, sinh nhật cho bản thân và người nhà
+Được tạo mọi cơ hội để nâng cao năng lực và phát triển năng lực bản thân.
+Hưởng đầy đủ các chính sách và chế độ như: BHYT, BHXH, BHTN,.. theo đúng quy định của Bộ Luật Lao động và của Công ty;
+Địa điểm làm việc
+- Hà Nội: Hà Nội, Ba Đình
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+----------------------------------
+ Phó Trưởng Phòng Sản Phầm Dịch Vụ Phần Mềm
+ Công ty Cổ phần Tin học - Viễn thông Hàng không
+Mô tả công việc
+1. Vai trò quản lý
+- Chịu trách nhiệm quản lý, điều hành, phân công nhiệm vụ cho các thành viên thuộc lĩnh vực phụ trách;
+- Chịu trách nhiệm về công tác chuyên môn, tư vấn giải pháp, kiến trúc thiết kế phần mềm thuộc lĩnh vực phụ trách;
+- Kiểm soát, xác nhận nội dung về sơ đồ tổ chức, chức năng nhiệm vụ, KPI,... của nhân viên thuộc lĩnh vực phụ trách
+2. Công tác Phát triển sản phẩm: Quản lý, chỉ đạo, điều hành công tác PTSP/Triển khai dự án được phân công:
+- Tiếp nhận yêu cầu phát triển từ các bên định hướng sản phẩm;
+- Nghiên cứu, phân tích, góp ý, đưa ra các giải pháp xây dựng hệ thống, thiết kế, kiến trúc công nghệ
+- Đảm bảo chuyên môn về lập trình, triển khai dự án
+3. Công tác triển khai dự án: Thực hiện theo phân công
+- Kỹ năng lập và quản lý dự án;
+- Kỹ năng xử lý các tình huống phát sinh trong quá trình triển khai dự án;
+4. Công tác ĐBHĐ, Vận hành khai thác các hệ thống ứng dụng: Chịu trách nhiệm quản lý, chỉ đạo, điều hành, tổng hợp báo cáo công tác ĐBHĐ tuân thủ quy trình, quy định thuộc lĩnh vực phụ trách
+Yêu cầu ứng viên
+- Tốt nghiệp Đại học trở lên các chuyên ngành CNTT, Toán tin, Điện tử viễn thông hoặc tương đương
+- Tối thiểu 03 năm kinh nghiệm trở lên làm việc ở vị trí tương đương hoặc techlead
+- Kiến thức chuyên môn:
++ Hiểu biết về các hệ quản trị CSDL, thành thạo về CSDL Oracle, PL/SQL...
++ Hiểu biết về các ngông ngữ lập trình, có kinh nghiệm lập trình .NET/C#, Angular, Fluter, React native, Python...
++ Hiểu biết về các hệ điều hành như Windows, Linux...
+- Ngoại ngữ: Tiếng Anh, có chứng chỉ TOEIC từ 550 trở lên hoặc tương đương
+- Yêu cầu có các Chứng chỉ/Chứng nhận sau:
+- Có đủ các Chứng chỉ/Chứng nhận:
++ Đấu thầu cơ bản/nâng cao
++ Lập và quản lý dự án CNTT
++ Giám sát thi công dự án CNTT
++ Lập dự toán chi phí đầu tư ứng dụng công nghệ thông tin
++ Chứng chỉ/ Chứng nhận lập trình phần mềm
+- Có một trong các bằng cấp/Chứng chỉ/Chứng nhận sau:
++ Comptia Project+
++ CAPM (Certified Associate in Project Management)
++ APM (Advanced Project Management)
++ Project Management PMI (R) Global Standard
++ ACP (Agile Certified Practitioner)
+Quyền lợi
+1. Thu nhập: mức lương, phụ cấp và thưởng cạnh tranh;
+2. Cơ hội đánh giá năng lực 2 lần/năm;
+3. Tham gia team building, nghỉ mát du lịch hàng năm;
+4. Chính sách phúc lợi đa dạng: Chăm sóc sức khỏe định kì hàng năm; Bảo hiểm sức khỏe;
+5. Đầy đủ các chế độ theo Pháp luật lao động hiện hành;
+6. Được tham gia các khóa đào tạo, bồi dưỡng chuyên môn nghiệp vụ, hỗ trợ thi các chứng chỉ trong nước và quốc tế;
+7. Giảm giá vé máy bay cho bản thân và gia đình – Ưu đãi độc quyền trong ngành hàng không;
+8. Cơ hội thử sức ở nhiều vị trí, và luân chuyển trong hệ thống Tổng Công ty Hàng không;
+9. Thời gian làm việc: Thứ 2-6, nghỉ Thứ 7, Chủ nhật.
+Địa điểm làm việc
+- Hà Nội: 412 Nguyễn Văn Cừ, Long Biên, Hà Nội, Long Biên
+----------------------------------
+ Thực Tập Sinh Frontend
+ Công ty cổ phần iCheck
+Mô tả công việc
+Tham gia xây dựng, phát triển frontend cho các hệ thống xử lý dữ liệu lớn, hiệu năng cao: Thương mại điện tử, Quảng cáo trực tuyến, Marketing, Loyalty, Hệ thống hỗ trợ doanh nghiệp sản xuất phân phối. Tham gia vào quá trình tìm hiểu và phân tích yêu cầu, thiết kế và tối ưu hệ thống cho hệ thống dữ liệu lớn phục vụ hàng triệu người dùng.
+Làm việc với các phòng ban khác để tham gia phát triển các tính năng, sản phẩm mới. Tham gia các buổi đánh giá chất lượng công việc của các thành viên khác trong team, hỗ trợ các thành viên phát triển các module phức tạp. Tham gia nghiên cứu và đóng góp về các công nghệ mới phục vụ cho dự án và cho công ty.
+Yêu cầu ứng viên
+Ứng viên là sinh viên chuyên ngành công nghệ thông tin đang trong quá trình chờ bằng hoặc đã tốt nghiệp
+Có thể đi làm FullTime
+Có tư duy lập trình tốt và có tính chủ động trong công việc.
+Đã từng làm đồ án tại trường
+Có kiến thức cơ bản về html, css, javascript
+Biết về Angular, VueJS là một lợi thế
+Có tinh thần trách nhiệm và tỉ mỉ trong công việc.
+Có kỹ năng làm việc nhóm
+Có khả năng đọc hiểu tài liệu tiếng Anh là một lợi thế.
+Quyền lợi
+Hỗ trợ phụ cấp + dấu thực tập
+Cơ hội tiếp cận và học hỏi công nghệ tiên tiến; được làm việc và training với những đồng nghiệp có nhiều năm kinh nghiệm làm việc với các hệ thống lớn.
+Được định hướng phát triển chuyên sâu về công nghệ, nhiều dự án lớn và công nghệ mới.
+Có cơ hội làm những việc thách thức, phát huy hết khả năng bản thân.
+Địa điểm làm việc
+- Hà Nội: Tầng 12 Diamond Flower, 48 Lê Văn Lương, Thanh Xuân
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+----------------------------------
+ Project Manager
+ CÔNG TY TNHH THƯ VIỆN PHÁP LUẬT
+Mô tả công việc
+1. Quản lý và làm cùng đội ngũ kỹ thuật để phát triển, vận hành web có lượt truy cập rất cao.
+2. Phát triển và tối ưu hệ thống với mục tiêu nâng cao trải nghiệm người dùng.
+3. Thiết kế và triển khai kiến trúc MVC, phát triển web responsive đa nền tảng.
+4. Quản lý tiến độ dự án, phân bổ nguồn lực phù hợp và giải quyết vấn đề kỹ thuật.
+5. Phát hiện nhu cầu thị trường, phối hợp với các bộ phận khác để triển khai các tính năng theo nhu cầu đó.
+6. Đề xuất và thực hiện các giải pháp công nghệ phù hợp để cải thiện sản phẩm.
+Yêu cầu ứng viên
+1. Làm việc với .NET, ASP.NET, SQL Server, MVC, HTML, CSS, Javascript,...
+2. Có kinh nghiệm quản lý dự án web quy mô khách hàng nhiều, lượng truy cập lớn.
+3. Khả năng lập kế hoạch, quản lý nhóm và triển khai dự án một cách hiệu quả.
+4. Kỹ năng giải quyết vấn đề kỹ thuật và tối ưu hóa hệ thống.
+5. Có khả năng cập nhật và áp dụng công nghệ mới để đáp ứng nhu cầu dự án.
+6. Kỹ năng giao tiếp, làm việc nhóm và tổ chức công việc tốt.
+7. Tinh thần trách nhiệm cao trong việc đảm bảo chất lượng và tiến độ dự án.
+Quyền lợi
+1 Lương thưởng thỏa mong đợi của bạn; 2 Tự do sáng tạo trong phát triển sản phẩm và khám phá công nghệ mới;
+3 Chỉ có sếp già, còn đồng nghiệp toàn 2K, năng động, nhiệt tình, thoải mái, sáng tạo và tự giác;
+4 BHXH, BHYT, phép năm, khám bệnh định kỳ, theo quy định pháp luật;
+5 Gala năm 2-3 lần, du lịch năm 1-2 lần;
+6 Thưởng theo hiệu quả và chất lượng hoàn thành Dự án/Kế hoạch.
+Địa điểm làm việc
+- Hồ Chí Minh: Số 17 Nguyễn Gia Thiều, P. Võ Thị Sáu, Quận 3 (Góc Ngô Thời Nhiệm/Trần Quốc Thảo), Quận 3
+Thời gian làm việc
+Thứ 2 - Thứ 7 (từ 07:45 đến 17:30)
+Thời gian làm việc: Từ Thứ 2 đến Thứ 7 (Sáng 7h45 đến 11h55 và Chiều: 13h40 đến 17h30).
+----------------------------------
+ Senior Game Designer
+ CÔNG TY TNHH MAPLE LABS
+Mô tả công việc
+JOB DESCRIPTION:
+We are looking for Senior Game Designer to join our new projects. Your main responsibility will be:
+Conduct market research on trends and player behavior in puzzle games.
+Develop game production plans.
+Build game levels, evaluate/analyze, and balance gameplay.
+Establish event systems, missions, and game metadata to engage players.
+Monitor data, evaluate player feedback to adjust gameplay accordingly.
+Analyze game metrics to propose product improvement directions.
+Collaborate with Artists, Developers, and Marketing teams to develop, refine, and enhance game quality.
+Yêu cầu ứng viên
+MUST HAVE:
+Proficient in using Figma for creating use flows and prototypes.
+Master game mechanics, balancing, gameplay design, and level design.
+Strong communication and presentation skills.
+Excellent analytical, creative thinking, and logical reasoning skills.
+Have a sense of aesthetics and high standards in game UI/UX.
+Good English reading comprehension is advantageous.
+Prioritize candidates with game retention over 40% on Day 1 and 500k downloads.
+Preferably understand game monetization optimization.
+Quyền lợi
+Salary:
+100% salary during probation
+13th-month salary
+Performance bonus
+Salary review at least one time per year based on employee's performance and contribution
+Health & Insurance:
+Social Health Unemployment Insurance
+Premium health insurance
+Annual health check-ups
+Annual leave
+: 12-14 days
+Working environment: Friendly and fun/ Coffee, tea, snack bar everyday/ Company trip, team building, monthly party, etc.
+Outing/team-building activities (company trip , soccer sport, running club,..);
+Work with experienced & strong team;
+Friendly, dynamic & flexible working environments
+Địa điểm làm việc
+- Hồ Chí Minh: B0011 - B0012, Sarica Block B2, số 6 đường D9, P. An Lợi Đông, Quận 2
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+----------------------------------
+ Internal Business Analyst
+ CÔNG TY CỔ PHẦN TRƯỜNG HỌC CÔNG NGHỆ MINDX
+Mô tả công việc
+Responsibilities
+Product design
+Perform stakeholder and users needs analysis, and present findings to Product Owner Team
+Propose solutions and/or designs to meet stakeholders needs to Product Team then Engineering Team as designated
+Product planning and execution
+Oversee the creating process of products. Consult the engineering team for necessary adjustments while creating products;
+Execute quality and progress control activities during the creating process until the final product in consistency with plans.
+Product launch
+Introduce new features/ products to the users. Educate/ train them to best utilize those features/ products;
+Facilitate/ assist and ensure the users’ adoption and effective usage of the products.
+Product maintenance
+Collect feedback from the stakeholders and users;
+Team up with the maintenance & support team to resolve issues, fix bugs, improve the quality of the product and upgrade product features.
+Yêu cầu ứng viên
+At least 2 years of relevant experience
+Good written and spoken communication skills to both tech and non-tech teams (ability to represent products at a professional level is a plus);
+Good critical thinking and evidence-based decision making skills;
+Experience in working with C-level stakeholders is a big plus
+Proficient in UML or BPMN
+Good understanding of agile processes (scrum or XP);
+Experience in working with 3rd party APIs is a big plus
+Passion for creating tools to enable or improve performance of others;
+Have growth mindset, be able to adapt and willing to learn;
+Good leadership and initiative;
+Good knowledge of UI/UX;
+Solid work ethics and high integrity.
+Quyền lợi
+Salary
+Salary package is up to $1000 gross per month + ESOP; (or negotiable);
+Salary is reviewed every 6 months.
+Training and self-development
+Opportunity to participate in Employee Stock Ownership Plan (ESOP) for members who make significant contributions to the company’s growth;
+Work in a company with exponential growth over years, many ambitious projects, and meaningful and interesting jobs;
+Be empowered to implement new ideas and maximize self-development;
+Be one of the leading experts on the Tech education market by taking part in the creation of the first EdTech products in the region/ world.
+Working Environment
+Flexible working modes (between remote and on-site works);
+Modern office with creative, energetic working space which provides comfortable accommodation;
+Annual leave, holidays break and Social Insurance pursuant to the current law ;
+A young, dynamic, and fair working environment with 8x & 9x teammates who are enthusiastic both at work and at parties;
+Internal activities like personal birthdays, holidays, New Year party, team building, vacation trips and so on;
+Free access to all coworking spaces of the company in both Hanoi and HCM City.
+Địa điểm làm việc
+- Hà Nội: Tầng 5, số 71 Nguyễn Chí Thanh, P. Láng Hạ, Q. Đống Đa, Hà Nội, Đống Đa
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)
+----------------------------------
+ Thực Tập Sinh Business Analyst
+ Top On Seek (TOS) Ltd.
+Mô tả công việc
+Tham gia hỗ trợ (được training) trong việc:
+- Thu nhập và phân tích các yêu cầu của khách hàng và đưa ra mô hình, giải pháp dựa trên yêu cầu đó.
+- Viết tài liệu đặc tả của dự án.
+- Truyền đạt nội dung, hỗ trợ các thành viên team tech, quản lý dự án để làm rõ yêu cầu của khách hàng cần đáp ứng.
+- Tham gia test UAT để đảm bảo chất lượng sản phẩm đúng với yêu cầu của KH.
+- Tổ chức hướng dẫn, hỗ trợ cho người dùng sử dụng sản phẩm và xử lý sự cố khi vấn đề xảy ra.
+- Báo cáo công việc định kỳ cho quản lý trực tiếp.
+Yêu cầu ứng viên
+- Là sinh viên năm cuối hoặc mới ra trường có chuyên ngành về CNTT, Khoa học máy tính hoặc tương tự, có thể thực tập fulltime.
+- Có kỹ năng giao tiếp, thuyết trình, tư duy logic và lập kế hoạch.
+- Kỹ năng làm việc nhóm và chủ động trong công việc.
+- Nhanh nhẹn, cẩn thận, có tinh thần trách nhiệm với công việc và ham học hỏi.
+- Biết sử dụng phần mềm figma và giao tiếp tiếng Anh là một lợi thế.
+Quyền lợi
+- Trợ cấp thực tập: 3.000.000 đồng/tháng.
+- Tham gia vào những dự án thực tế của Công ty.
+- Môi trường làm việc năng động, nhiệt huyết.
+- Cơ hội học hỏi và làm việc trực tiếp cùng các leader đầy kinh nghiệm.
+- Có cơ hội trở thành nhân viên chính thức sau kỳ thực tập.
+Địa điểm làm việc
+- Hồ Chí Minh: 42/37 Hoàng Diệu, Quận 4
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 09:00 đến 18:00)
+----------------------------------
+ Chuyên Viên Triển Khai Và Vận Hành Phần Mềm
+ CÔNG TY CỔ PHẦN CÔNG NGHỆ UPBASE
+Mô tả công việc
+Trao đổi với khách hàng, làm việc với BOD và các cấp Manager để nắm được và đánh giá thực trạng về quy trình, vận hành và hoạt động của doanh nghiệp.
+Tìm hiểu về nhu cầu quản trị của BOD, nhu cầu phối hợp làm việc giữa các phòng ban, nhu cầu quản trị vận hành, hiệu suất, chi phí, báo cáo của các bộ phận: Marketing, Sales, CSKH, HR, Kế Toán...
+Tư vấn, đề xuất xây dựng, hoàn thiện và tối ưu các quy trình, hoạt động và phối hợp công việc giữa các phòng ban và quản trị vận hành.
+Tối ưu hóa, tự động hóa, quản trị việc vận hành quy trình bằng các giải pháp công nghệ Larksuite, CRM, HRM, Omni.
+Nhận thông tin của khách hàng về các vấn đề trong quá trình vận hành và tối ưu hóa, công nghệ hóa quy trình hoạt động, đưa ra các phương án và giải quyết đảm bảo sự hài lòng của khách hàng doanh nghiệp.
+Đào tạo các CBNV, phòng ban sử dụng công cụ làm việc như Lark và các phần mềm CRM tích hợp làm nền tảng để trao đổi, phối hợp, học tập.
+Phối hợp cùng team để hoàn thiện quy trình, nâng cao chất lượng của Sản Phẩm, Dịch Vụ tới Khách Hàng.
+Yêu cầu ứng viên
+Ưu tiên có kinh nghiệm trong lĩnh vực triển khai phần mềm/dịch vụ hoặc có kinh nghiệm làm việc về quy trình, nghiệp vụ.
+Có kinh nghiệm sử dụng, triển khai Lark, CRM, HRM, Omni (là lợi thế)
+Có tinh thần chủ động, ham học hỏi, có tư duy logic và dữ liệu.
+Kỹ năng phân tích giải quyết và xử lý vấn đề, tư duy giải pháp.
+Kỹ năng teamwork giữa các bộ phận tốt.
+Kỹ năng giao tiếp và tư vấn tốt.
+Quyền lợi
+Thu nhập 15.000.000 - 20.000.000vnđ ++
+Thưởng tháng lương 13- 14 (Theo tình hình sản xuất kinh doanh)
+Thưởng nóng, thưởng dự án
+Chế độ đãi ngộ dành cho CBNV và người thân hàng năm
+Khám sức khỏe định kỳ hàng năm cho CBNV
+Chế độ thưởng cổ phần ESOP hàng năm
+Đóng BHXH, BHYT, BHTN theo quy định
+Review lương 1-2 lần/ năm
+Du lịch, teambuilding 1-2 lần/ năm
+Được tham gia các chương trình đào tạo và huấn luyện chuyên môn do công ty tổ chức
+Môi trường làm việc năng động, chuyên nghiệp, có cơ hội phát triển nghề nghiệp cao.
+Chế độ làm việc 5 ngày/ tuần. Từ 8h00 - 17h30 (Nghỉ thứ 7 và chủ nhật.
+Địa điểm làm việc
+- Hà Nội: Tầng 3, Diamond Flower, 48 Lê Văn Lương, P Nhân Chính, Thanh Xuân
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+----------------------------------
+ Creative Designer
+ CÔNG TY TNHH KIẾN TRÚC NỘI THẤT APA
+Mô tả công việc
+Phụ trách thiết kế và triển khai các đầu việc của APA: Thiết kế hình ảnh, đồ họa phục vụ cho các hoạt động branding/ marketing của dự án
+Thiết kế tư liệu hình ảnh cho các kênh social network (Facebook, Instagram, Thread, Tiktok,...)
+Thiết kế các nội dung hình ảnh khác theo yêu cầu của Trường ĐH Kiến trúc Hà Nội
+Phối hợp với các bộ phận khác để triển khai các dự án branding/ marketing
+Yêu cầu ứng viên
+1.1 Yêu cầu về chuyên môn:
+Có ít nhất 01 năm kinh nghiệm tại vị trí Graphic Designer hoặc Intern tại các Agency, công ty chuyên ngành quảng cáo, marketing
+Học chuyên ngành thiết kế chuyên sâu/branding là một lợi thế
+Sử dụng thành thạo các phần mềm thiết kế: Adobe Photoshop, Adobe Illustrator, Adobe InDesign,...
+1.2. Yêu cầu về kỹ năng khác:
+Tư duy logic & thẩm mỹ cao về hình ảnh, nhạy bén với xu hướng mới.
+Có khả năng phát triển ý tưởng, concept sáng tạo phù hợp với yêu cầu của sản phẩm và dự án.
+Có khả năng giao tiếp và truyền đạt ý tưởng tốt.
+Năng động, nhiệt tình, kiên trì, chịu khó, chịu được áp lực và cường độ công việc cao
+Chủ động trong việc trao đổi, xử lý và phản hồi khi thực hiện các tư liệu, ấn phẩm của dự án.
+Quyền lợi
+Mức lương: 9.000.000 vnđ - 12.000.000 vnđ
+Thưởng theo hiệu quả công việc
+Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo quy định
+Du lịch, nghỉ mát theo quy định của công ty
+Môi trường làm việc trẻ, chuyên nghiệp, năng động
+Địa điểm làm việc
+- Hà Nội: LK 11A02 Khu đô thị Mỗ Lao - Hà Đông, Hà Đông
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)
+----------------------------------
+ Nhân Viên Thiết Kế
+ CÔNG TY TNHH LIMONCG
+Mô tả công việc
+Chịu trách nhiệm cho các phạm vi công việc liên quan đến thiết kế như: hình ảnh sản phẩm, bộ nhận diện thương hiệu, sáng tạo logo, Key Visual, các ấn phẩm offline, online, biết dựng phim,....
+Cắt ghép video cơ bản phục vụ chạy facebook ads, tiktok,...;
+Nắm bắt yêu cầu của khách hàng và hiểu rõ về mục tiêu thương hiệu để tạo ra các thiết kế độc đáo và phù hợp.
+Đảm bảo tính nhất quán và chất lượng của các thiết kế trong các dự án đa dạng.
+Yêu cầu ứng viên
+Sử dụng thành thạo các phần mềm design như AI, photoshop, indesign,...
+Phần mềm chỉnh sửa video và các công cụ hỗ trợ khác.
+Ưu tiên đã từng làm qua nghành làm đẹp, mỹ phẩm, health care, ...
+Từng làm việc hoặc am hiểu về bán hàng qua facebook hoặc các trang thương mai điện tử khác
+Quyền lợi
+Mức lương: từ 9 triệu VNĐ đến 15 triệu VNĐ tùy theo năng lực
+Nghỉ ngày thứ 7 và Chủ nhật.
+Đóng bảo hiểm đầy đủ và các phúc lợi khác.
+Môi trường làm việc trẻ trung và năng động.
+Team Building hàng năm.
+Lộ trình phát triển và thăng tiến cụ thể.
+Cơ hội làm việc trong môi trường năng động, chuyên nghiệp, có nhiều cơ hội học hỏi và thăng tiến, và được tạo điều kiện để phát huy hết năng lực của bản thân.
+Sau thời gian làm 1-3 tháng có thể làm việc vừa online- vừa ofline
+Địa điểm làm việc
+- Hồ Chí Minh: 156/1/8, đường Cộng Hòa, phường 12., Tân Bình
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+----------------------------------
+ Middle IOS Developer (Swift, Objective_C)
+ Công ty Cổ phần Giải pháp Phần mềm Biplus Việt Nam
+Mô tả công việc
+Tham gia phát triển các hệ thống phần mềm trên hệ điều hành IOS , bao gồm:
+Tham gia phân tích yêu cầu khách hàng và xây dựng tài liệu giải pháp.
+Phát triển và sửa lỗi các tính năng.
+Đóng góp vào các hoạt động chia sẻ tri thức và cải tiến liên tục.
+Yêu cầu ứng viên
+Có từ 3 năm kinh nghiệm phát triển ứng dụng iOS trở lên.
+Sử dụng thành thạo ngôn ngữ Swift, có hiểu biết về Objective-C
+Có kinh nghiệm làm với Flutter là lợi thế.
+Có kinh nghiệm làm việc về Web Service (RESTFUL API – JSON)
+Thành thạo Git
+Nắm chắc kiến thức về MVP/OOP/MVVM.
+Có khả năng làm việc với Interface Builder và Auto Layout.
+Hiểu biết về các nguyên tắc thiết kế UI/UX trên iOS.
+Hiểu biết về các kỹ thuật gỡ lỗi trên Xcode.
+Nắm được các kỹ thuật tối ưu hóa hiệu suất ứng dụng trên thiết bị di động.
+Tiếng anh giao tiếp tốt.
+Kỹ năng giao tiếp, giải quyết vấn đề, kỹ năng làm việc nhóm tốt, luôn sẵn sàng hỗ trợ các thành viên khác trong dự án.
+Chịu được áp lực cao trong công việc, có khả năng làm việc độc lập, chủ động giải quyết vấn đề để hoàn thành nhiệm vụ.
+Cam kết, ham học hỏi.
+Quyền lợi
+Mức lương (Net) thỏa thuận theo năng lực.
+Thưởng quý, thưởng cuối năm (1-3 tháng lương).
+Đánh giá năng suất và xét tăng lương 2 lần/năm.
+Tài trợ 100% phí thi các chứng chỉ quốc tế; phụ cấp chứng chỉ chuyên môn.
+Khám sức khoẻ định kỳ; thẻ bảo hiểm chăm sóc sức khoẻ cao cấp, BHXH, nghỉ lễ theo qui định.
+Được làm việc với các dự án tạo nên xu hướng công nghệ như: fintech, digital transformation. Tham gia vào các dự án hiệu năng cao, số lượng dữ liệu lớn và tập khách hàng lớn. Sử dụng các công nghệ mới nhất như: microservices, spring boot.
+Được làm việc trên các hệ thống lớn với các bài toán công nghệ phức tạp.
+Tham gia vào nhóm phát triển Scrum tự chủ, linh hoạt và năng suất cao theo mô hình Agile/Scrum.
+Môi trường làm việc trẻ, năng động, vui vẻ, hạnh phúc với các hoạt động văn hóa sôi động như retreat, picnic, team building, happy event, BiPlus radio, ...
+Được làm nhiều, được thử nhiều và được sai, học thực chiến trong công việc
+Liên tục phát triển năng lực thông qua các hoạt động học tập (company learning hour, team learning hour, club), đào tạo, mentoring, coaching,...
+Được phản hồi thường xuyên liên tục và huấn luyện để phát triển năng lực và đạt hiệu suất công việc ngày càng cao (CFRs- Conversation - Feedback - Recognition tháng và 6 tháng).
+Địa điểm làm việc
+- Hà Nội: Số 85 - Trần Thái Tông, Cầu Giấy
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+----------------------------------
+ Senior ReactJS Developer
+ CÔNG TY TNHH BLUE DRAGON COMMUNICATIONS
+Mô tả công việc
+Develop responsive and user-friendly web applications using React.js.
+Collaborate with UI/UX designers to implement elegant and intuitive user interfaces.
+Optimize applications for maximum speed and scalability.
+Work closely with backend developers to integrate front-end components.
+Stay abreast of emerging technologies and trends in front-end development.
+Yêu cầu ứng viên
+Minimum of 7 years of experience in ReactJS development.
+Proficient in JavaScript and ReactJS libraries.
+Extensive knowledge of front-end development and UI/UX design principles.
+Experience with state management libraries like Redux.
+Strong problem-solving skills and attention to detail.
+Quyền lợi
+Competitive salary based on experience Health and dental insurance coverage Opportunities for professional development and growth Collaborative and innovative work environment
+Địa điểm làm việc
+- Hồ Chí Minh: Dự án D VERANO, Căn B1 Khu đô thị mới Thủ Thiêm, Phường An Khánh, Quận 2
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+----------------------------------
+ Manual Tester (Nhân Viên Kiểm Thử Phần Mềm)
+ Viettel Software
+Mô tả công việc
+Tham gia các dự án phát triển phần mềm
+Phối hợp với nhóm phát triển sản phẩm, tìm hiểu và làm rõ các yêu cầu của khách hàng.
+Đọc hiểu các tài liệu liên quan đến dự án phát triển phần mềm.
+Xây dựng test plan/testcasse/test procedures/ test data cho các dự án.
+Thiết lập môi trường kiểm thử, sử dụng các công cụ kiểm thử phần mềm, test và quản lý lỗi đảm bảo hiệu quả cho dự án. Kiểm soát chất lượng đảm bảo hệ thống/sản phẩm được tạo đúng như thiết kế.
+Tham gia xây dựng các tài liệu dự án như user guide, video tutorial
+Yêu cầu ứng viên
+Ít nhất từ 1 năm kinh nghiệm kiểm thử các dự án công nghệ ở các lĩnh vực (tuyển dụng all level từ Junior - Senior)
+Có kiến thức tổng quan về hệ thống CNTT, dịch vụ CNTT
+Làm việc tốt với CSDL, thành thạo SQL.
+Đã có kinh nghiêm test API
+Nắm rõ quy trình phát triển phần mềm (đã có kinh nghiệm với Agile, Scrum là lợi thế).
+Có kiến thức về kỹ thuật kiểm thử, các loại kiểm thử khác nhau. Có khả năng tổ chức, điều phối hoạt động kiểm thử và sử dụng thành thạo ít nhất 01 công cụ kiểm thử như Redmine, Jira,...
+Cẩn thận, tỉ mỉ, có trách nhiệm trong công việc. Có tư duy logic tốt, có khả năng làm việc độc lập và làm việc nhóm
+Ưu tiên các ứng viên đã có kinh nghiệm thực tế làm kiểm thử phần mềm, các ứng viên có chứng chỉ kiểm thử như ISTQB, CAST, CETPA,...
+Đối với ứng viên Senior Level trở lên: Có khả năng lead team Tester là một lợi thế; có khả năng xây dựng và đào tạo đội ngũ, lên kế hoạch và triển khai thực hiện.
+Quyền lợi
+1. Chế độ lương, thưởng, thu nhập:
+Thu nhập cạnh tranh, thỏa thuận theo năng lực
+Phúc lợi: Lương tháng 13, thưởng Bonus, Hỗ trợ ăn trưa, điện thoại, nghỉ mát
+Thưởng ngày lễ và các ngày chỉ có ở Viettel như Ngày Sáng Tạo - 1/6, 22/12, quà Tết Dương, Tết Âm tri ân Gia đình, người sinh thành.
+Nghỉ phép năm: 16 ngày/năm
+Đánh giá tăng lương 2 lần/năm
+Được đóng đầy đủ về các chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và các gói bảo hiểm sức khỏe khác.
+Bảo hiểm tư nhân Pijico đóng free khi lên nhân viên chính thức
+Hàng năm CBNV được tham gia khám sức khỏe định kỳ tại các bệnh viện lớn
+2. Môi trường làm việc
+Được làm việc trong Tập đoàn toàn cầu, tiên phong thực hiện sứ mệnh kiến tạo xã hội số.
+Môi trường mở, trẻ trung, năng động, trân trọng, yêu thương, tương hỗ & lắng nghe mỗi người từ những ý tưởng nhỏ nhất.
+Không gian làm việc xanh, mở, hiện đại.
+3. Cơ hội phát triển bản thân
+Có cơ hội thử sức trong lĩnh vực công nghệ tiên tiến, hiện đại nhất.
+Được thử sức với các dự án hấp dẫn, thử thách đủ lớn trong và ngoài nước để trưởng thành.
+Được trao quyền sáng tạo với đam mê của tuổi trẻ.
+Cơ hội học hỏi từ các chuyên gia hàng đầu, lãnh đạo và đồng nghiệp ưu tú.
+Cơ hội được đào tạo, trau dồi kĩ năng, chuyên môn để phát triển toàn diện.
+4.Địa điểm làm việc
+Viettel Software: Tầng 4 & 5, Tòa nhà Thành Công, 80 Dịch Vọng Hậu, Cầu Giấy, Hà Nội
+Thời gian làm việc: Từ thứ 2 đến thứ 6, nghỉ T7 & CN
+Địa điểm làm việc
+- Hà Nội: Tầng 5, Tòa nhà Thành Công, 80 Dịch Vọng Hậu, Cầu Giấy
+----------------------------------
+ IT Support (Tiếng Anh Giao Tiếp Cơ Bản)
+ Công ty TNHH Tổng công ty Công nghệ & Giải pháp CMC
+Mô tả công việc
+Xử lý sự cố, chẩn đoán, giải quyết các vấn đề liên quan đến người dùng (End-user) qua hệ thống ticket
+Cài đặt máy tính cấp cho nhân viên mới (Hệ điều hành, email, máy in, scan, software thông dụng, cáp mạng)
+Cài đặt và tháo gỡ các phần mềm ứng dụng (Office 365, Teams..)
+Thu hồi máy tính khi nhân viên nghỉ việc
+Khắc phục các lỗi liên quan đến phần cứng PC, laptop, máy in, photocopy, scan.
+Xử lý sự cố liên quan mạng (Internet, LAN, Printer, Camera)
+Xử lý lỗi liên quan máy chấm công (timekeeper), thiết bị mạng, UPS, tổng đài.
+Dán nhãn thiết bị, quản lý tài sản IT.
+Quản lý license phần mềm.
+Định kỳ Disk Clean-up, Scan Antivirus.
+Monitoring (backup, camera, timekeeper, thiết bị mạng, internet,...)
+Backup dữ liệu người dùng
+Quản lý Tape backup
+Theo dõi tình trạng mực in, linh kiện hư hỏng, báo cáo khách hàng mua mới thay thế.
+Báo cáo định kỳ và đề xuất phương án tối ưu
+Yêu cầu ứng viên
+Học vấn/Bằng cấp: Cao đẳng, Đại học chuyên ngành CNTT, mạng..
+Kinh Nghiệm: 06 tháng - 01 năm (Helpdesk)
+Ngoại ngữ: Tiếng anh giao tiếp với KH nước ngoài
+Kỹ năng giao tiếp tốt trong đội nhóm, giữa các phòng ban
+Quyền lợi
+THU NHẬP
+Lương tháng 10 - 12M/tháng theo năng lực và vị trí công tác
+Thưởng 1 tháng lương + Phụ cấp onsite
+Gói phúc lợi tiền mặt 9 triệu/năm vào các dịp Lễ, Tết, Sinh nhật Tập đoàn...
+Xét tăng lương theo năng lực và kết quả công việc định kỳ 1 lần/năm. Hoặc tăng lương đột xuất theo hiệu quả công việc.
+CHẾ ĐỘ ĐÀO TẠO VÀ PHÁT TRIỂN Đài thọ 100% chi phí tham gia các khóa học, thi chứng chỉ CNTT Quốc tế.
+Chính sách phát triển, thăng tiến theo Career Path phù hợp với từng vị trí, từng phòng ban.
+Cơ hội tiếp cận với các công nghệ mới nhất: Cloud, Big data...
+Cơ hội làm việc trong Công ty là Top 1 đối tác tư vấn và cung cấp, triển khai giải pháp Chuyển đổi số, Bảo mật, Cloud cho tổ chức và doanh nghiệp tại Việt Nam
+BẢO HIỂM VÀ CHÍNH SÁCH ĐÃI NGỘ
+Thời gian làm việc: Thứ Hai - Thứ sáu & 2 thứ 7/1 tháng
+Nghỉ phép: 12 ngày/ năm + 1 ngày nghỉ hưởng lương vào dịp sinh nhật bản thân CBNV
+Bảo hiểm xã hội, Bảo hiểm y tế, Bảo hiểm thất nghiệp theo quy định Nhà nước
+Chế độ bảo hiểm nâng cao: CMC Care
+Chế độ đãi ngộ thai sản nâng cao dành cho nhân viên nữ
+Du lịch hàng năm 1 tuần, teambuilding/dã ngoại định kì 2 lần/năm
+Tham gia các Câu lạc bộ của Công ty và các chương trình trải nghiệm nhân viên đa dạng và phòng phú
+Được trang bị laptop/thiết bị công nghệ trong quá trình làm việc.
+Môi trường làm việc sáng tạo, đổi mới dựa trên 5 giá trị cốt lõi là 5C (C-Speed, Creativity, Commitment, Customer Centricity, Positive Thinking & “Can-do” Attitude).
+Địa điểm làm việc
+- Hà Nội: Ocean Park, Gia Lâm
+Thời gian làm việc
+Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)
+----------------------------------
+ Chuyên Viên Đảm Bảo Quy Trình (ISO 27001)
+ Công ty Cổ phần Tập đoàn Meey Land
+Mô tả công việc
+Xây dựng, cải tiến liên tục hệ thống văn bản quản lý nội bộ trong Công ty.
+Tư vấn, hướng dẫn, hỗ trợ trong quá trình xây dựng/soạn thảo văn bản và thẩm định/soát xét các văn bản trước khi phát hành.
+Phối hợp triển khai đánh giá nội bộ và phối hợp các bộ phận trong Công ty khắc phục các điểm không phù hợp.
+Phối hợp tổ chức và tham gia các đợt đánh giá cấp chứng nhận cho Công ty.
+Truyền thông, đào tạo các văn bản thuộc hệ thống quản lý chung.
+Báo cáo kết quả thực hiện công việc cho cấp quản lý trực tiếp định kỳ/đột xuất.
+Yêu cầu ứng viên
+Tốt nghiệp Đại học hệ chính quy chuyên ngành Công nghệ thông tin, Quản lý chất lượng, Luật, Quản trị kinh doanh,...
+Tối thiểu 2 năm kinh nghiệm ở vị trí tương đương trong các công ty Công nghệ, tổ chức Tài chính, Ngân hàng
+. Ưu tiên ứng viên có kinh nghiệm trong lĩnh vực Proptech và Fintech.
+Có kinh nghiệm triển khai ISO hoặc xây dựng hệ thống văn bản quản lý nội bộ tại các công ty công nghệ, tổ chức tài chính, ngân hàng
+Triển khai các công tác quản trị rủi ro hoạt động nhằm nhận diện, đánh giá, kiểm soát và báo cáo các rủi ro trọng yếu trong các hoạt động.
+Có hiểu biết hoặc có chứng chỉ đào tạo nhận thức và đánh giá viên nội bộ tiêu chuẩn ISO 27001 & ISO 9001.
+Khả năng làm việc độc lập và chịu được áp lực công việc tốt
+Kỹ năng giải quyết vấn đề và giao tiếp tốt
+Quyền lợi
+Chế độ đãi ngộ
+Mức lương: cạnh tranh hấp dẫn (sẵn sàng offer cao khi đủ năng lực) + Phụ cấp (Ăn ca: 700.000 VNĐ/tháng; Gửi xe: 120.000 VNĐ/tháng; trợ cấp máy tính cá nhân (nếu có): 300.000 VNĐ/tháng).
+Chính sách thưởng: Thưởng Lễ, Tết, sinh nhật + thưởng dự án + thưởng thâm niên + Lương tháng 13 + các thưởng khác theo quy định Công ty tại thời điểm hiện hành.
+Làm việc trong môi trường trẻ trung, năng động, coi trọng năng lực và khả năng sáng tạo
+Thường xuyên tổ chức các hoạt động mini game, chương trình các ngày Lễ, Tết, sinh nhật, tham gia hoạt động Teambuilding của công ty...
+Đào tạo – Phát triển
+Cơ hội tiếp cận và học hỏi công nghệ tiên tiến, công nghệ mới
+Được công ty tạo điều kiện và hỗ trợ khi tham gia các khóa đào tạo, phát triển năng lực.
+Có cơ hội làm những việc thách thức, phát huy hết khả năng bản thân.
+Tham gia các sản phẩm công nghệ mới theo kế hoạch phát triển của công ty.
+Chăm sóc sức khỏe, đời sống
+Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo luật bảo hiểm.
+Được tặng quà, thăm hỏi nhân các dịp: sinh nhật, cưới hỏi, hiếu hỉ, ốm đau...
+Có thể tham gia các câu lạc bộ thể thao: đá bóng, tập yoga, thể dục cải thiện sức khoẻ...
+Địa điểm làm việc
+- Hà Nội: 97-99 Láng Hạ, Đống Đa
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 18:00)
+Checkin linh hoạt từ: 7.30-09.00 am
+----------------------------------
+ Thực Tập Sinh Support SAP LOG (Phân Hệ PP)
+ Công ty Cổ phần Quốc tế Sơn Hà
+ Pro Company
+Mô tả công việc
+Khảo sát và thu tập thông tin yêu cầu người dùng
+Hỗ trợ người dùng vận hành hệ thống
+Hỗ trợ phân tích FIT/GAP của hệ thống, hỗ trợ xây dựng, điều chỉnh quy trình nghiệp vụ
+Hỗ trợ quản lý, phân tích, đánh giá giải pháp đề xuất của đối tác triển khai
+Hỗ trợ và kiểm tra giải pháp trên hệ thống, kiểm thử hệ thống và đào tạo người dùng kiểm thử, sử dụng hệ thống
+Các Công việc khác theo sự phân công của quản lý trực tiếp
+Yêu cầu ứng viên
+1. Chứng chỉ/bằng cấp:
+- Sinh viên mới tốt nghiệp/ năm cuối các Khối ngành Kinh Tế/Hệ thống thông tin.
+- Sử dụng tốt tiếng Anh trong đọc/viết tài liệu chuyên môn nghiệp vụ
+2. Kiến thức nghiệp vụ chuyên môn:
+- Ưu tiên ứng viên có sẵn sàng học hỏi về SAP, các nghiệp vụ trong mảng LOG và phân hệ PP
+- Ưu tiên ứng viên đã có kinh nghiệm, hiểu biết về các phân hệ SD, MM, QM,...
+- Có kinh nghiệm tham gia tối thiểu từ 1 đến 2 dự án SAP S4/HANA
+3. Chứng chỉ/kỹ năng về kỹ thuật (nếu có):
+Hiểu biết về ABAP là một lợi thế
+Có khả năng phân tích, giải quyết vấn đề và quản lý công việc
+Quyền lợi
+Môi trưởng làm việc năng động, chuyên nghiệp tại Tập đoàn Sơn Hà
+Được đào tạo, hướng dẫn chuyên môn nghiệp vụ
+Hỗ trợ thu nhập
+Phụ cấp ăn trưa 35,000đ/ngày, gửi xe miễn phí
+Được tham gia các hoạt động tập thể, các sự kiện nội bộ tại Tập đoàn
+Trải nghiệm những tiện ích văn phòng hạng A tại tòa nhà Capital Place Liễu Giai.
+Địa điểm làm việc
+- Hà Nội: Tòa nhà Capital Place, Số 29 Liễu Giai, Ngọc Khánh, Ba Đình, Hà Nội, Ba Đình
+Thời gian làm việc
+Thứ 2 - Thứ 7 (từ 08:00 đến 17:00)
+Nghỉ Chủ nhật và Các T7 cách tuần
+----------------------------------
+ Junior Lowcode Developer
+ Công ty Cổ phần Công nghệ Phần mềm Tinh Vân
+Mô tả công việc
+Tham gia phát triển các ứng dụng trên web/app cho các khách hàng Nhật và Âu Mỹ
+Tham gia đầy đủ toàn bộ các quy trình phát triển của một dự án phần mềm: làm việc với khách hàng tìm hiểu yêu cầu, phân tích, thiết kế, lập trình, triển khai, nghiên cứu công nghệ....
+Được đào tạo giải pháp của các hãng lớn trên thế giới như Oracle, IBM, Microsoft
+Làm việc theo sự phân công của Trưởng nhóm/Quản lý dự án, phối hợp giữa các nhóm để phát triển sản phẩm.
+Địa điểm làm việc: 15 Lê Văn Thiêm, Thanh Xuân, HN
+Yêu cầu ứng viên
+Từ 1 năm kinh nghiệm Sẵn sàng làm việc toàn thời gian, ưu tiên base IT
+Có kinh nghiệm với một ngôn ngữ lập trình (.NET, Java, Python) và mong muốn học và làm việc với Lowcode
+Có khả năng chịu áp lực và sẵn sàng chuyển đổi công nghệ Có hiểu biết về công nghệ ứng tuyển
+Kiến thức lý thuyết về các phương pháp hay về phát triển phần mềm và các mẫu thiết kế phần mềm cơ bản Kỹ năng giải quyết vấn đề và thái độ hướng tới giải pháp Khả năng làm việc độc lập và trong môi trường nhóm Ưu tiên có tiếng Nhật
+Quyền lợi
+Mức lương thỏa thuận theo năng lực và kinh nghiệm, upto 15 Triệu/tháng
+Lương tháng thứ 13 + thưởng dự án lên đến 2 tháng lương/năm.
+Thưởng Lễ tết, thưởng dự án theo chính sách từng năm
+Tăng lương định kỳ 1 năm 1 lần, tăng lương khi có chứng chỉ chuyên môn, tiếng Nhật
+Tham gia BHXH theo quy định của pháp luật, Du lịch hàng năm, Team building hàng quý
+Được Training về kỹ năng công nghệ, các kỹ năng mềm, các kỹ năng quản lý dự án Tham gia các hội thảo công nghệ, khóa học nâng cao chuyên môn công việc.
+Được giao tiếp, làm việc hàng ngày tiếng Nhật bởi người Nhật
+Sau 12 tháng làm việc sẽ có thêm BHSK 24/7 theo chính sách năm 2024
+Địa điểm làm việc
+- Hà Nội: 15 Lê Văn Thiêm, Thanh Xuân
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+----------------------------------
+ 3D Character Modeling Artist
+ CÔNG TY TRÁCH NHIỆM HỮU HẠN VALOFE VIỆT NAM
+Mô tả công việc
+- Tạo tài nguyên nhân vật game, cụ thể là tạo model và texture áo giáp, vũ khí, nhân vật và sinh vật, NPC cho game.
+- Modeling theo concept có sắn.
+- Tạo các biến thể mới của nội dung nhân vật hiện có.
+- Tích hợp những final asssets vào game engine.
+- Quản lý resource theo từng game.
+Yêu cầu ứng viên
+- Có kỹ năng texture hand painting tốt - Có ít nhất 3 năm kinh nghiệm trở lên về modeling character bằng cách sử dụng 3Ds MAX (hoặc maya), zbrush, Substance, photoshop,...
+- Có kinh nghiệm và kiến thức tốt về modeling, sculpting, retopology, UVing, baking.
+- Có kinh nghiệm sử dụng engine game.
+Ưu tiên:
+- Ưu tiên ứng viên học chuyên ngành mỹ thuật tại Trường Đại học, Cao đẳng.
+- Ưu tiên ứng viên có kinh nghiệm về character tại công ty game, có khả năng vẽ tay tốt.
+Quyền lợi
+- Hưởng đầy đủ lương thưởng tháng 13, nghỉ phép và các chế độ phúc lợi xã hội: BHYT, BHXH, BHTN theo luật lao động hiện hành. Nghỉ hè, nghỉ sinh nhật hưởng 100% lương.
+- Trợ cấp ăn trưa 1 triệu/ tháng. Trợ cấp hiếu hỉ, quà cáp lễ tết, sinh nhật,.. trợ cấp cà phê, bánh kẹo, trà, cà phê miễn phí
+- Xét tăng lương định kỳ
+- Cơ hội tham gia các dự án Mobile Game chất lượng cao để phát triển bản thân như game Strategy&Tactical Role Playing, Simulation City Builder, Scrolling Action-RPG, MMORPG (ICA M), Simulation Sport RPG (FISH), MO ARPG (Kritika)
+- Thời gian làm việc: 8am-5pm từ thứ 2 đến thứ 6 ( Nghỉ thứ 7 và Chủ Nhật)
+Địa điểm làm việc
+- Hà Nội: Công ty TNHH VALOFE Việt Nam, Tầng 5, Tòa Imperia Garden, số 143 Nguyễn Tuân, Thanh Xuân, Hà Nội, Thanh Xuân
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+----------------------------------
+ Nhân Viên Thiết Kế Đào Tạo
+ Công ty Cổ phần Tập đoàn Hoa Sen
+ Pro Company
+Mô tả công việc
+Thiết kế, biên tập hình ảnh, poster, video, tập san,...phục vụ đào tạo và truyền thông nội bộ.
+Quản trị, vận hành Hệ thống đào tạo trực tuyến E-learning (Có thể được hướng dẫn)
+Thực hiện các công tác truyền thông nội bộ: viết bài, đăng bài trên các kênh Facebook, Tik Tok, Youtube, Email,...
+Số hóa tài liệu đào tạo sang chuẩn E-learning
+Triển khai các hoạt động phong trào, thi đua.
+Thực hiện các công việc khác theo chỉ đạo cấp trên.
+Yêu cầu ứng viên
+Tốt nghiệp Cao đẳng trở lên
+Thành thạo các phần mềm thiết kế đồ họa, biên tập chỉnh sửa video, số hóa tài liệu elearning như: PS, AI, InDesgn, Premiere, Adobe After Effects, Capcut,...
+Có mindset thiết kế hiện đại, trẻ trung
+Chấp nhận sinh viên mới ra trường; Ham học hỏi và có định hướng theo đuổi lĩnh vực đào tạo.
+Có laptop cá nhân (Không bắt buộc)
+Có sức khỏe tốt, nhiệt tình, sáng tạo.
+Sẵn sàng đi công tác theo yêu cầu (bắt buộc)
+Phù hợp với giá trị cốt lõi: “Trung Thực – Cộng Đồng – Phát Triển”
+Quyền lợi
+Thu nhập: Tuỳ theo kinh nghiệm thực tế
+Được tham gia đầy đủ các chế độ BHXH, BHYT, BHTN 24/24
+Khám sức khỏe định kì hằng năm
+Phụ cấp đồng phục hằng năm
+Phụ cấp khác theo quy định của Luật Lao động và Tập đoàn
+Lộ trình đào tạo rõ ràng và cơ hội thăng tiến cao
+Môi trường làm việc năng động, thân thiện và chuyên nghiệp.
+Địa điểm làm việc
+- Hồ Chí Minh: Phú Nhuận
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+Thứ 7 (từ 08:00 đến 12:00)
+----------------------------------
+ Nhân Viên Tester
+ CÔNG TY CỔ PHẦN TINASOFT VIỆT NAM
+Mô tả công việc
+Tạo test plan, test case theo tài liệu thiết kế hệ thống và tài liệu đặc tả nghiệp vụ. Thiết lập môi trường kiểm thử, thực thi test case và báo cáo kết quả Xây dựng tài liệu hướng dẫn sử dụng và hỗ trợ triển khai sản phẩm tới end user. Phân tích yêu cầu nghiệp vụ, tham gia xây dựng tài liệu dự án (đối với ứng viên định hướng BA.
+Yêu cầu ứng viên
+Trên 1 năm kinh nghiệm Tester trở lên và đã tham gia các dự án thực tế.
+Có kỹ năng triển khai Test Manual và API, SQL,....
+Làm việc độc lập/ đội nhóm, chịu được áp lực và hoàn thành mục tiêu được giao đúng hạn.
+Nhanh nhẹn, có khả năng tự đọc, tự học, google và kỹ năng giải quyết vấn đề tốt.
+Tiếng anh tốt là một lợi thế, ưu tiên khả năng giao tiếp Tiếng Anh tốt.
+Quyền lợi
+Lương: Upto 18m
+Cơ hội đi công tác nước ngoài.
+Được cấp Macbook pro/imac/macmini 16gb ram đời mới nhất để làm việc.
+Môi trường làm việc trẻ trung, năng động, chuyên nghiệp.
+Được tiếp xúc với các bài toán lớn về chịu tải, bảo mật.
+Nghỉ phép, nghỉ Lễ theo quy định của Luật lao động.
+Tham gia BHXH, BHYT và hưởng đầy đủ các chế độ theo quy định của nhà nước.
+Team building, liên hoan tổ chức hàng tuần, hàng tháng, hàng quý.
+Chế độ thâm niên.
+Địa điểm làm việc
+- Hà Nội: 110 Trần Phú - Hà Đông - Hà Nội., Thanh Xuân
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+----------------------------------
+ Game Tester (Tiếng Nhật N3, Không Kinh Nghiệm)
+ Công ty TNHH Ambition Việt Nam
+Mô tả công việc
+Tester sẽ tìm lỗi bằng cách vừa xem thông số kỹ thuật và tài liệu hướng dẫn vừa chơi các ứng dụng trò chơi do Ambition Nhật Bản phát hành. Vì có Tester đảm bảo chất lượng cao nhất nên đây là công việc rất quan trọng và không thể thiếu.
+※※※Do sẽ được trao đổi trực tiếp với người Nhật đang sống ở Nhật Bản nên sẽ có nhiều cơ hội học tiếng Nhật trực tiếp.※※※
+※※※Hoan nghênh những ứng viên muốn làm việc trong lĩnh vực game, những ứng viên muốn thử thách bản thân trong ngành CNTT và những ứng viên yêu thích văn hóa anime Nhật Bản.※※※
+Mô tả chi tiết:
+- Vừa xem thông số kỹ thuật và quy trình test vừa chơi game, xác nhận xem thiết lập và động tác có đúng theo yêu cầu không.
+- Ngay khi phát hiện ra lỗi thì lập báo cáo tình trạng phát sinh và chi tiết cụ thể và báo cáo cho quản lý team lập trình.
+- Sau khi lỗi đã được sửa thì xác nhận xem hoạt động đã chạy chính xác chưa.
+- Địa điểm làm việc: QUEEN PEARL, 2F, 48 Huynh Man Dat, Ward 19, Binh Thanh District, Ho Chi Minh City.
+- Thời gian làm việc từ Thứ 2 - Thứ 6 (9:00 - 18:00) ◇ Hình thức phỏng vấn
+Có 2 vòng phỏng vấn và 1 bài kiểm tra năng lực ở vòng 1
+Yêu cầu ứng viên
+◇ Kinh nghiệm và kỹ năng chi tiết:
+Bắt buộc:
+Tiếng nhật N3 trở lên hoặc tương đương
+Kĩ năng máy tính cơ bản (đánh máy, excel, word, powerpoint)
+Cẩn thận, ngăn nắp và có trách nhiệm
+Chỉ nhận CV (Sơ yếu lí lịch) viết bằng tiếng Nhật
+Nếu có thì tốt:
+Kinh nghiệm tester cho app game
+Có thể quản lý thời gian và quản lý task công việc
+Có kỹ năng giao tiếp và kỹ năng feedback tốt
+Có bằng cấp liên quan (tốt nghiệp bằng kỹ sư kiểm thử phần mềm kiểm định JSTQB, bằng kỹ sư chất lượng phần mềm, kiểm định QC, kiểm tra năng lực kỹ sư IVEC...)
+Có kinh nghiệm lập trình
+Yêu thích văn hóa anime và game Nhật Bản
+Có mong muốn nâng cao năng lực tiếng Nhật
+Quyền lợi
+◇ Điểm lợi
+- Sau khi gia nhập công ty, chúng tôi sẽ đào tạo bạn từ cơ bản về kiến ​​thức cần thiết, quy trình làm việc,... nên bạn không cần có kiến ​​thức chuyên môn đặc biệt.
+- Giao tiếp với người Nhật trong các công ty Nhật Bản, các thông số kỹ thuật, quy trình kiểm tra, v.v. đều được xử lý bằng tiếng Nhật nên có nhiều cơ hội sử dụng tiếng Nhật và có thể nâng cao kỹ năng tiếng Nhật của bạn.
+- Thông qua đào tạo và công việc, bạn có thể cải thiện các kỹ năng của mình về kiểm soát chất lượng, phát hiện và cải thiện vấn đề, kỹ năng giao tiếp và quản lý.
+Địa điểm làm việc
+- Hồ Chí Minh: Tầng 2, Queen Pearl, 48 Huỳnh Mẫn Đạt, Phường 19, Bình Thạnh
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 09:00 đến 18:00)
+Thứ 2 - Thứ 6 (9:00 - 18:00)
+----------------------------------
+ Lập Trình Viên .NET
+ CÔNG TY CỔ PHẦN SAVIS DIGITAL
+Mô tả công việc
+– Được tham gia phát triển các sản phầm quản lý file tập trung, cổng thông tin trên nền tảng công nghệ .Net, Angular...
+– Được tìm hiểu về quy trình phát triển phần mềm, cách thức làm việc team work, đóng góp ý kiến để phát triển sản phẩm;
+– Được làm việc và học hỏi trên các nền tảng công nghệ đang hot hiện nay như: .Net Core, Angular, React....
+– Được tham gia vào các dự án của công ty thuộc các lĩnh vực như chính phủ, ý tế, giáo dục... trên nền tảng công nghệ của Microsoft như .Net Framework, .Net Core, Entity Framework, SQL Server...
+– Được tham gia vào các buổi đào tạo của công ty về công nghệ, giải pháp... để nâng cao trình độ;
+– Được định hướng về road map công việc cũng như sự nghiệp, tư vấn hướng phát triển sự nghiệp theo tiềm năng của bản thân.
+Yêu cầu ứng viên
+Năng lực và kinh nghiệm chúng tôi mong muốn :
+– Tốt nghiệp Đại học, Cao đẳng chuyên ngành Công nghệ thông tin, Khoa học máy tính hoặc các ngành liên quan;
+– Yêu cầu có từ 02 năm kinh nghiệm trở lên.
+– Có hiểu biết về ngôn ngữ lập trình C#, sử dụng được .NET Framework, có hiểu biết về ASP.NET MVC, ASP.NET Web API, Entity Framework.
+Ưu tiên:
+– Ưu tiên các ứng viên có kiến thức hoặc đã làm việc trên các quy trình phát triển phần mềm : Scrum, Agile;
+– Đặc biệt ưu tiên các ứng viên có niềm đam mê với CNTT, các ứng viên đã có sản phẩm của riêng mình trong suốt quá trình học tập và làm việc.
+Kỹ năng khác:
+– Có khả năng quản lý, lập kế hoạch tốt;
+– Tư duy sáng tạo, có khả năng nắm bắt, học hỏi kỹ thuật mới nhanh. Có khả năng tự học, tự nghiên cứu;
+– Có khả năng làm việc tự chủ và làm việc theo nhóm;
+– Chủ động, có tư duy logic, mạch lạc, nhanh nhạy, có khả năng ứng xử và giao tiếp tốt; có khả năng chịu được áp lực cao của công việc.
+Quyền lợi
+– Mức lương cực kỳ hấp dẫn tương xứng với khả năng và kinh nghiệm;
+– Đánh giá & xét tăng lương hằng năm, thưởng kinh doanh cuối năm, thưởng dự án, thưởng hiệu suất, thưởng các dịp lễ tết trong năm;
+– Cơ hội thể hiện bản thân, làm chủ công việc và thăng tiến cao trong sự nghiệp;
+– Cơ hội làm việc với các chuyên gia Công nghệ hàng đầu và các hãng công nghệ lớn trên thế giới;
+– Môi trường trẻ trung, năng động, khuyến khích mọi người thể hiện bản thân, tạo sân chơi lành mạnh với nhiều hoạt động sôi nổi;
+– Tổ chức sinh nhật và tặng quà cho nhân viên trong công ty theo tháng, khám sức khỏe định kỳ hằng năm;
+– Hưởng Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo chế độ nhà nước ban hành;
+– Teambuilding hàng năm, Olympic kỉ niệm ngày thành lập công ty, Year End Party, 20/10, ... và một số hoạt động văn hóa độc đáo khác;
+– Khu vực pantry rộng rãi để giải trí, ăn uống giữa giờ, ăn trưa và tổ chức các hoạt động nội bộ;
+– Và rất nhiều những cơ hội công việc hấp dẫn khác nữa.
+Địa điểm làm việc
+- Hà Nội: Tầng 9, Tòa nhà Việt Á, Số 9 Duy Tân, Cầu Giấy
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+Từ thứ 2 – hết sáng thứ 7 (thứ 7 cuối cùng của tháng nghỉ).
+----------------------------------
+ System Admin (Chuyên Viên Quản Trị Hệ Thống) [Hà Nội] - Thu Nhập Cạnh Tranh, Nhiều Đãi Ngộ Hấp Dẫn
+ Công ty Cổ phần Giải pháp phần mềm Tài Chính
+Mô tả công việc
+Cài đặt, giám sát và xử lý sự cố cho hệ thống mạng LAN/WAN và các thiết bị mạng (switch, router, firewall...) và các dịch vụ tổng đài IP, domain controller.
+Cài đặt, giám sát và xử lý sự cố cho các hệ thống Server và Workstation chạy hệ điều hành Windows và Linux.
+Bảo đảm việc kết nối giữa các chi nhánh, server, khách hàng thông suốt.
+Thực hiện việc ảo hóa và quản trị các server VMWare, windows, linux.
+Giám sát và nâng cao tính bảo mật của hệ thống thiết bị mạng, hệ điều hành linux, windows.
+Vận hành và giám sát việc sao lưu dữ liệu và phục hồi dữ liệu.
+Tự động hoá việc cập nhật các bản nâng cấp bảo mật và sửa lỗi phần mềm cho các thiết bị IT.
+Thử nghiệm các công nghệ mới nhằm nâng cao hiệu suất của các hệ thống hỗ trợ nghiệp vụ của công ty.
+Triển khai các biện pháp/ giải pháp phòng ngừa rủi ro CNTT.
+Các nhiệm vụ khác theo sự phân công của các quản lý bộ phận IT.
+Yêu cầu ứng viên
+Tốt nghiệp Đại học chuyên ngành công nghệ thông tin hoặc các ngành kỹ thuật liên quan.
+Nắm được các kiến thức về Linux, Windows Server, Network, Firewall.
+Chủ động và cẩn thận trong công việc.
+Có năng lực học tập, tìm hiểu, triển khai các mảng kỹ thuật mới.
+Có khả năng làm việc độc lập và làm việc nhóm.
+Quyền lợi
+Thưởng tháng lương thứ 13, thưởng kinh doanh cuối năm, thưởng các ngày lễ đặc biệt (khai xuân, sinh nhật, trung thu, 8/3, 1/6, 2/9, 20/10).
+Xem xét và đánh giá năng lực, review tăng lương 2 lần/ năm .
+Chế độ Bảo hiểm xã hội, Bảo hiểm y tế, bảo hiểm thất nghiệp theo quy định.
+Khám sức khỏe định kỳ hàng năm, hướng gói bảo hiểm FSS care riêng biệt.
+Du lịch 2 lần/ năm, các bữa tiệc được tổ chức hàng quý.
+Tham gia các khóa đào tạo nghiệp vụ, kỹ năng và chuyên môn công nghệ do công ty tổ chức.
+Cơ hội được hưởng chính sách Cán bộ nguồn (Vay vốn mua nhà, mua xe, bảo hiểm FSS care cho người thân, ...)
+Tham gia chính sách mua máy tính vượt tiêu chuẩn
+Địa điểm làm việc
+- Hà Nội: Tầng 7&8, 315 Trường Chinh, Phường Khương Mai, Thanh Xuân
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)
+----------------------------------
+ Blockchain Developer (Junior-Senior)
+ CÔNG TY CỔ PHẦN CÔNG NGHỆ SOTATEK VIỆT NAM
+Mô tả công việc
+Research & investigate the trends about the technologies in the blockchain world.
+Analyze requirements, consulting customers.
+Evaluate & design technical solutions for the required business models.
+Implement the applications that are powered by blockchain technologies.
+Sometimes build and launch a whole new blockchain platform.
+Review code, maintain & improve the legacy projects if needed.
+Write documentations & instructions before delivering to customers.
+Yêu cầu ứng viên
+Have experience with smart contract projects is a big plus, especially with a strong understanding of Rust.
+Can describe consensus, understanding how a blockchain platform works is a must
+Have knowledge and experience in one of the following programming languages: C, C++, C#, Solidity, Golang, Rust, Java, JavaScript or TypeScript
+Smart, enthusiastic/quick-adaptive with new technologies
+Knowledge of common algorithms and data structures
+Knowledge & experience of cryptography is an advantage
+Knowledge & experience of P2P networks is an advantage
+Knowledge & experience of concurrency and writing efficient and safe multithreaded code is an advantage
+Quyền lợi
+Saturday & Sunday OFF, Overtime pay is 150%, 200%, 300% as per labor law;
+12 remote days per year for full-time employees. Each month, they will be granted 1 day.
+Fully participate in Vietnam's social insurance as required by the state regulations.
+Salary review 2 times/ year, based on work performance and company’s performance;
+Performance bonus, 13th- month salary, public holidays bonus (2/9, 30/4, 1/5, 1/1); bonus for Excellent Employee and Excellent Team;
+Performance bonus in Token of the project;
+The travel welfare package is up to 5-7 million VND/year (for official employees).
+Social insurance, health insurance, unemployment insurance and Bao Viet care insurance;
+01 hour paid leave per day for women having children under 12 months
+Minimum 14 paid leaves per annum for all employees after probation;
+Nice & modern working space with young, dynamic & friendly colleagues and free coffee, tea, drinks;
+Yearly company trip and year-end party, quarterly team building and weekly eating together; English - Japanese Club, Sports Clubs;
+Men’s Day, Women’s Day, Children’s Day, Mid-Autumn Festival and other benefits under the provisions of the company;
+Flat, open and sharing culture with friendly management team; outsourcing company with product mindset;
+Training courses and working opportunities with technical gurus who built and operated world-class applications with millions of users. This might be a good chance for graduated students to learn cutting-edge technologies and how to build scalable system from scratch;
+Địa điểm làm việc
+- Hà Nội: toà Golden Park, số 2 Phạm Văn Bạch, Cầu Giấy, Hà Nội, Cầu Giấy
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+----------------------------------
+ Embedded Engineer (OOP, Java Core/JFX/SWT/Swing)
+ Công ty Cổ Phần Bản Viên
+Mô tả công việc
+Develop and do verification for MCAL Pin Configurator Standalone tool.
+Develop full cycle (design -> code -> test) for MCAL Pin Configurator Standalone tool.
+Deal with all technical stuff daily.
+Collaborate with team to brainstorm and find out solutions.
+Review and debug code, document, and monitor.
+Yêu cầu ứng viên
+MUST HAVE
+Bachelor’s Degree or above in Electronic Engineering, Telecommunication, Computer Science, Computer Engineering, Automation, Information Technology or equivalent.
+At least 1 year of experience at the same field.
+Java Core, JFX, Eclipse Plugin, VS Code extension, multiple debug session, OSGI services, RCP platform, SWT, SWTBot, GDB, Socket, OOP, DSF service, Socket.
+Familiar with environment: Gerrit, Jenkins, Jira, Git/GitHub.
+Familiar with IDE: Eclipse.
+Experience with automation test: SWTBOT, Python.
+NICE TO HAVE
+Capable to understand MCU HW manual, and have knowledge/experience in AUTOSAR MCAL.
+Experience with software development flow and process (Waterfall, Agile/Scrum model).
+Good English communication skills (especially reading and writing).
+Other: hard working, good attitude, good working manner, good at Self-study & Self-control, good at teamwork.
+Quyền lợi
+13th Salary + Performance Bonus.
+Pass probation Bonus.
+Premium healthcare insurance benefits (PVI Insurance package) and family medical benefit (based on the level of experience).
+Provide the famous e-learning platform-Udemy, to encourage continuous learning to adapt to the T-shape model.
+Flexible working time: only 8 hours required as continual working-time at the office.
+Annual leave up to 17 days: 12 days paid leave + 5 days’ sick leave.
+Professional and Personal Development Training Programs.
+4 Stars standard company trip in summer and a big annual Year-End-Party.
+Coffee and snacks provided.
+Holiday celebrations and parties for team members and family.
+Địa điểm làm việc
+- Hồ Chí Minh: Thủ Đức
+- Hồ Chí Minh: Quận 7
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)
+Flexible working time
+----------------------------------
+ Senior Manual Test Engineer (Good English)
+ FPT Software
+Mô tả công việc
+About us
+A subsidiary of the FPT Group, FPT Software is known as a leading global information technology service provider headquartered in Vietnam. With over 30,000 employees working in 83 offices across 30 countries on five continents, FPT Software consistently delivers the best solutions to more than 1000 clients, including 100 Fortune 500 companies. Placing human resources as the cornerstone of its achievements, employee experience is our top priority in continually creating an innovative, open, and enjoyable work environment for every member.
+In 2023, FPT Software officially made its mark on the global billion-dollar company list. This is evidence of the talent and efforts of multiple generations of employees at FPT Software.
+Why not explore your potential and embark on a brilliant journey with us?
+Responsibilities
+• Review and analyze system specifications for validity and feasibility.
+• Preparation of Test Cases.
+• Execution of tests.
+• Reporting of defects as part of new features testing and regression testing.
+• Preparation of Test Reports and Sprint Reports.
+• Ability to arrange and prioritize testing activities.
+• Conduct regression testing and exploratory testing.
+Yêu cầu ứng viên
+• At least 3 years of hands-on experience as a Manual Tester with practical skills in SQL and scripting;
+• Good communication in English;
+• Experience in developing concise and comprehensive test plans and cases;
+• Experience in full-stack end to end testing (Web UI, Rest API, Database). Performance testing is a plus;
+• Experience with software development frameworks and tools (e.g. Jenkins, JIRA, Git and Maven) is a plus;
+• Experience in unit testing is a plus;
+• Experience working in an Agile development environment is a plus;
+• Possess strong problem-solving, analytical and technical skills with attention to details and good follow-through;
+• Good communication skills, able to work independently with minimal supervision.
+Quyền lợi
+Successful candidates will be part of a friendly, motivated and committed talent teams with various benefits and attractive offers:
+• Be able to work in major projects with big customers and exchange knowledge with specialists and experts from top IT corporations
+• Be supported by preferential buying a department with Senior.
+• COMPETITIVE SALARY PACKAGE based on your competent plus Annual Bonus and Project Performance Bonus • “FPT care” health insurance provided by Petrolimex (PJICO) and is exclusive for FPT employees;
+• Annual Summer Vacation: 1-6 million Cash, 1-3 Leave holiday;
+• Annual health checkup;
+• Udemy Premium account for one year;
+• English class, sponsor for taking certification as: PMP, AWS...;
+• 13th month Salary;
+• Other allowances: transportation allowance, lunch allowance, working on-site allowance, etc.
+• Company shuttle buses provide convenient way of transportation for all employees;
+• F-Town Campus provides many facilities for FPT employees such as football ground, basketball & volleyball, gym center, restaurant, cafeteria, etc.
+Địa điểm làm việc
+- Khánh Hoà: VCN Tower, Số 2 Đường Tố Hữu, Khu đô thị Phước Hải, Thành phố Nha Trang, TP Nha Trang
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+----------------------------------
+ Quản Trị Hệ Thống An Toàn Thông Tin
+ Trung Tâm Internet Việt Nam
+Mô tả công việc
+Quản trị hệ thống, ứng dụng an toàn thông tin.
+Vận hành, bảo đảm hệ thống hoạt động ổn định, liên tục và an toàn.
+Ứng cứu, xử lý sự cố.
+Báo cáo định kỳ/đột xuất về hệ thống.
+Thực hiện công tác giám sát an toàn mạng, ứng dụng.
+Nghiên cứu điểm yếu ATTT của các hệ thống & cơ chế của các loại hình tấn công.
+Nghiên cứu, quy hoạch, thiết kế, triển khai & nâng cấp, tối ưu các hệ thống, ứng dụng, giải pháp an toàn thông tin.
+Quản lý chất lượng, báo cáo, quy trình, hồ sơ tài liệu, tài sản hệ thống.
+Yêu cầu ứng viên
+Tốt nghiệp Đại học chuyên ngành CNTT, ĐTVT, ATTT.
+Đọc hiểu tài liệu chuyên ngành bằng tiếng Anh.
+Có kiến thức, kinh nghiệm về network/system security, quản trị vận hành SOC; Unix/Linux, Network, chính sách, nền tảng ATTT.
+Có kinh nghiệm về thiết kế và mở rộng các mô hình và mạng bảo mật; phân tích log trên các hệ thống: Firewall, IPS, Endpoint Protection, Unix/Linux, Windows, Ứng dụng; triển khai, quản trị các ứng dụng, hệ thống an toàn an ninh mạng.
+Có kinh nghiệm làm việc với các công cụ và tiến trình an toàn thông tin.
+Làm việc độc lập/làm việc nhóm.
+Ưu tiên có các chứng chỉ: CCNA, CCNP, LPI, CompTIA Security+, CEH, CISSP, CCSP...
+Quyền lợi
+Thu nhập: 10.000.000 VNĐ- 26.000.000 VNĐ
+Môi trường làm việc năng động, sáng tạo, thách thức.
+Thu nhập hấp dẫn, thưởng theo năng lực.
+Cơ hội phát triển cá nhân.
+Cơ hội tiếp cận với các công nghệ mới; làm việc trực tiếp với các chuyên gia hàng đầu về Internet trong nước, quốc tế.
+Cơ hội tham gia đào tạo chuyên sâu trong nước, quốc tế.
+Được hưởng các chế độ phúc lợi của Trung tâm: tham quan, nghỉ mát, bảo hiểm sức khỏe...
+Thời gian làm việc: 8h00- 17h00 từ Thứ 2 đến thứ 6.
+Địa điểm làm việc
+- Hà Nội: Hà Nội: Tầng 24, Tòa nhà VNTA, Dương Đình Nghệ, Yên Hòa, Cầu Giấy
+----------------------------------
+ Automation Test (Junior - Middle)
+ CÔNG TY CỔ PHẦN CÔNG NGHỆ SOTATEK VIỆT NAM
+Mô tả công việc
+● Write, design, and execute automated tests to ensure system functionality. ● Maximize test coverage and prioritize scenarios for critical features. ● Develop and maintain test automation frameworks. ● Log and document bugs, set up Continuous Integration, and track issues efficiently. ● Plan, design, and execute integration tests for seamless system interaction. ● Utilize automation libraries like Playwright for end-to-end testing. ● Implement DevOps practices such as Docker for continuous integration and delivery.
+Yêu cầu ứng viên
+Must have
+● Profound knowledge of automation frameworks (e.g., Playwright, Cucumber).
+● Proficiency in TypeScript, with familiarity in Java or similar languages.
+● Strong experience in REST API testing and using tools like Postman.
+● Ability to write complex SQL queries for database testing and validation.
+● Experience in planning and executing integration tests for system coherence.
+● Proficiency in using automation libraries like Playwright, Puppeteer, or Cypress.
+● Familiarity with Docker and basic DevOps practices for CI/CD.
+● Strong problem-solving skills.
+● Excellent communication and collaboration abilities.
+● Demonstrate self-motivation and fast learning ability to new technologies and
+changing requirements.
+Fluent in English, both written and verbal.
+Nice to have:
+Quyền lợi
+● Saturday & Sunday OFF, Overtime pay is 150%, 200%, 300% as per labor law;
+● Work performance review 2 times/ year (in April and October);
+● Performance bonus, 13th- month salary, public holidays bonus (2/9, 30/4, 1/5, 1/1); bonus for Excellent Employee and Excellent Team;
+● Performance bonus in Token of the project;
+● Social insurance, health insurance, unemployment insurance and Bao Viet care insurance;
+● 01 hour paid leave per day for women having children under 12 months
+● 01 day remote work per month;
+● A flexitime allowance of 90-180 minutes per month for employees
+● Minimum 14 paid leaves per annum for all employees after probation;
+● Nice & modern working space with young, dynamic & friendly colleagues and free coffee, tea, drinks;
+● Yearly company trip and year-end party, quarterly team building and weekly eating together; English - Japanese Club, Sports Clubs;
+● Men’s Day, Women’s Day, Children’s Day, Mid-Autumn Festival and other benefits under the provisions of the company;
+● Flat, open and sharing culture with friendly management team; outsourcing company with product mindset;
+● Training courses and working opportunities with technical gurus who built and operated world-class applications with millions of users. This might be a good chance for graduated students to
+Địa điểm làm việc
+- Hà Nội: toà Golden Park, số 2 Phạm Văn Bạch, Cầu Giấy, Hà Nội, Cầu Giấy
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+----------------------------------
+ Lập Trình Viên PHP (Laravel)
+ Công ty Cổ phần Giải pháp Phần mềm Biplus Việt Nam
+Mô tả công việc
+Tham gia phát triển các hệ thống phần mềm, bao gồm:
+Phân tích yêu cầu khách hàng và xây dựng tài liệu giải pháp.
+Tham gia phát triển và sửa lỗi các tính năng.
+Đóng góp vào các hoạt động chia sẻ tri thức và cải tiến liên tục.
+Yêu cầu ứng viên
+Có từ 3 năm kinh nghiệm làm với PHP
+Hiểu biết và có kinh nghiệm làm việc với PHP thuần, các framework PHP như Laravel, CakePHP, Symfony... và một số design pattern thông dụng.
+Có kinh nghiệm làm việc với HTML, CSS, JQuery, Ajax,...
+Có kinh nghiệm làm việc với các WebService: Apache, Nginx,...
+Có kinh nghiệm làm việc với SQL, PLSQL, có kiến thức về một trong các hệ quản trị cơ sở dữ liệu Oracle/MySQL.
+Có kinh nghiệm làm việc với các nền tảng web là một lợi thế.
+Có kinh nghiệm về microservices là một lợi thế.
+Tiếng anh giao tiếp tốt, tự tin trao đổi với khách hàng.
+Kỹ năng giao tiếp, giải quyết vấn đề, kỹ năng làm việc nhóm tốt, luôn sẵn sàng hỗ trợ các thành viên khác trong dự án.
+Chịu được áp lực cao trong công việc, có khả năng làm việc độc lập, chủ động giải quyết vấn đề để hoàn thành nhiệm vụ.
+Cam kết, ham học hỏi.
+Quyền lợi
+Mức lương net thỏa thuận theo năng lực.
+Đánh giá năng suất và xét tăng lương 2 lần/năm.
+Được hướng dẫn, đào tạo để làm tốt công việc.
+BHXH theo quy định, khám sức khoẻ định kỳ.
+Môi trường làm việc trẻ, năng động, vui vẻ, hạnh phúc với các hoạt động văn hóa sôi động như retreat, picnic, team building, happy event, BiPlus radio, ...
+Tham gia vào các Scrum team tự chủ, linh hoạt và năng suất cao theo mô hình Agile/Scrum.
+Được làm nhiều, được thử nhiều và được sai, học thực chiến trong công việc.
+Liên tục phát triển năng lực thông qua các hoạt động học tập (company learning hour, team learning hour, club), đào tạo, mentoring, coaching,...
+Được phản hồi thường xuyên liên tục và huấn luyện để phát triển năng lực và đạt hiệu suất công việc ngày càng cao (CFRs - Conversation - Feedback - Recognition tháng và 6 tháng).
+Địa điểm làm việc
+- Hà Nội: Số 85 - Trần Thái Tông, Cầu Giấy
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+----------------------------------
+ Lập Trình Viên AI/ NLP
+ Công ty CP Phần mềm MOR
+Mô tả công việc
+Phát triển và triển khai các mô hình AI/NLP cho các ứng dụng khác nhau, đảm bảo độ chính xác và hiệu suất cao.
+Tham gia vào phát triển full-stack, tích hợp các mô hình AI/NLP vào hệ thống frontend và backend.
+Thiết kế, triển khai và tối ưu hóa cơ sở dữ liệu vector cho các trường hợp sử dụng AI/NLP.
+Hợp tác với quản lý sản phẩm và nhà khoa học dữ liệu để hoàn thiện yêu cầu và cung cấp giải pháp.
+Bảo trì và nâng cấp các quy trình AI/NLP hiện có, đảm bảo khả năng mở rộng và độ tin cậy.
+Cung cấp lãnh đạo kỹ thuật trong lĩnh vực AI/NLP và hướng dẫn các thành viên nhóm về các phương pháp thực hành tốt nhất.
+Yêu cầu ứng viên
+Tổt nghiệp ĐH, CĐ chuyên ngành Khoa học Máy tính, AI hoặc lĩnh vực liên quan, hoặc kinh nghiệm tương đương.
+Có ít nhất 3 năm kinh nghiệm trong AI/NLP, với kinh nghiệm thực tiễn trong việc huấn luyện và triển khai các mô hình.
+Thành thạo trong phát triển backend (Python, NodeJS, v.v.)
+Hiểu biết về quản lý cơ sở dữ liệu, bao gồm kinh nghiệm với cơ sở dữ liệu vector.
+Kinh nghiệm với các dịch vụ đám mây và triển khai mô hình AI ở quy mô lớn.
+Kỹ năng giải quyết vấn đề xuất sắc và khả năng làm việc trên các dự án phức tạp, đổi mới.
+Kỹ năng giao tiếp tiếng Anh tốt, cả nói và viết là một lợi thế.
+Quyền lợi
+Thu nhập Upto 23M
+Thử việc 2 tháng hưởng 100% lương
+Tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo quy định của luật lao động
+Review lương 2 lần/năm
+Hưởng lương tháng 13, thưởng lễ, tết, cưới hỏi, sinh nhật,...
+Hỗ trợ chi phí thi các chứng chỉ theo quy định của công ty.
+Tham gia bảo hiểm VBI
+Phụ cấp phí gửi xe
+Phụ cấp thâm niên, thưởng dự án xuất sắc
+Du lịch, nghỉ mát hàng năm theo chính sách của công ty
+Khám sức khỏe định kỳ hàng năm
+Cơ hội thăng tiến rõ ràng
+Cơ hội làm việc tại các nước đối tác: Nhật Bản, Hàn Quốc, Singapore, Úc...
+Địa điểm làm việc
+- Hồ Chí Minh: 10F Mekong Tower, 235 Cong Hoa, Ward 13, Tân Bình
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)
+----------------------------------
+ Kỹ Sư Phát Triển Phần Mềm (C/C++/Java/Golang/Android/IOS)
+ TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI
+ Pro Company
+Mô tả công việc
+'- Lập trình mã nguồn nghiệp vụ theo yêu cầu người dùng, yêu cầu hệ thống, thiết kế chi tiết ở mức tính năng.
+- Lập trình giao diện theo thiết kế giao diện có sẵn.
+- Phối hợp các thành viên khác trong nhóm tích hợp các tính năng hệ thống.
+- Phối hợp với bộ phận quản lý chất lượng đảm bảo chất lượng hệ thống.
+Yêu cầu ứng viên
+- Tốt nghiệp Đại học chính quy loại Khá trở lên chuyên ngành: Công nghệ thông tin, Khoa học máy tính, Toán – tin, Điện tử viễn thông,...hoặc các chuyên ngành kỹ thuật khác liên quan.
+- Trình độ tiếng Anh tương đương tối thiểu 550 điểm Toeic.
+- Có tối thiểu 02 năm kinh nghiệm liên quan đến vị trí ứng tuyển.
+- Sử dụng tốt ít nhất 1 ngôn ngữ lập trình (C/C++/Java/Golang/Android/iOS).
+- Có kiến thức nền tảng về công nghệ thông tin, ngôn ngữ mô hình hóa UML; quy trình phát triển phần mềm và toàn bộ vòng đời ứng dụng; mạng máy tính (các loại mạng, kiến trúc mạng, lập trình mạng, giao thức); ngôn ngữ truy vấn dữ liệu SQL, làm việc với hệ quản trị cơ sở dữ liệu, cấu trúc dữ liệu và giải thuật.
+Quyền lợi
+● 12 ngày phép hàng năm theo Luật Lao Động và 3 ngày nghỉ mát, nghỉ ngày lễ 22/12
+● Bảo hiểm sức khỏe và tai nạn cá nhân của MIC (Hạn mức chi trả lên đến 600 triệu/năm)
+● Review lương định kì vào tháng 3 hàng năm
+● Khám sức khỏe định kì hàng năm
+● Giải thưởng ghi nhận năng lực, các đóng góp nổi bật kịp thời: + Giải thưởng Nhân viên Xuất sắc tháng trị giá 02 triệu VNĐ + Giải thưởng Nhân viên Xuất sắc năm trị giá từ 02-10 triệu VNĐ
+Đào tạo và phát triển:
+● Hỗ trợ từ 50-100% chi phí dự thi các chứng chỉ và khen thưởng theo cấp độ chứng chỉ lên đến 05 triệu đồng : Hỗ trợ thi chứng chỉ Quốc tế
+● Giải thưởng bug bounty hàng quý, giá trị giải thưởng lên đến 70 triệu
+● Giải thưởng sáng kiến, ý tưởng (được ghi nhận) trị giá từ 01 triệu đồng đến hàng trăm triệu đồng
+Môi trường và Văn hóa:
+● Làm việc tại văn phòng Hạng A - tòa Landmark 72 với tổ hợp không gian xanh và khu vực riêng dành cho Tập Gym, giải trí (chơi Bi-a, Pes, Café, Đọc sách)
+● Thư giãn 30 phút mỗi ngày với hoạt động Happy hours (16h-16h30)
+● 02 phần quà Tết gửi tặng gia đình, người thân
+● Tham gia các event Công ty: hoạt động Teambuilding hàng quý, Sinh nhật hàng tháng, Year End Party, nghỉ mát, ngày lễ 08/03, 20/10 (các chị em được nghỉ 1⁄2 ngày), ngày sinh nhật tập đoàn 01/06, ...
+● Tổ chức sinh nhật cá nhân: Phần quà và bánh sinh nhật từ phía Công ty
+● Các hoạt động thể thao: câu lạc bộ Bóng đá, Bi-a ....
+Địa điểm làm việc
+- Hà Nội: - Tòa nhà Viettel, Số 380 Lạc Long Quân - Tòa nhà Viettel, Khu Công nghệ cao Láng Hòa Lạc, Hà Nội. , Tây Hồ
+- Hà Nội: - Tòa nhà Keangnam Landmark 72 tầng, Phạm Hùng, Nam Từ Liêm
+- Hồ Chí Minh: - Tòa nhà Viettel, số 285 Cách Mạng Tháng 8, Phường 12, Quận 10
+----------------------------------
+ Tester (Tiếng Nhật)
+ Công ty Cổ phần VNEXT SOFTWARE
+Mô tả công việc
+Nghiên cứu, phân tích, xây dựng yêu cầu hệ thống, yêu cầu nghiệp vụ dự án;
+Tạo test plan, estimate các task liên quan đến test;
+Viết báo cáo, phân tích, đánh giá kết quả test cho khách hàng;
+Kiểm soát chất lượng sản phẩm, đảm bảo tiến độ thực hiện dự án, Thực hiện các công việc theo sự phân công của quản lý trực tiếp.
+Yêu cầu ứng viên
+Có từ 01 năm kinh nghiệm Tester;
+Có tiếng Nhật từ N3 trở lên;
+Có thể làm Test plan, test view point, review test case và execute test;
+Am hiểu quy trình phát triển phần mềm;
+Hiểu rõ các loại test, phương pháp test.
+Yêu cầu khác
+Có tinh thần trách nhiệm cao trong công việc;
+Có khả năng làm việc độc lập/khả năng teamwork tốt;
+Có ISTQB là 1 điểm cộng.
+Quyền lợi
+QUYỀN LỢI
+Mức lương khởi điểm hấp dẫn, cạnh tranh, tương xứng với năng lực và kinh nghiệm làm việc;
+Thu nhập: 13 tháng lương/năm + thưởng dự án, thưởng Tết và các dịp lễ...;
+Xét tăng lương 2 lần/năm theo năng lực và hiệu quả công việc;
+Nghỉ thứ 7, Chủ nhật + Nghỉ phép theo Quy định của Pháp luật hiện hành;
+Được tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo Quy định của Pháp luật hiện hành và quy định công ty;
+Khám sức khỏe định kỳ 1 năm/1 lần;
+Bảo hiểm chăm sóc sức khỏe 24/24 (PVI Care);
+Trợ cấp tiếng Nhật và các chứng chỉ IT liên quan (hình thức: khen thưởng, tăng lương...);
+Được tham gia các Câu lạc bộ của Công ty: CLB Bóng đá, các CLB Game.....
+Được tham gia các hoạt động tập thể sôi động của công ty: Nghỉ mát hàng năm, Teambuilding hàng quý, Gala cuối năm....
+Đặc biệt
+Được hỗ trợ 100% chi phí tham gia các khóa học kỹ năng mềm và các khóa đào tạo chuyên môn, luyện thi các chứng chỉ uy tín trong và ngoài nước;
+Cơ hội làm việc và đào tạo tại Nhật Bản với các ứng viên có tiếng Nhật;
+Làm việc trong môi trường chuyên nghiệp, được hỗ trợ phát huy khả năng, phát triển công việc tối đa.
+Địa điểm làm việc
+- Đà Nẵng: Tầng 3-5-6, Tòa nhà UST, số 639 Nguyễn Tất Thành, phường Xuân Hà, Thanh Khê
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)
+----------------------------------
+ Java Engineer ( Java Developer Java Fullstack Developer Java SE /Java EE)
+ TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI
+ Pro Company
+Mô tả công việc
+• Tiếp nhận yêu cầu bài toán từ khách hàng, viết tài liệu phân tích yêu cầu, đặc tả yêu cầu, thiết kế chi tiết, thiết kế CSDL
+• Lập trình các chức năng được giao theo tài liệu giải pháp chi tiết.
+• Thực hiện các nhiệm vụ sửa lỗi được phát hiện trong quá trình phát triển và triển khai.
+• Viết và thực hiện unit test.
+• Thực hiện upcode các yêu cầu nâng cấp của dự án.
+• Thiết kế được các module thành phần, các chức năng chi tiết theo kiến trúc đã có sẵn.
+• Tích hợp mã nguồn (merge code), tích hợp hệ thống.
+• Viết tài liệu Hướng dẫn cài đặt, vận hành, khai thác.
+• Cài đặt, triển khai hệ thống
+• Tối ưu hệ thống
+Yêu cầu ứng viên
+· Tốt nghiệp Đại học bằng khá trở lên chuyên ngành CNTT, ĐTVT, Toán tin Ứng dụng
+· Ít nhất 1 năm kinh nghiệm phát triển ứng dụng phần mềm bằng ngôn ngữ Java
+· Có kiến thức tốt về lập trình và thiết kế hướng đối tượng (OOP), Design Patterns
+· Có nền tảng cấu trúc dữ liệu và giải thuật tốt
+· Có kiến thức tốt về quy trình phát triển phần mềm
+· Thành thạo một trong các công nghệ: Webservices (SOAP/RESTful), Websocket, Hibernate, JPA, HTML5/CSS3, Spring MVC, Struts
+· Thành thạo một trong các hệ quản trị CSDL quan hệ: Oralce, MySQL, SQL Server
+· Có kỹ năng làm việc độc lập và làm việc theo nhóm tốt
+· Có kỹ năng giải quyết vấn đề tốt
+· Khả năng chịu áp lực cao
+· Năng động, sáng tạo, có khả năng tự nghiên cứu
+· Ưu tiên ứng viên có chứng chỉ quốc tế của Oracle về phát triển ứng dụng Java: Java SE, Java EE
+• Toeic 550 trở lên hoặc tương đương
+Quyền lợi
+● 12 ngày phép hàng năm theo Luật Lao Động và 3 ngày nghỉ mát, nghỉ ngày lễ 22/12
+● Bảo hiểm sức khỏe và tai nạn cá nhân của MIC (Hạn mức chi trả lên đến 600 triệu/năm)
+● Review lương định kì vào tháng 3 hàng năm
+● Khám sức khỏe định kì hàng năm
+● Giải thưởng ghi nhận năng lực, các đóng góp nổi bật kịp thời: + Giải thưởng Nhân viên Xuất sắc tháng trị giá 02 triệu VNĐ + Giải thưởng Nhân viên Xuất sắc năm trị giá từ 02-10 triệu VNĐ
+Đào tạo và phát triển:
+● Hỗ trợ từ 50-100% chi phí dự thi các chứng chỉ và khen thưởng theo cấp độ chứng chỉ lên đến 05 triệu đồng : Hỗ trợ thi chứng chỉ Quốc tế
+● Giải thưởng bug bounty hàng quý, giá trị giải thưởng lên đến 70 triệu
+● Giải thưởng sáng kiến, ý tưởng (được ghi nhận) trị giá từ 01 triệu đồng đến hàng trăm triệu đồng
+Môi trường và Văn hóa:
+● Làm việc tại văn phòng Hạng A - tòa Landmark 72 với tổ hợp không gian xanh và khu vực riêng dành cho Tập Gym, giải trí (chơi Bi-a, Pes, Café, Đọc sách)
+● Thư giãn 30 phút mỗi ngày với hoạt động Happy hours (16h-16h30)
+● 02 phần quà Tết gửi tặng gia đình, người thân
+● Tham gia các event Công ty: hoạt động Teambuilding hàng quý, Sinh nhật hàng tháng, Year End Party, nghỉ mát, ngày lễ 08/03, 20/10 (các chị em được nghỉ 1⁄2 ngày), ngày sinh nhật tập đoàn 01/06, ...
+● Tổ chức sinh nhật cá nhân: Phần quà và bánh sinh nhật từ phía Công ty
+● Các hoạt động thể thao: câu lạc bộ Bóng đá, Bi-a ....
+Địa điểm làm việc
+- Hà Nội: Số 1 Giang Văn Minh, Ba Đình
+- Hà Nội: Tầng 42 + 43, tòa nhà Keangnam Landmark 72 Phạm Hùng, Nam Từ Liêm
+----------------------------------
+ Senior Java Developer
+ Viettel Digital
+ Pro Company
+Mô tả công việc
+Tham gia phát triển các dự án Ngân hàng số (Viettel Pay, Mobile Money, ví cá nhân, ví doanh nghiệp, ...). Cung cấp sản phẩm ứng dụng thanh toán và chuyển tiền với số lượng giao dịch rất lớn, đòi hỏi hiệu năng xử lý cao
+Xây dựng các hệ thống Tài chính điện tử cho các thị trường nước ngoài mà Viettel đầu tư
+Tham gia làm rõ nghiệp vụ, thiết kế giải pháp, phát triển nâng cấp hệ thống theo yêu cầu
+Tham gia review thiết kế, review code, tối ưu hệ thống đáp ứng lưu lượng truy cập cao
+Nghiên cứu áp dụng công nghệ mới nâng cao chất lượng, tối ưu nguồn lực phát triển
+Yêu cầu ứng viên
+Tốt nghiệp đại học loại Khá trở lên, chuyên ngành Công nghệ thông tin, Kỹ sư phần mềm. Đặc biệt ưu tiên các trường Học viện Công nghệ Bưu chính Viễn thông, Đại học Bách khoa Hà Nội, Đại học FPT, Đại học Công nghệ,...
+Tiếng Anh tương đương 650+ TOEIC
+Ít nhất 05 năm kinh nghiệm phát triển các sản phẩm/dự án xây dựng bằng ngôn ngữ Java , trong đó ưu tiên có ít nhất 1 năm kinh nghiệm quản lý team
+Thành thạo Java Core, các framework Java như EE, Spring, Struts, Hibernate ... và một số design pattern thông dụng
+Tư duy về thiết kế hướng đối tượng và nắm vững kiến thức về cấu trúc dữ liệu và giải thuật, lập trình hướng đối tượng ...
+Thành thạo SQL, PLSQL, có kiến thức về các hệ quản trị cơ sở dữ liệu Oracle/MySQL, noSQL, có khả năng tối ưu CSDL
+Ưu tiên có hiểu biết về nghiệp vụ tài chính, có kinh nghiệm về microservices, ham học hỏi tìm tòi sáng tạo cái mới
+Quyền lợi
+Mức lương thu hút và cạnh tranh, ứng viên thỏa thuận khi tham gia phỏng vấn
+Chính sách thưởng hấp dẫn: thưởng theo tháng, thưởng quý, thưởng năm, ngày lễ Tết, ... theo quy định chung của Tập đoàn Viettel
+Đóng BHXH, BHYT, BHTN theo quy định Nhà nước; khám sức khỏe định kỳ hàng năm
+Cơ hội tiếp xúc với các dự án lớn, mới mẻ & tham gia xây dựng những sản phẩm lớn và có chỗ đứng trên thị trường Fintech Việt Nam
+Cơ hội thăng tiến rõ ràng với nhiều cấp bậc
+Cơ hội ứng tuyển thử sức đi học tập và làm việc tại nước ngoài theo các khóa ngắn hạn, dài hạn
+Công việc luôn thay đổi, thách thức, không thỏa hiệp với sự lỗi thời.
+Lãnh đạo trẻ trung, biết lắng nghe và sẵn sàng tạo cơ hội để cá nhân phát triển bản thân. Đồng nghiệp thân thiện và nhiệt tình.
+Nghỉ dưỡng 3 ngày nguyên lương trong năm, hỗ trợ nghỉ dưỡng lên đến 9 triệu/ người
+Tham gia các hoạt động thể thao văn hóa, team building, Ngày hội Sáng tạo, giải bóng đá, Viettel’s Got Talent, event quý, event năm, event ngày nghỉ lễ tết,...
+Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày
+Thưởng thức bữa trưa được phục vụ ngay tại VDS, được chọn lọc bởi các chuyên gia dinh dưỡng.
+Địa điểm làm việc
+- Hà Nội: Tòa Keangnam, Phạm Hùng, Nam Từ Liêm
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+----------------------------------
+ Dev AI
+ Công ty Cổ phần Bán lẻ Kỹ thuật số FPT
+ Pro Company
+Mô tả công việc
+Nghiên cứu và thử nghiệm các công nghệ AI nhằm giải quyết và tối ưu các bài toán cốt lõi. Xây dựng, triển khai các hệ thống AI nhằm tích hợp công nghệ vào các sản phẩm và quy trình.
+Phối hợp với các phòng ban phát triển sản phẩm, các Data Engineer và Data Analyst để đảm bảo hệ thống được tích hợp một cách hoàn thiện và tối ưu.
+Yêu cầu ứng viên
+Tốt nghiệp Đại học; ưu tiên chuyên ngành CNTT, Khoa học dữ liệu, Trí tuệ nhân tạo.
+Có từ 02 năm kinh nghiệm ở vị trí AI Engineer, Data Scientist hoặc ML Engineer.
+Có kinh nghiệm với các bài toán Xử lý ngôn ngữ tự nhiên (NLP).
+Kinh nghiệm với Google Cloud Platform là 1 lợi thế.
+Thành thạo ngôn ngữ lập trình Python.
+Nắm vững lý thuyết học máy và các mô hình thông dụng.
+Đọc hiểu, khảo sát được các paper AI 1 cách chủ động.
+Sử dụng tốt các framework học máy và Data Science: Scikit-learn, PyTorch, Pandas/Polars,...
+Sử dụng thành thạo SQL.
+Có các kiến thức căn bản về Linux, Docker, Git.
+Có kỹ năng lập kế hoạch và sắp xếp công việc, tư duy logic, giải quyết vấn đề.
+Có khả năng giao tiếp và truyền đạt, đặc biệt dưới dạng các tài liệu nội bộ.
+Quyền lợi
+Làm việc tại công ty hàng đầu Việt Nam, luôn không ngừng phát triển với nhiều cơ hội thăng tiến bản thân.
+Được đào tạo chuyên nghiệp, hoàn toàn miễn phí trước khi làm việc.
+Môi trường làm việc trẻ, năng động và thân thiện.
+Tham gia đầy đủ các chế độ BHYT, BHXH, BHTN.
+Thu nhập hấp dẫn, phù hợp năng lực bản thân.
+Lương tháng 13 và thưởng theo hiệu quả kinh doanh.
+Khám sức khỏe định kỳ.
+Thường xuyên tổ chức các chương trình hội thao, hội diễn văn nghệ, tân niên, tất niên...
+Địa điểm làm việc
+- Hồ Chí Minh: Tòa nhà 678, 67 Hoàng Văn Thái, Tân Phú, Quận 7
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)
+Thứ 7 (từ 08:30 đến 12:00)
+----------------------------------
+ Middle Fullstack Developer
+ CÔNG TY TNHH TECH GRID ASIA (VIỆT NAM)
+Mô tả công việc
+- Analyze requirements, design, and deploy responsive solutions.
+- Conduct unit testing, resolve issues, and document APIs.
+- Research and recommend new technologies.
+- Collaborate with QC to address bugs.
+- Monitor and enhance performance.
+Yêu cầu ứng viên
+- 4+ years' experience as a Full Stack Developer in Node.js, JavaScript, TypeScript, AWS.
+- Skilled in code review, guiding developers, and designing scalable web services.
+- Proficient in CI/CD, unit testing, API docs, SonarQube.
+- Deployed applications in AWS.
+- Agile/Scrum experience.
+Quyền lợi
+- Temper offer and benefits
+- Stable environment (no any laid off during covid pandemic and economic downturn)
+- 13th month salary
+Địa điểm làm việc
+- Hồ Chí Minh: Tân Bình
+----------------------------------
+ Software Engineer C++
+ CÔNG TY TNHH TECH GRID ASIA (VIỆT NAM)
+Mô tả công việc
+- Develop and design components and applications for different sections of our trading systems.
+- Leverage your C++ expertise to create efficient and reliable code.
+- Perform scripting and integration tasks using Python.
+- Enhance and adapt our systems continuously to meet changing trading demands.
+- Maintain the reliability and seamless operation of our trading systems.
+Yêu cầu ứng viên
+- 4 years of extensive experience in C++.
+- Proficiency in Python is a huge plus
+- Experience in low latency or high throughput environments.
+- Strong knowledge of algorithms and data structures.
+- Ability to write clean, maintainable code.
+- Good English communication
+Quyền lợi
+- Temper offer and benefits
+- Stable environment (no any laid off during covid pandemic and economic downturn)
+- 13th month salary
+Địa điểm làm việc
+- Hồ Chí Minh: Tân Bình
+----------------------------------
+ Tech Lead (Java)
+ Nichietsu
+Mô tả công việc
+Lead and mentor a team of software developers, providing technical guidance, code reviews, and ensuring adherence to best practices.
+Oversee the architecture, design, and development of Java-based applications, ensuring scalability, performance, and maintainability.
+Collaborate with cross-functional teams including Product Managers, QA, and DevOps to deliver high-quality software products on time.
+Drive the technical direction of the project, defining technical solutions and making high-level decisions regarding system architecture and design.
+Participate in technical discussions, lead daily stand-ups, and track the progress of development to ensure successful delivery.
+Continuously evaluate emerging technologies and tools to ensure the team is working with the best possible solutions.
+Handle performance tuning, debugging, and troubleshooting in production environments.
+Yêu cầu ứng viên
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+Minimum 5 years of experience in software development, with a strong focus on Java.
+At least 1-2 years of experience in a leadership or team lead position.
+Proficiency in Java, Java-related frameworks (e.g., Spring, Spring Boot) and ReactJS.
+Experience with domain banking is a plus.
+Experience with RESTful APIs, microservices architecture, and cloud platforms (AWS, Azure, etc.).
+Strong understanding of database technologies (SQL, NoSQL) and ORM frameworks like Hibernate.
+Familiarity with Agile methodologies, version control (Git), and CI/CD pipelines.
+Proven leadership abilities with experience in leading and managing teams.
+Strong communication and interpersonal skills to collaborate effectively with both technical and non-technical stakeholders.
+Strong analytical and problem-solving skills, with the ability to troubleshoot complex systems.
+English: reading, writing.
+Quyền lợi
+Competitive Salary;
+Bonus Project/Month for onsite job;
+Review salary per year;
+No probation;
+Provide PC/laptop;
+5 working days per week (Monday-Friday);
+Friendly, professional, and open working environment;
+Premium healthcare insurance PVI Insurance for key person;
+Happy hour, Events, Birthday, Year-End Party;
+Labor Contract, Social insurance as Labor Law.
+Địa điểm làm việc
+- Hồ Chí Minh: Quận 1
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+----------------------------------
+ NodeJS Developer
+ Công ty TNHH Bitu Việt Nam
+Mô tả công việc
+Thiết kế và phát triển hệ thống back-end cho web/app kiểu thời gian thực.
+Phân tích và phát triển nền tảng và REST APIs cho mobile.
+Cộng tác hiệu quả với các team khác để nhanh chóng triển khai các tính năng mới.
+Nghiên cứu các xu hướng công nghệ mới cũng như trải nghiệm người dùng để nâng cao chất lượng sản phẩm.
+Báo cáo và thực hiện các yêu cầu khác theo sự phân công của quản lý.
+Yêu cầu ứng viên
+Từ 4 năm kinh nghiệm làm việc với NodeJS, ExpressJS.
+Hiểu biết sâu sắc về Javascript và Typescript.
+Thành thạo cơ sở dữ liệu PostgreSQL và MongoDB.
+Thành thạo RESTful API, Redis và các công nghệ liên quan.
+Điểm cộng lớn nếu ứng viên:
+Có kiến thức về Linux và Docker
+Có kinh nghiệm về Message Queue như Kafka, RabbitMQ,...
+Có kinh nghiệm về các thư viện liên quan đến thời gian thực như Websocket, Socket.IO, MQTT,...
+Có kinh nghiệm với front-end như HTML, CSS, Vuejs, Reactjs.
+Quyền lợi
+Thưởng tiền mặt hoặc quà tặng vào các dịp lễ tết, lương tháng thứ 13... theo chính sách của Công ty.
+Ăn trưa tại công ty.
+Cung cấp đầy đủ máy tính, thiết bị làm việc hiện đại, cấu hình cao.
+Xét tăng lương theo năng lực và kết quả làm việc.
+Các cơ hội phát triển năng lực và thăng tiến lên vị trí cao hơn luôn rộng mở.
+Được hưởng ưu đãi cao khi mua sản phẩm của công ty.
+Được hỗ trợ chi phí tham gia các khóa học nâng cao chuyên môn theo định hướng của Công ty.
+Các hoạt động team building, các event chăm lo đời sống tinh thần của nhân viên như sinh nhật, liên hoan hàng tháng,... Môi trường làm việc trẻ trung, năng động, đề cao và tôn trọng ý kiến cá nhân, ý tưởng sáng tạo nhằm nâng cao năng suất và hiệu quả công việc.
+Địa điểm làm việc
+- Hà Nội: Tòa Stellar, số 35 Lê Văn Thiêm, Thanh Xuân Trung, Thanh Xuân, Hà Nội, Thanh Xuân
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+----------------------------------
+ IT Helpdesk (Giao Tiếp Tiếng Anh)
+ Công ty TNHH Thương Mại và Kỹ Thuật Tin Học T.T.C
+Mô tả công việc
+- Cài đặt, triển khai phần cứng, phần mềm
+- Xử lý các lỗi liên quan đến máy tính, máy in, email, hệ thống mạng
+- Triển khai, lắp đặt, bảo trì hệ thống mạng
+Yêu cầu ứng viên
+- Có khả năng giao tiếp tiếng Anh
+- Có kinh nghiệm sử dụng và quản lý Microsoft 365
+- Tốt nghiệp trung cấp, cao đẳng, đại học chuyên ngành CNTT
+- Ưu tiên có kinh nghiệm 2 năm trở lên.
+- Ưu tiên các ứng viên đã học qua các khoá học CCNA, MCSA, MCSE.
+Quyền lợi
+- Được làm việc trong môi trường chuyên nghiệp
+- Được đào tạo nghiệp vụ thường xuyên
+- Có cơ hội phát triển và thăng tiến
+- Các chính sách bảo hiểm theo qui định, thưởng tết, nghỉ mát hằng năm cùng công ty
+Địa điểm làm việc
+- Hồ Chí Minh: 58 Mạc Đỉnh Chi, Quận 1
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+----------------------------------
+ Kỹ Sư Kiểm Thử Phần Mềm
+ Viettel Digital
+ Pro Company
+Mô tả công việc
+Phụ trách phân tích và kiểm tra các luồng chức năng nghiệp vụ và tính năng các sản phẩm tài chính số trên Viettel Money
+Xây dựng, hoàn thiện, thực hiện viết các tài liệu đảm bảo chất lượng của sản phẩm trước khi bàn giao cho khách hàng như Requirement Checklist, Functional Checklist, Test Plan, Test Cases, Test Report, Test Script...
+Tham gia kiểm thử, phát hiện lỗi và phối hợp với các developer để sửa lỗi.
+Tham gia nghiên cứu và đề xuất các cải tiến các chức năng, quy trình kiểm thử sản phẩm
+Phối hợp với Team Nghiệp vụ, Thiết kế, review kịch bản nghiệp vụ, giải pháp trong lĩnh vực Tài chính số như Tín dụng (cho vay, tích luỹ, tiết kiệm), Đầu tư và Bảo hiểm số, Chứng khoán ...
+Yêu cầu ứng viên
+Tốt nghiệp Đại học loại Khá trở lên từ các ngành Công nghệ thông tin, An toàn thông tin hoặc các ngành liên quan. Đặc biệt ưu tiên các trường Đại học Bách Khoa, Học viện Công nghệ Bưu chính Viễn thông, Đại học FPT, Học viện Tài chính, Đại học Thương Mại, ...
+Tiếng Anh: tương đương 550+ TOEIC trở lên
+Có từ 1-2 năm kinh nghiệm ở vị trí Kiểm thử phần mềm hoặc tương đương, ưu tiên có kinh nghiệm về các lĩnh vực Tài chính - ngân hàng, các công ty tài chính như Bảo hiểm, chứng khoán...
+Hiểu quy trình phát triển phần mềm, đặc biệt là Agile/Scrum
+Nắm vững và hiểu biết sâu về quy trình Kiểm thử, và các kỹ thuật Kiểm thử
+Có kiến thức sâu về phương pháp Kiểm thử phần mềm (White Box và Black Box)
+Am hiểu về SQL và các hệ quản trị cơ sở dữ liệu như Oracle, MariaDB, MySQL
+Có kinh nghiệm sử dụng các công cụ như Jira, Confluence, ...
+Ưu tiên các bạn có kinh nghiệm thực hiện kiểm thử tự động, có chứng chỉ như ISTQB,CSTE
+Kỹ năng giao tiếp, phân tích và tư duy phản biện tốt
+Yêu thích công việc kiểm thử, yêu thích công nghệ và muốn thử thách bản thân
+Quyền lợi
+Mức lương thu hút và cạnh tranh, ứng viên thỏa thuận khi tham gia phỏng vấn
+Chính sách thưởng hấp dẫn: thưởng theo tháng, thưởng quý, thưởng năm, ngày lễ Tết, ... theo quy định chung của Tập đoàn Viettel
+Đóng BHXH, BHYT, BHTN theo quy định Nhà nước; khám sức khỏe định kỳ hàng năm
+Cơ hội tiếp xúc với các dự án lớn, mới mẻ & tham gia xây dựng những sản phẩm lớn và có chỗ đứng trên thị trường Fintech Việt Nam
+Cơ hội thăng tiến rõ ràng với nhiều cấp bậc
+Cơ hội ứng tuyển thử sức đi học tập và làm việc tại nước ngoài theo các khóa ngắn hạn, dài hạn
+Công việc luôn thay đổi, thách thức, không thỏa hiệp với sự lỗi thời.
+Lãnh đạo trẻ trung, biết lắng nghe và sẵn sàng tạo cơ hội để cá nhân phát triển bản thân. Đồng nghiệp thân thiện và nhiệt tình.
+Nghỉ dưỡng 3 ngày nguyên lương trong năm, hỗ trợ nghỉ dưỡng lên đến 9 triệu/ người
+Tham gia các hoạt động thể thao văn hóa, team building, Ngày hội Sáng tạo, giải bóng đá, Viettel’s Got Talent, event quý, event năm, event ngày nghỉ lễ tết,...
+Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày
+Thưởng thức bữa trưa được phục vụ ngay tại VDS, được chọn lọc bởi các chuyên gia dinh dưỡng.
+Địa điểm làm việc
+- Hà Nội: Tòa Keangnam, Phạm Hùng, Nam Từ Liêm
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+----------------------------------
+ Senior Process Quality Assurance
+ Viettel Digital
+ Pro Company
+Mô tả công việc
+Hướng dẫn, kiểm soát, đánh giá việc thực hiện tuân thủ quy trình quy định của các dự án tại đơn vị
+Hỗ trợ đào tạo; tư vấn, đề xuất xây dựng quy trình phù hợp với thực tế dự án
+Nghiên cứu, tìm hiểu đề xuất xây dựng quy trình mới hỗ trợ các dự án
+Kiểm soát tiến độ, cảnh báo, phát hiện vấn đề có nguy cơ ảnh hưởng đến tiến độ dự án
+Cảnh báo, phát hiện vấn đề có nguy cơ ảnh hưởng chất lượng sản phẩm
+Tổng hợp, thống kê, phân tích báo cáo các số liệu theo tiêu chuẩn yêu cầu; từ đó đưa ra các nguy cơ, vấn đề và đề xuất thực hiện
+Thực hiện các nhiệm vụ liên quan đến công tác quản lý quy trình được lãnh đạo phòng/trưởng bộ phận giao
+Yêu cầu ứng viên
+Tốt nghiệp Đại học loại Khá trở lên từ các ngành CNTT, ATTT hoặc các ngành liên quan. Ưu tiên tốt nghiệp trường Đại học Bách khoa Hà Nội, Đại học Công nghệ, Học viện Công nghệ Bưu chính viễn thông
+Tiếng Anh tương đương 550+ TOEIC
+Có ít nhất 03 năm kinh nghiệm trong việc quản lý quy trình phát triển phần mềm
+Có đam mê, có tố chất phù hợp với công việc quản lý quy trình phát triển phần mềm
+Trung thực, tỉ mỉ, khả năng tương tác mềm dẻo, dứt khoát; tập trung cao độ trong công việc
+Sẵn sàng tiếp xúc với các yếu tố mới, hệ thống mới
+Kỹ năng làm việc nhóm tốt
+Kỹ năng trao đổi tốt (truyền đạt dễ hiểu, biết cách đưa ra vấn đề và làm rõ vấn đề/giải pháp)
+Quyền lợi
+Mức lương thu hút và cạnh tranh, ứng viên thỏa thuận khi tham gia phỏng vấn
+Chính sách thưởng hấp dẫn: thưởng theo tháng, thưởng quý, thưởng năm, ngày lễ Tết, ... theo quy định chung của Tập đoàn Viettel
+Đóng BHXH, BHYT, BHTN theo quy định Nhà nước; khám sức khỏe định kỳ hàng năm
+Cơ hội tiếp xúc với các dự án lớn, mới mẻ & tham gia xây dựng những sản phẩm lớn và có chỗ đứng trên thị trường Fintech Việt Nam
+Cơ hội thăng tiến rõ ràng với nhiều cấp bậc
+Cơ hội ứng tuyển thử sức đi học tập và làm việc tại nước ngoài theo các khóa ngắn hạn, dài hạn
+Công việc luôn thay đổi, thách thức, không thỏa hiệp với sự lỗi thời.
+Lãnh đạo trẻ trung, biết lắng nghe và sẵn sàng tạo cơ hội để cá nhân phát triển bản thân. Đồng nghiệp thân thiện và nhiệt tình.
+Nghỉ dưỡng 3 ngày nguyên lương trong năm, hỗ trợ nghỉ dưỡng lên đến 9 triệu/ người
+Tham gia các hoạt động thể thao văn hóa, team building, Ngày hội Sáng tạo, giải bóng đá, Viettel’ s Got Talent, event quý, event năm, event ngày nghỉ lễ tết,...
+Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày
+Thưởng thức bữa trưa được phục vụ ngay tại VDS, được chọn lọc bởi các chuyên gia dinh dưỡng.
+Địa điểm làm việc
+- Hà Nội: Tòa Keangnam, Phạm Hùng, Nam Từ Liêm
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+----------------------------------
+ Project Manager For Data Annotation (3 Years Of Experience)
+ CÔNG TY TNHH THOTH VIỆT NAM
+Mô tả công việc
+About Us: We are a leading BPO company specializing in data labeling, content review, and customer service. With a robust presence in the AI and BPO industries, we pride ourselves on delivering top-notch services to our global clients. As we expand our operations in Vietnam, we are seeking a dynamic and experienced Project Manager to join our team onsite in Hanoi. Job Summary: We are looking for an experienced Project Manager with a strong background in the BPO industry, particularly in data annotation, content moderation, or customer service. The ideal candidate will have at least 3 years of experience managing projects in these sectors, with a preference for candidates who have worked in leading BPO companies. The Project Manager will be responsible for overseeing the planning, implementation, and tracking of specific projects at Ha Noi City. Key Responsibilities:
+Lead the onsite team and coordinate with clients to ensure projects are delivered on time and within scope as per requirement.
+Develop project plans, including timelines, milestones, and resource allocation.
+Monitor project progress and performance, providing regular updates to stakeholders.
+Identify and mitigate project risks and issues.
+Ensure adherence to industry best practices and company standards.
+Foster a collaborative and high-performance project team environment.
+Conduct post-project evaluations to identify areas for improvement.
+Yêu cầu ứng viên
+Qualifications:
+Bachelor’s degree in Business Administration, Project Management, or a related field.
+Minimum of 3 years of project management experience, focusing on data annotation, content moderation, or customer service.
+Strong understanding of project management methodologies and tools.
+Excellent communication, leadership, and organizational skills.
+Ability to work effectively under pressure and meet tight deadlines. Preferred Skills:
+PMP or equivalent project management certification.
+Experience with AI, machine learning projects, or customer service operations.
+Knowledge of quality assurance and compliance standards in the BPO industry.
+Familiarity with data privacy regulations and best practices.
+Proficiency in project management software (e.g., Microsoft Project, Asana, Trello).
+Quyền lợi
+Competitive salary and benefits package.
+Opportunity to work with a diverse and talented team.
+Professional development and career growth opportunities.
+A dynamic and inclusive work environment.
+Địa điểm làm việc
+- Hà Nội: 139 Cầu Giấy, CTM Complex, Cầu Giấy
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 09:00 đến 18:00)
+----------------------------------
+ Project Manager
+ Công ty Cổ phần Hệ thống Công nghệ ETC
+ Pro Company
+Mô tả công việc
+Điều hành trực tiếp quá trình triển khai các dự án, lập và giám sát các công việc dự án (tiến độ, chi phí, nguồn lực, ...), chịu trách nhiệm trực tiếp với Ban lãnh đạo dự án về việc thực hiện các mục tiêu
+Xây dựng kế hoạch dự án chi tiết, phân công công việc cho các thành viên dự án và giám sát, đảm bảo tiến độ triển khai công việc;
+Lập kế hoạch nguồn lực, xây dựng đội dự án, quản lý và giám sát hiệu suất làm việc của các thành viên tham gia dự án;
+Đề xuất và xây dựng ngân sách dự án, quản lý chi tiêu đảm bảo trong ngân sách được phê duyệt;
+Theo dõi công việc dự án, phát hiện các vấn đề, rủi ro, chủ động xử lý hoặc đề xuất giải pháp lên các cấp cao hơn;
+Quản lý các thay đổi trong quá trình triển khai, quản lý vấn đề và các rủi ro của dự án, đảm bảo mọi thay đổi của dự án phải được phê duyệt và tuân thủ quy trình kiểm soát thay đổi của cty;
+Làm việc với các đối tác trong và ngoài nhằm đảm bảo tiến độ, nguồn lực, ngân sách, ... theo kế hoạch;
+Báo cáo định kỳ cho cấp liên quan về tiến độ, hiệu quả công việc của các thành viên dự án và các vấn đề gặp phải trong quá trình triển khai dự án;
+Tổ chức đào tạo thành viên, phát triển đội ngũ trong quá trình triển khai dự án.
+Thu thập thông tin từ dự án và đánh giá lợi ích dự án, từ đó tham vấn/đề xuất tổ chức thêm các chương trình mới để hỗ trợ định hướng chiến lược của tổ chức
+Yêu cầu ứng viên
+Tốt nghiệp Đại học trở lên
+Kinh nghiệm trên 3 năm là quản lý dự án công nghệ thông tin, ưu tiên ứng viên có kinh nghiệm với dự án áp dụng Agile
+Am hiểu về nghiệp vụ tài chính, ngân hàng là một lợi thế
+Giao tiếp và trình bày tốt
+Đàm phán và thuyết phục hiệu quả
+Tổ chức và quản lý thời gian; Làm việc theo nhóm
+Quản lý xung đột
+Quản trị rủi ro dự án
+Nhận trách nhiệm và chịu được áp lực cao
+Có khả năng đào tạo đội nhóm
+Chứng chỉ Quản lý dự án PMP, PMI-ACP là một lợi thế
+Quyền lợi
+Mức lương cạnh tranh.
+Môi trường làm việc thân thiện, năng động, có cơ hội phát triển bản thân và thăng tiến.
+Ghi nhận thành tích, tăng lương và tưởng thưởng kịp thời.
+Thưởng định kì ngày lễ 30/4, 2/9,... thường Tết
+Nghỉ thứ 7, chủ nhật và các ngày Lễ theo quy định.
+Được hỗ trợ tiền làm thêm giờ, phụ cấp hoạt động dự án.
+Được tham gia các khóa đào tạo do công ty tổ chức: kĩ năng mềm, nâng cao trình độ chuyên môn...
+Có cơ hội thăng tiến
+Được đào tạo, làm việc cùng các chuyên gia nước ngoài
+Có cơ hội công tác nước ngoài
+Được hưởng đầy đủ các chế độ bảo hiểm theo luật Việt Nam và quy định của công ty.
+Địa điểm làm việc
+- Hà Nội: Tòa 319 Bộ Quốc Phòng, 63 Lê Văn Lương, Cầu Giấy, HN, Cầu Giấy
+- Hồ Chí Minh: Tầng 10, The Six 8, 24/26 Phan Đình Giót, Phường 2, Quận Tân Bình, Hồ Chí Minh, Tân Bình
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+----------------------------------
+ Nhân Viên Thiết Kế Đồ Họa
+ HỘ KINH DOANH PHÒNG KHÁM CHUYÊN KHOA DA LIỄU TTCLINIC
+Mô tả công việc
+1. Thiết kế và quản lý hệ thống nhận diện thương hiệu cho Công ty.
+2. Thiết kế các sản phẩm offline: Voucher, Standee, Brochure, Catalogue,...
+3. Thiết kế các sản phẩm online: Banner, Post...trên các nền tảng (Website, Facebook, Google, Social, Youtube...)
+4. Thiết kế giao diện Ứng Dụng, Website, Landing page.
+5. Sáng tạo và triển khai Key Visual và POSM theo từng Campaign/Event
+6. Hỗ trợ bộ phận Content và Marketing lên ý tưởng và thiết kế cho nội dung hoặc các kế hoạch marketing
+Yêu cầu ứng viên
+1. Sử dụng thành thạo PS, AI, ... (Hồ sơ đính kèm PORTFOLIO)
+2. Có kinh nghiệm thiết kế Digital/UI là một điểm cộng (Ưu tiên ứng viên có kinh nghiệm > 1 năm)
+3. Có ý thức chủ động cập nhật xu hướng thiết kế, công nghệ mới để áp dụng vào công việc
+4. Cẩn thận, tỉ mỉ, tư duy sáng tạo, phân tích nội dung thiết kế, truyền tải ý tưởng tốt
+5. Có khả năng sắp xếp công việc, đảm bảo deadline, chịu được áp lực công việc
+6. Có thái độ tích cực, học hỏi nhanh, không ngại khó, không ngại thay đổi
+Quyền lợi
+1. Mức lương: 12-15 triệu/tháng + thưởng
+2. Được làm việc trong môi trường chuyên nghiệp, năng động
+3. Có cơ hội học hỏi các kĩ năng Marketing, Online Media
+4. BHXH, BHYT theo quy định của nhà nước
+5. Thử việc 1 tháng, 80% Lương
+6. Tham gia Team Building, Du lịch hàng năm cùng công ty
+Địa điểm làm việc
+- Hà Nội: 266 Mai Anh Tuấn, Đống Đa, HN, Đống Đa
+Thời gian làm việc
+Thứ 2 - Thứ 7 (từ 09:00 đến 19:00)
+----------------------------------
+ Java Dev (3+ Yr Exp) Sign-On Bonus
+ MARUSYS VINA CO.,LTD
+Mô tả công việc
+1. General Description
+You will be a part of an international development team developing tomorrow’s web applications.
+Building an ecosystem around ERP
+Building IoT software that allows control and monitoring of all types of devices and physical, virtual, and network management...
+Analyze issues with various tools and knowledge and find the right solutions
+2. Essential Duties and Responsibilities
+Deliver products with high responsibility, availability, scalability, security, and maintainability
+Collaborate proactively with Korean tech team and stockholders to develop applications.
+Translate business requirements into high-quality, well-tested, clean, simple, and maintainable code.
+Resolve any technical issues, risks, and challenges, escalating as necessary and providing solutions.
+Ensure that developed applications are well documented, tested, easy to maintain, and meet industry standards
+Yêu cầu ứng viên
+3.1. Qualifications
+Bachelor’s degree in Information Technology, Software, or equivalent.
+3.2. Work Experience
+Have 3 - 5 years of software development experience
+Strong hands-on experience with Spring Framework/Tomcat
+Experience with relational databases (Oracle/MySQL)
+Knowledge of UI/UX development using HTML5, CSS3, and JavaScript.
+Good knowledge of object-oriented concepts, programming, methods, and design patterns.
+Participating in all works in the software development process, including requirements inquiry, analysis, design, and research of new technology ...
+Solving issues, executing work according to plan, report work progress for direct management (PM)
+Good problem-solving, organizational and time-management skills
+OpenApi and RestApi integration (SAP integration) would be an added advantage.
+Experiences working on Containers (Docker) and DevOps technology on On-premise and Cloud (AWS, Oracle) will be an added advantage.
+3.3. Knowledge
+[Essential] Know how to write clean, efficient, reusable code
+[Essential] Process of Code Versioning (GIT)
+[Preference] Have a strong interest and basic understanding of AI tools such as ChatGPT & Copilot
+[Preference] Understanding of software development process and design.
+[Preference] Knowledge of Agile Scrum development process is a plus
+3.4. Skills and attitude
+Good Written English skill, Verbal English Communication is a big plus Good problem-solving skills, thorough, sincere, responsible, understanding mindset
+Logical thinking required as an engineer.
+Experience working independently and as part of a team. Active communication internally and externally
+Quyền lợi
+Benefits
+Salary will be negotiated depending on your competency
+Competitive compensation package (Basic salary, Monthly Allowance, Performance incentive, Profit Sharing) - Up to 15 -16 monthly salary/year
+Attractive benefits (SHUI Insurance, PTI Premium Health Care Insurance fully sponsored for both you and your family)
+Team-building Support Bonus quarterly
+100% official salary during the probation period, annual salary raise
+Extra bonus per special occasions (Birthday, Labor Day, National Day, Solar New Year, Lunar New Year)
+Annual company outing trip/travel benefit
+2. Working environment:
+5 working days/week with flexible working time and no overtime
+Chance to go on a business trip overseas
+English working environment: You will have chance to practice English in both 4 skills.
+Internal English Class fully sponsored by Company
+Professional, creative, comfortable, and flexible working environment
+Young and talented colleagues with nice and supportive leader
+Chance to develop a career with a clear and motivated performance management system
+Common cultural-sportive Clubs and activities, sponsored and/or supported by the Company
+Địa điểm làm việc
+- Hà Nội
+----------------------------------
+ Chuyên Viên Phát Triển Phần Mềm (Dev)
+ Công ty CP Bệnh viện đa khoa Quốc tế Vinmec
+Mô tả công việc
+Phát triển và triển khai các ứng dụng, tính năng mới hỗ trợ đa nền tảng cho iOS và Android
+Phân tích kỹ thuật và thiết kế chi tiết ứng dụng đảm bảo khả năng mở rộng, có cấu trúc tốt.
+Tối ưu hóa hệ thống để đảm bảo độ tin cậy và hiệu suất.
+Sửa lỗi và cải thiện hệ thống.
+Viết mã kiểm thử và thực hiện kiểm thử Unit Test.
+Thực hiện phát hành các ứng dụng trên Apple Store và Play Store.
+Rà soát, tối ưu mã nguồn.
+Yêu cầu ứng viên
+Đã tốt nghiệp ĐH chuyên ngành Công nghệ thông tin và các chuyên ngành liên quan
+Ít nhất 2 năm kinh nghiệm với Flutter (Dart)
+Quen thuộc với Kiến trúc Ứng dụng Flutter, MVVM, MVC, OOP
+Kiến thức tốt về GetX
+Kinh nghiệm mạnh về tùy chỉnh các Widget giao diện người dùng
+Có kinh nghiệm thành thạo trong việc tích hợp RESTful APIs, Dio và Interceptor
+Kỹ năng giải quyết vấn đề mạnh mẽ
+Quen thuộc với quản lý phiên bản nguồn (Git)
+Tinh thần làm việc nhóm và đáng tin cậy
+Có tinh thần nhiệt tình, chăm chỉ, cẩn thận
+Tiếng Anh tốt là lợi thế
+Kỹ năng bổ sung
+Kiến thức về Android, iOS native.
+Có ứng dụng trên Google Play, App Store.
+Quyền lợi
+Thu nhập hấp dẫn; Hỗ trợ ăn trưa tại Công ty
+Thưởng tháng lương 13; Được công ty cấp thêm gói Bảo hiểm sức khỏe PVI
+Chính sách phúc lợi ưu việt : ưu đãi giảm giá khám sức khỏe tiêu chuẩn quốc tế cho bản thân và gia đình; ưu đãi giảm giá sử dụng các dịch vụ thuộc Tập đoàn Vingroup: du lịch - nghỉ dưỡng, học tập, mua sắm, xe điện...
+Làm việc trong môi trường Bệnh viện đẳng cấp quốc tế, an toàn, chuyên nghiệp, thỏa sức khẳng định bản thân, sáng tạo và cống hiến
+Địa điểm làm việc
+- Hà Nội: 458 Minh Khai, Hai Bà Trưng
+----------------------------------
+ Graphic Designer - Nhân Viên Thiết Kế Đồ Họa
+ Công ty TNHH Anh ngữ Vietop
+Mô tả công việc
+Giáo trình: Trực tiếp thiết kế dàn trang ấn phẩm, tài liệu, giáo trình của công ty phục vụ hoạt động giảng dạy. Chịu trách nhiệm giám sát in ấn, hoàn thiện xuất bản.
+Ấn phẩm khác: Thiết kế các ấn phẩm khác phục vụ hoạt động quảng bá của công ty: poster, banner, social media post,...
+Nhiệm vụ phối hợp:
++ Phối hợp cùng bộ phận Content để phát triển Marketing Concept, hình ảnh sáng tạo.
++ Phối hợp cùng bộ phận Digital Marketing để thực hiện các sản phẩm đồ họa trên các nền tảng khác.
+Các công việc khác liên quan vị trí theo yêu cầu.
+Yêu cầu ứng viên
+Bắt buộc:
+Có kinh nghiệm trong công việc dàn trang ấn phẩm sách báo, tạp chí. Có kinh nghiệm làm việc tại các công ty xuất bản, tòa soạn, in ấn là một lợi thế. (có mini test về tiêu chí này)
+Tư duy sáng tạo, tinh thần chủ động, Có khả năng làm việc độc lập và theo nhóm, trách nhiệm với bản thân, team và công việc, tôn trọng deadline chung.
+Có Portfolio
+Ưu tiên:
+Tốt nghiệp chuyên ngành đào tạo về Thiết kế/Đồ họa, Mỹ thuật/ Hội họa, Kiến trúc.
+Có tư duy logic, khả năng chịu được áp lực.
+Có mong muốn trải nghiệm các sản phẩm thiết kế dàn trang với lượng thông tin lớn.
+Từng làm việc trong lĩnh vực giáo dục hoặc từng ôn luyện và thi IELTS
+Quyền lợi
+Mức lương: 10 – 18 triệu/tháng. Cơ chế thưởng Quý.
+Tham gia miễn phí khóa học IELTS tại công ty dành cho nhân sự và chính sách học phí riêng biệt dành cho người thân.
+Chính sách nhân viên chính thức: ngày phép năm, BHXH & BHYT, Team Building và khám sức khỏe theo kế hoạch chung của Công ty.
+Địa điểm làm việc
+- Hồ Chí Minh: 53 Gò Dầu, phường Tân Quý, quận Tân Phú, Tân Phú
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+Thứ 7 (từ 08:00 đến 12:00)
+Trong tuần trực tiếp tại văn phòng
+Thứ 7 online
+----------------------------------
+ Lập Trình Viên Java
+ CÔNG TY CỔ PHẦN SAVIS DIGITAL
+Mô tả công việc
+- Phát triển sản phẩm phần mềm trên nền tảng Java cho các đối tượng khách hàng khác nhau.
+- Tham gia sâu vào các giai đoạn của một dự án như: phân tích, thiết kế, thực thi, kiểm thử, bảo trì phần mềm
+- Nghiên cứu áp dụng công nghệ mới liên quan đến công việc
+- Lập trình các module có độ phức tạp cao, liên kết với các module khác
+- Tương tác với solution archiect về các yêu cầu của dự án, thiết kế và các công nghệ liên quan cần nghiên cứu
+- Chịu trách nhiệm xây dựng và đóng gói sản phẩm theo các phiên bản
+- Tài liệu hóa các đặc tả thiết kế và các chức năng
+- Cung cấp sản phẩm phần mềm đúng hạn, đúng chất lượng
+Yêu cầu ứng viên
+- Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính hoặc các ngành liên quan.
+- Hiểu biết về kiến trúc microsevices
+- Có kiến thức và kinh nghiệp lập trình pattern là một lợi thế.
+- Có khả năng làm việc trên hệ điều hành linux như Redhat linux, CentOS
+- Có kinh nghiệm về lập trình Java Srping Boot, Spring Data JPA, Spring Security, SOAP Service, Rest Service
+- Hiểu biết về HTML5/CSS3, Javascript, jQuery, Bootstrap; hiểu biết về một trong các framework JS như Angular, là một lợi thế
+- Hiểu biết về cơ sở dữ liệu SQL Server, Oracle, My SQL: Tự thiết kế cơ sở dữ liệu, viết store procedure, function và các script phức tạp
+- Sử dụng thành thạo các công cụ quản lý source như SVN, Git - Có khả năng tối ưu hóa thuật toán, script
+-Ưu tiên các ứng viên sử dụng tiếng anh tốt.
+Quyền lợi
+– Mức lương cực kỳ hấp dẫn tương xứng với khả năng và kinh nghiệm;
+– Đánh giá & xét tăng lương hằng năm, thưởng kinh doanh cuối năm, thưởng dự án, thưởng hiệu suất, thưởng các dịp lễ tết trong năm;
+– Cơ hội thể hiện bản thân, làm chủ công việc và thăng tiến cao trong sự nghiệp;
+– Cơ hội làm việc với các chuyên gia Công nghệ hàng đầu và các hãng công nghệ lớn trên thế giới;
+– Môi trường trẻ trung, năng động, khuyến khích mọi người thể hiện bản thân, tạo sân chơi lành mạnh với nhiều hoạt động sôi nổi;
+– Tổ chức sinh nhật và tặng quà cho nhân viên trong công ty theo tháng, khám sức khỏe định kỳ hằng năm;
+– Hưởng Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo chế độ nhà nước ban hành;
+– Teambuilding hàng năm, Olympic kỉ niệm ngày thành lập công ty, Year End Party, 20/10,... và một số hoạt động văn hóa độc đáo khác;
+– Khu vực pantry rộng rãi để giải trí, ăn uống giữa giờ, ăn trưa và tổ chức các hoạt động nội bộ;
+– Văn phòng công ty SANG – XỊN – MỊN tại phố Duy Tân, đặc biệt không gian được thiết kế mở để mọi người có thể giao lưu, trao đổi;
+– Và rất nhiều những cơ hội công việc hấp dẫn khác nữa.
+Địa điểm làm việc
+- Hà Nội: Tầng 9 tòa nhà Việt Á, số 9 Duy Tân, Cầu Giấy
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+Từ thứ 2 – hết sáng thứ 7: 8h00-12h00, 13h30-17h30 (thứ 7 cuối cùng của tháng nghỉ).
+----------------------------------
+ Data Engineer (Dự Án Banking)
+ Công ty Cổ phần Giải pháp Công nghệ TTC Việt Nam
+Mô tả công việc
+- Tham gia nghiên cứu, thiết kế và phát triển các sản phẩm dịch vụ Ngân hàng trên các hệ thống Oracle Report, Datawarehouse, Data Lake, ODS...
+- Có kiến thức về Datawarehouse, mô hình dữ liệu...
+- Thiết kế xây dựng ETL theo batch và realtime, sử dụng các công nghệ Big Data.
+- Phối hợp cùng BA, nhóm nghiệp vụ, PM, PO trong việc xây dựng mô hình, sử dụng, phân tích dữ liệu để giải quyết các vấn đề kinh doanh.
+- Nghiên cứu công nghệ và xu hướng phát triển công nghệ dữ liệu, đưa ra đề xuất nhằm cải tiến sản phẩm, trải nghiệm khách hàng, chất lượng dịch vụ.
+- Sử dụng công nghệ để tổ chức và duy trì dữ liệu trong database, phát triển chiến lược kiến trúc dữ liệu theo mô hình dữ liệu của Ngân hàng.
+- Quản lý, khai thác các hệ thống dữ liệu và báo cáo
+- Tham gia triển khai các dự án CNTT của ngân hàng.
+Yêu cầu ứng viên
+Kiến thức:
+- Tốt nghiệp Đại học trở lên chuyên ngành CNTT hoặc các ngành tương đương hoặc có các chứng chỉ tương đương được công nhận bởi các tổ chức uy tín
+Kinh nghiệm:
+- Có background về Software Engineering
+- Có hiểu biết về các hệ thống Big Data, Data Lake, Data Warehouse, ETL, ELT, EDA
+- Có hiểu biết về Hadoop eco-system: Hadoop HDFS, YARN, Spark...
+- Sử dụng thành thạo 1 trong các ngôn ngữ lập trình: Python/Java/Scala và SQL
+- Có kinh nghiệm triển khai các dự án về dữ liệu lớn, Data Warehouse
+- Ít nhất 2 năm kinh nghiệm về database, lập trình CSDL, vd: Orcale, Netezza, .... Ít nhất 2 năm kinh nghiệm trong sử dụng công cụ ETL. VD: Pentaho, Datastage....
+- Ít nhất 2 năm kinh nghiệm làm báo cáo. Công cụ báo cáo ví dụ: Tableau, Orcale BI, cognos IBM...
+- Đọc hiểu tài liệu cơ sở dữ liệu, tài liệu thiết kế phân tích nghiệp vụ....
+- Ưu tiên các ứng viên đã từng làm việc trong lĩnh vực tài chính- ngân hàng
+- Ưu tiên Nhân sự có kinh nghiệm làm ETL, phát triển xử lý dữ liệu
+- Có kinh nghiệm với các hệ thống học máy (Machine Learning), khai phá dữ liệu (Data Mining), các nền tảng Cloud, các hệ thống như Hadoop eco system, Spark, Cassandra, Neo4j ... là một lợi thế.
+Ngoại ngữ:
+- Có khả năng đọc viết tiếng Anh (cơ bản) nghe nói (nếu có thể).
+- Ưu tiên ứng viên có chứng chỉ Tiếng Anh quốc tế (TOEICS 450 trở lên hoặc tương đương)
+Quyền lợi
+1.Cơ hội phát triển bản thân:
+-Làm việc với đội ngũ kỹ sư, nhân viên năng động
+-Được lắng nghe, tôn trọng ý kiến, quan điểm cá nhân để trao đổi thẳng thắn, chia sẻ cùng phát triển.
+-Được lãnh đạo giàu kinh nghiệm đào tạo, định hướng con đường nghề nghiệp rõ ràng.
+-Được cử tham gia các khóa đào tạo mới, đào tạo nâng cao phù hợp với năng lực và nguyện vọng.
+-Được ghi nhận những đóng góp, nỗ lực kịp thời, chính xác.
+-Được tham gia học hoặc thi các chứng chỉ liên quan với chế độ hỗ trợ về chính sách từ Công ty
+2.Chế độ đãi ngộ:
+-Phụ cấp tăng ca, thưởng dự án, thưởng vượt chỉ tiêu, thưởng tháng lương thứ 13,...
+-Được công ty thực hiện đầy đủ nghĩa vụ về bảo hiểm; phụ cấp xăng xe, ăn trưa, sắc đẹp, thiết bị, thai sản, con nhỏ, cưới hỏi, sinh nhật,...
+-Định kỳ xét tăng lương theo năm hoặc đột xuất theo đánh giá.
+-Được hỗ trợ các thiết bị, công cụ cần thiết cho thực hiện công việc.
+-Trợ cấp chứng chỉ liên quan đến vị trí công việc.
+3.Đời sống tinh thần:
+-Môi trường làm việc chuyên nghiệp, thân thiện, cởi mở.
+-Tham gia các hoạt động về trau dồi ngôn ngữ (tiếng Anh)
+-Tham gia các cuộc thi nội bộ của Công ty về văn hóa theo quý
+-Các thành viên trong công ty gần gũi, gắn bó, quan tâm, giúp đỡ nhau cùng phát triển.
+-Được tham gia các hoạt động teambuilding theo tháng, quý, du lịch hàng năm.
+-Công ty luôn động viên và tạo điều kiện tốt nhất cho toàn thể nhân viên.
+Địa điểm làm việc
+- Hà Nội
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:30)
+----------------------------------
+ Lập Trình Viên FE
+ CÔNG TY CỔ PHẦN ICORP
+Mô tả công việc
+Thiết kế, phát triển, nâng cấp các ứng dụng web sử dụng công nghệ .NET 7+/ Angular 17+, React
+Làm việc với PO, UX/UI designers, đề xuất và triển khai các giải pháp phù hợp với hệ thống đáp ứng yêu cầu khách hàng về mặt tốc độ, an toàn và ổn định
+Định hướng và hỗ trợ công việc của các thành viên trong dự án
+Tạo và cập nhật tài liệu thiết kế, lập trình và các tài liệu kỹ thuật liên quan của dự án.
+Sử dụng Framework CSS; có một hoặc nhiều sản phẩm đã tự phát triển và ứng dụng về lĩnh vực bất kì là một lợi thế.
+Tiếng Anh: đọc và hiểu các tài liệu kỹ thuật trong lĩnh vực liên quan
+Yêu cầu ứng viên
+Từ 3 năm kinh nghiệm làm việc với AngularJs 17+, React, Typescript
+Có kinh nghiệm dựng codebase sử dụng AngularJs, ReactJs
+Có kinh nghiệm làm việc với các bộ theme thông dụng: Antdt; UI Component…
+Làm việc tốt với UI/UX responsive trên các kịch thước giao diện: Web/ Tablet/ Mobile web
+Kiến thức về các công nghệ như HTML5, CSS3 và JavaScript.
+Kinh nghiệm về thiết kế và tích hợp API RESTful.
+Có kinh nghiệm quản lý team là điểm cộng;
+Công cụ: Quen thuộc với các hệ thống kiểm soát phiên bản như Git.
+Kỹ năng ngôn ngữ: Kỹ năng giao tiếp tiếng Anh tốt, cả nói và viết.
+Kỹ năng mềm: Kỹ năng giải quyết vấn đề xuất sắc, chú ý đến chi tiết và kỹ năng giao tiếp mạnh mẽ.
+Kỹ năng bổ sung: Kinh nghiệm với các khung thử nghiệm đơn vị và phương pháp agile là một lợi thế.
+Quyền lợi
+Thu nhập: thỏa thuận theo năng lực, deal trong phỏng vấn. Thời gian làm việc: Thứ Hai – hết Sáng thứ 7 + Ca sáng: 8h30 – 12h00 + Ca chiều: 13h30 – 18h00
+Được học hỏi, đào tạo và tham gia vào các dự án lớn theo xu hướng công nghệ 4.0 trong lĩnh vực: Chính phủ, Y tế 4.0, Doanh nghiệp.
+Môi trường làm việc thân thiện, năng động;
+Được tham gia bảo hiểm đầy đủ theo quy định của pháp, Du lịch/nghỉ mát cùng công ty hàng năm;
+Lương tháng 13, thưởng cuối năm, xem xét tăng lương hàng năm;
+Tham gia các hoạt động văn hoá, sự kiện hấp dẫn của Công ty.
+Địa điểm làm việc
+- Hà Nội: Tầng 3 Số 112 Phố Dịch Vọng Hậu, Phường Dịch Vọng Hậu, Quận Cầu Giấy, TP Hà Nội, Cầu Giấy
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)
+Thứ 7 (từ 08:30 đến 12:00)
+----------------------------------
+ Giám Sát Danh Mục Tín Dụng ( Data Analyst)
+ Công ty TNHH TM G Collcet
+Mô tả công việc
+Kiểm soát rủi ro danh mục đúng cách (phát hiện / báo cáo / giám sát), có thể phát hiện các vấn đề một cách chủ động, phân tích đúng và báo cáo với tư duy logic rõ ràng, trình bày hiệu quả và dễ tiếp cận.
+Xây dựng và tối ưu hóa hệ thống các báo cáo định kỳ: theo dõi tỷ lệ phê duyệt, từ chối của từng sản phẩm, vùng miền, kênh bán; đánh giá chất lượng danh mục theo các kỹ thuật phân tích khác nhau (Vintage, Early Warning, Roll rate, ...)
+Tự động hóa, tối ưu hóa Báo cáo chất lượng danh mục, báo cáo cảnh báo sớm định kỳ
+Phân tích dữ liệu và lên báo cáo phục vụ xây dựng/ sửa đổi chính sách tín dụng, điều kiện sản phẩm và đề xuất các giải pháp quản lý rủi ro tín dụng thích hợp từng thời kỳ
+Xây dựng, vận hành và nâng cấp các mô hình đo lường rủi ro tín dụng: PD, LGD, EAD cho các phân khúc, danh mục khách hàng, sản phẩm, ...
+Thực hiện các yêu cầu phân tích khác của cấp quản lý
+Yêu cầu ứng viên
+Tốt nghiệp Đại học trở lên hoặc bằng cấp tương đương chuyên ngành liên quan đến số liệu như: toán ứng dụng, thống kê, kinh tế lượng, tài chính ngân hàng, quản lý thông tin
+Từ 2 năm kinh nghiệm trở lên liên quan đến báo cáo, phân tích định lượng, ...
+Hiểu các giá trị cốt lõi và vận dụng các giá trị cốt lõi của Công ty trong quá trình tác nghiệp
+Có hiểu biết về sản phẩm, dịch vụ tài chính tiêu dùng
+Hiểu và cung cấp các sản phẩm, dịch vụ đơn vị đang cung cấp theo quy định, quy trình sẵn có
+Nắm vững và hiểu rõ các kỹ thuật phân tích rủi ro như FPD, SPD, TPD, vintage, roll rate...
+Sử dụng tốt các phần mềm để hỗ trợ phân tích, dự báo như SQL, Python, Power BI, Tableau, VBA
+Am hiểu về các hệ thống LOS, LMS, các phần mềm tín dụng tiêu dùng
+Kỹ năng tin học văn phòng: sử dụng tốt Mcrosoft Word office (word, power point, excel)
+Quyền lợi
+Lương từ: 20 triệu- 25 triệu
+Làm việc từ T2 – T6
+Được làm việc trong môi trường Công ty Công nghệ - Tài chính chuyên nghiệp, năngđộng.
+Được xét nâng lương định kỳ theo chính sách lương thưởng của Công ty.
+Được hưởng đầy đủ các chế độ phúc lợi xã hội khác như: BHYT, BHXH; nghỉ phép theo quy định; nghỉ mát hàng năm; các hoạt động thăm hỏi ốm đau, hiếu hỉ của Công ty, tham gia các hoạt động team building của Công ty.
+Địa điểm làm việc
+- Hà Nội: Cầu Giấy
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+----------------------------------
+ Middle Java Developer
+ Công ty TNHH SETA international Việt Nam
+Mô tả công việc
+Join Company’s software development projects. Main requirement is to develop RESTful web services by interacting with backend systems which are Phoenix HBase and everything is on cloud GCP.
+Job descriptions will be discussed during the interview for details.
+Yêu cầu ứng viên
+Proficient in English
+Bachelor’s or master’s degree in engineering Computer Science, Software Engineering or equivalent discipline.
+1.5+ years of hands-on development experience, primarily using Java.
+Experience and knowledge of databases – both relational and NoSQL.
+Working knowledge of Java, Spring, Hibernate, REST, XML, JSON, Message Queues, databases – both relational and non-relational.
+Working knowledge of distributed messaging and streaming platforms, such as Apache Kafka Streams as well as dealing with unbounded data.
+Understanding of the TCP stack and MQTT/HTTP-based protocols.
+Knowledge and hands-on experience in docker development and deployments such as Kubernetes.
+Knowledge of CI/CD-based workflow
+Quyền lợi
+Salary: up to 30M
+Attractive salary and bonus based on performance.
+Full benefits for employees according to the Vietnam Labor Laws: social and health insurance
+An international, professional, young but innovative and dynamic environment working closely with international experts and joining conferences and workshops on exciting new technologies.
+Holidays based on Vietnamese labor law + paid vacations
+Opportunity to onsite in the US
+Company trip, Team Building
+Địa điểm làm việc
+- Hà Nội: Tầng 11, tòa nhà HL, ngõ 82, Duy Tân, Cầu Giấy, Cầu Giấy
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 09:00 đến 18:00)
+----------------------------------
+ Chuyên Viên Cao Cấp Phân Tích Nghiệp Vụ ( Business Analyst - BA )
+ CÔNG TY CỔ PHẦN CÔNG NGHỆ EC
+Mô tả công việc
+- Quản lý việc tiếp nhận, phân tích các yêu cầu cải tiến hệ thống, xây dựng sản phẩm mới, sửa lỗi phát sinh liên quan đến các mảng nghiệp vụ Tiền vay, Tiền gửi, Thông tin khách hàng, Thu chi hộ, nghiệp vụ Thẻ, Tài trợ thương mại, Thanh toán, Kinh doanh tiền tệ, Sổ cái... từ Hội Sở, các ĐVKD và nội bộ.
+- Hỗ trợ chuyên sâu về nghiệp vụ liên quan đến Tiền vay, Tiền gửi, Thông tin khách hàng, Thu chi hộ, nghiệp vụ Thẻ, Tài trợ thương mại, Thanh toán, Kinh doanh tiền tệ, Sổ cái...
+- Tổ chức quản lý và triển khai các dự án về công nghệ hỗ trợ kinh doanh và vận hành được phân công.
+- Thực hiện các nhiệm vụ khác theo sự phân công của cấp quản lý trực tiếp/lãnh đạo Trung Tâm/Khối.
+Yêu cầu ứng viên
+- Độ tuổi: 25 – 40 - Giới tính: Nam/Nữ
+- Trình độ học vấn, bằng cấp/chứng chỉ chuyên môn:
+- Tốt nghiệp đại học trở lên chuyên ngành kinh tế, tài chính ngân hàng, quản trị kinh doanh, công nghệ thông tin hoặc chuyên môn nghiệp vụ tương đương.
+- Phải có bằng hoặc chứng chỉ phân tích nghiệp vụ (BA), quản lý dự án (PMP).
+- Hiểu biết về lĩnh vực đảm nhận: Am hiểu quy trình quy định liên quan đến một hoặc một số mảng nghiệp vụ như Tiền vay, Tiền gửi, Thông tin khách hàng, Thu chi hộ, nghiệp vụ Thẻ, Tài trợ thương mại, Thanh toán, Kinh doanh tiền tệ, Sổ cái...
+- Kinh nghiệm làm việc: Có tối thiểu 05 năm kinh nghiệm về BA. Trong đó có ít nhất 02 năm quản lý dự án (PM).
+- Ưu tiên ứng viên có kinh nghiệm phân tích phát triển các chức năng, sản phẩm, dịch vụ, triển khai dự án trên hệ thống CNTT của ngân hàng.
+- Kỹ năng:
++ Kỹ năng ngoại ngữ: Cấp độ B hoặc tương đương.
++ Kỹ năng tin học: thành thạo vi tính văn phòng.
++ Kỹ năng mềm:
+• Kỹ năng tư duy, hệ thống, sáng tạo.
+• Kỹ năng giao tiếp, phối hợp và làm việc nhóm.
+• Kỹ năng phân tích và tổng hợp.
+• Kỹ năng giải quyết vấn đề.
+Quyền lợi
+- Mức lương: Mức lương cạnh tranh theo năng lực
+- Thời gian làm việc: - Khối Back office: 8h30-17h30 từ Thứ 2 đến Thứ 6, nghỉ Thứ 7, Chủ nhật, lễ Tết.
+- Khối kinh doanh: linh hoạt theo tính chất công việc
+- Làm việc trong môi trường năng động, chuyên nghiệp với nhiều dự án triển khai, có nhiều cơ hội thăng tiến.
+- Hưởng đầy đủ quyền lợi theo Luật Lao động
+- Khám sức khỏe định kì cho CBNV hàng năm.
+- Thưởng Lễ Tết: Tháng lương 13 + Thưởng Theo kết quả kinh doanh của Công ty.
+Địa điểm làm việc
+- Hà Nội: Tầng 4, 37 Bà Triệu, Hàng Bài, Hoàn Kiếm
+----------------------------------
+ Quản Trị Hệ Thống (System Administrator)
+ Công Ty Tài Chính Cổ Phần Tín Việt
+ Pro Company
+Mô tả công việc
+Triển khai, vận hành, giám sát và tối ưu các hệ thống: Active Directory, DNS, DHCP, Backup, Web Server, FTP Server, Load balancer...
+Xây dựng, vận hành, quản trị Hạ tầng Ảo hóa server, Ảo hóa ứng dụng và các dịch vụ Cloud: Microsoft 365, OCI, AWS.
+Xây dựng, vận hành, quản trị các phần mềm giám sát hoạt động của hệ thống như Grafana,Prometheus, PRTG, ELK, Zabbix.
+Vận hành hệ thống ảo hóa VMWare.
+Viết tài liệu triển khai, tài liệu hướng dẫn.
+Tham gia triển khai các dự án công nghệ.
+Tham gia phối hợp với bộ phận ANTT thực hiện vá các lỗ hổng bảo mật hệ thống.
+Tham gia nghiên cứu, đề xuất, triển khai các giải pháp giám sát, tự động hóa vận hành hệ thống;
+Thực hiện các công việc khác theo sự phân công của các cấp quản lý.
+Yêu cầu ứng viên
+1. Trình độ học vấn
+Tốt nghiệp chuyên ngành Công nghệ thông tin, Điện tử viễn thông hoặc các chuyên ngành khác có liên quan.
+2. Kinh nghiệm
+• Có tối thiểu 4 năm kinh nghiệm về quản trị, vận hành, triển khai hệ thống.
+3. Kiến thức/Kỹ năng/Năng lực chuyên môn
+• Kiến thức nền tảng vững chắc về giao thức TCP/IP và dịch vụ mạng.
+• Có kiến thức sâu về các hệ điều hành Red Hat Enterprise Linux, Windows Server
+• Ưu tiên ứng viên có kinh nghiệm triển khai và vận hành Hạ tầng ảo hóa Vmware
+• Có kinh nghiệm làm việc ít nhất với một trong các hệ thống Database: MySQL, Oracle
+• Có kinh nghiệm làm việc với các ngôn ngữ Bash, Python
+• Có kinh nghiệm làm việc với các Hệ thống Load balancer: Haproxy, Nginx
+• Có tư duy tối ưu hệ thống, logic tốt, tìm hiểu công nghệ mới nhanh chóng
+• Ưu tiên ứng viên có chứng chỉ quốc tế như MCSA, MCSE, VCP, LPI
+• Có khả năng đọc hiểu tài liệu tiếng Anh chuyên ngành
+Quyền lợi
+• Thu nhập: thỏa thuận theo kinh nghiệm;
+• 12 Phép năm + 1 phép sinh nhật,
+• Quyền lợi khác được hưởng:
++ Đóng BHXH sau 2 tháng thử việc;
++ Bảo hiểm y tế, Khám sức khỏe định kỳ;
++ Chi tặng hiếu hỷ theo quy định của công ty;
++ Tài trợ các hoạt động văn hóa, thể thao theo chương trình hằng năm
+Địa điểm làm việc
+- Hà Nội: 98 Hoàng Quốc Việt, Nghĩa Đô, Cầu Giấy
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)
+----------------------------------
+ Data Engineer - Thu Nhập Từ 30 Triệu/ Thưởng 1 Tháng Lương Khi Gia Nhập
+ Công Ty Cổ Phần Công Nghệ SellerSmith
+Mô tả công việc
+Thiết kế, triển khai và duy trì cơ sở dữ liệu, bao gồm cả databases (SQL/NoSQL), data warehouses và data lakes.
+Phân tích và xử lý dữ liệu từ nhiều nguồn khác nhau để chuẩn bị cho việc phân tích và báo cáo.
+Xây dựng và duy trì các pipeline dữ liệu để di chuyển dữ liệu từ nguồn đến mục tiêu một cách tự động và hiệu quả.
+Tối ưu hóa hiệu suất của hệ thống dữ liệu bằng cách tối ưu hóa truy vấn, tăng tốc độ xử lý và giảm thiểu thời gian chờ đợi.
+Đảm bảo tính bảo mật của dữ liệu thông qua triển khai các biện pháp bảo mật như mã hóa, kiểm soát truy cập và giám sát hoạt động không phù hợp.
+Giải quyết các vấn đề liên quan đến hiệu suất, bảo mật và tính nhất quán của hệ thống dữ liệu.
+Theo dõi và bảo trì hệ thống dữ liệu để đảm bảo rằng nó luôn hoạt động ổn định và đáp ứng được nhu cầu của Công ty..
+Yêu cầu ứng viên
+Bằng Cử nhân trong Công nghệ thông tin, Thống kê, Toán học hoặc ngành liên quan. Ưu tiên có bằng thạc sĩ.
+Kinh nghiệm làm việc với các công cụ và ngôn ngữ như SQL, Python, Javascript, Spark, Hadoop, Kafka, Airflow.
+Có tối thiểu 03 năm kinh nghiệm ở vị trí tương đương.
+Hiểu biết về các nguyên lý của cơ sở dữ liệu, lưu trữ dữ liệu và hệ thống phân phối.
+Khả năng phân tích và giải quyết các vấn đề phức tạp liên quan đến hiệu suất, bảo mật và tính nhất quán của dữ liệu.
+Sẵn lòng học hỏi và nâng cao kỹ năng liên quan đến lĩnh vực dữ liệu và công nghệ mới
+Kinh nghiệm sử dụng các công cụ Agile như Jira/ G-Suites, Confluence hoặc tương tự. Ưu tiên đã từng sử dụng Google Cloud BigQuery hoặc những service khác của Google Cloud.
+Tiếng Anh đọc, viết và giao tiếp tốt.
+Có chứng chỉ quốc tế về Data Engineer (AWS, CCA, CCP, IBM Certified Data Engineer, Google Professional Data Engineer ...) là một lợi thế.
+Tuy không là điều kiện tiên quyết, nhưng sẽ là lợi thế nếu bạn có:
+Có kinh nghiệm trong ngành Thương mại điện tử, dịch vụ phần mềm.
+Quyền lợi
+Lương chính: từ 30 triệu/tháng, thương lượng tuỳ khả năng. Xét tăng lương 6 tháng/ lần
+.
+Thưởng gia nhập công ty (singing bonus) lên đến 1 tháng lương.
+Thử việc 100% lương
+Thưởng định kỳ theo quý dựa trên đóng góp và kết quả thực tế của sản phẩm.
+Thưởng tháng 13 và các bảo hiểm đầy đủ theo pháp luật.
+Được cấp thiết bị cá nhân MacBook Pro trong ngày làm việc đầu tiên.
+Workspace linh hoạt trong không gian làm việc chung, tuỳ theo team dự án.
+Ăn nhẹ sáng, ăn trưa, ăn chiều và tủ đồ ăn vặt miễn phí tại văn phòng.
+Khám sức khỏe tổng quát định kỳ miễn phí 1 lần/ năm tại các bệnh viện lớn.
+Company trip dài ngày nước ngoài 1 lần / năm.
+1 ngày làm việc remote mỗi tháng nhằm thay đổi môi trường làm việc.
+12 ngày nghỉ phép và các ngày lễ theo quy định của nhà nước.
+Tham dự các hội thảo ở trong, ngoài nước và tiếp cận với những khoá học mất phí tại công ty.
+Địa điểm làm việc
+- Hà Nội: A1L2-08, Tầng 2, tòa A2, Ecolife Capitol, 58 Tố Hữu, P. Trung Văn, Nam Từ Liêm
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:00 đến 17:00)
+----------------------------------
+ Middle React Native Developer (Mobile/Edtech)
+ Step Up Education.,Jsc
+Mô tả công việc
+Phát triển sản phẩm mobile app The Coach hoặc tính năng mới cho hệ thống hiện có theo hướng dẫn của Team Leader
+Làm việc trực tiếp với BA, Tester để hiểu dự án và triển khai dự án
+Thiết kế kiến trúc dự án (mobile app)
+Kết nối APIs và làm việc trực tiếp với dev Backend và viết tài liệu dự án.
+Thời gian làm việc: 8h30 - 18h00, nghỉ trưa 1h30 phút, từ thứ 2 đến thứ 6 hàng tuần.
+Yêu cầu ứng viên
+Tối thiểu 2 năm gần nhất kinh nghiệm phát triển Mobile App (React Native).
+Thành tạo Redux Saga, redux toolkit.
+Có kinh nghiệm tối ưu Performance app
+Có kinh nghiệm làm việc với Firebase, Push Notification, Reanimated.
+Có kinh nghiệm trong việc tối ưu hiệu suất ứng dụng (memory usage, memory leak, cache,...)
+Có kinh nghiệm triển khai ứng dụng lên các kho ứng dụng (App Store, Google Play).
+Có kinh nghiệm xác định và xử lý các lỗi mà người dùng gặp phải.
+Có kiến thức về IOS và Android (Đã từng tham gia, giải quyết các vấn đề liên quan native ios, android là một lợi thế) Nếu chưa có thì cần có tiềm năng để học, vì trong công ty có người giỏi để hướng dẫn. Ngoài ra công ty sẵn sàng đầu tư tiền và thời gian giúp từng cá nhân giỏi lên. - Không chỉ giỏi, chúng mình tìm kiếm đồng đội “giỏi phù hợp”.
+- Yêu thích lĩnh vực giáo dục và có cảm tình với các sản phẩm của Step Up (sách và app Hack Não Pro, Siêu Sao Tiếng Anh, The Coach) Step Up tin rằng chúng mình có những mục tiêu tham vọng và vì khách hàng. Hãy gia nhập đội ngũ để cùng chia sẻ và chinh phục mục tiêu đó.
+Quyền lợi
+Lương cơ bản: 20 triệu – 30 triệu gross.
+Ăn cơm trưa tại công ty suất ăn 50.000đ/ngày.
+Phụ cấp laptop làm việc/tháng
+Lương tháng 13, thưởng lễ, quỹ bonding 200.000 - 300.000 vnđ/người/quý.
+Quyền lợi BHXH sau thử việc, 12 ngày phép năm.
+Quà sinh nhật, du lịch định kỳ hàng năm.
+Môi trường product đi sâu chuyên môn về mobile app, áp dụng hoàn toàn các công nghệ mới, app đã tích hợp GPT-AI
+Mở rộng góc nhìn ngoài chuyên môn. Làm trong một môi trường startup nên bạn sẽ được cảm nhận, phối hợp và có thể học được từ các phòng ban khác từ marketing, sales, cskh và tiếp cận trực tiếp với khách hàng
+Review theo năng lực thực tế, không giới hạn range
+Học free các sản phẩm tiếng Anh của công ty và Giáo viên nội bộ về tiếng Anh giao tiếp
+Được trao quyền, học hỏi và làm công nghệ mới.
+Địa điểm làm việc
+- Hà Nội: D09, Lô A10 KĐT Nam Trung Yên, Cầu Giấy
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:30 đến 18:00)
+----------------------------------
+ Nhân Viên Giải Pháp Công Nghệ Thông Tin
+ Tập đoàn công nghệ VIETSENS
+Mô tả công việc
+Phân tích và làm rõ các yêu cầu của khách hàng, bộ phận kinh doanh.
+Phân tích và đưa ra mô hình, giải pháp dựa trên yêu cầu đã làm rõ.
+Viếc đặc tài liệu đặc tả yêu cầu nghiệp vụ, tài liệu đặc tả usecase, thiết kế giao diện, thiết kế cơ sở dữ liệu.
+Tư vấn nghiệp vụ dựa trên các phân tích và nghiên cứu của mình.
+Truyền đạt nội dung, hỡ trợ các thành viên trong dự án để làm rõ yêu cầu cần đáp ứng.
+Tài liệu hóa hướng dẫn hệ thống.
+Hướng dẫn, hỗ trợ người dùng sử dụng sản phẩm và xử lý sự cố khi xẩy ra.
+Hướng dẫn, hộ trợ tích hợp với các hệ thống khác.
+Thực hiện tốt các công việc khác khi được giao từ cấp trên.
+Yêu cầu ứng viên
+Tốt nghiệp đại học, cao đẳng chuyên ngành CNTT hoặc chuyên ngành tương đương.
+Đã có kinh nghiệm ở vị trí Giải pháp (BA) là một lợi thế.
+Có kinh nghiệm trong việc xây dựng hệ thống triển khai liên tục cùng quy trình phát triển phần mềm Agile - Scrum là một lợi thế.
+Có kỹ năng về phân tích vấn đề.
+Có kỹ năng về thiết kế phần mềm, thiết kế hệ thống thông tin.
+Có kỹ năng về giao tiếp, thuyết trình và làm việc nhóm.
+Có kinh nghiệm về nghiệp vụ, quy trình cũng như các sản phẩm trong lĩnh vực y tế, chăm sóc sức khỏe, thanh toán điện tử là 1 lợi thế.
+Trách nhiệm, cẩn thận, tỉ mỉ và nhanh nhẹn.
+Chủ động, có tinh thần học hỏi cao.
+Quyền lợi
+Mức lương cạnh tranh, phù hợp với năng lực
+Được đào tạo chuyên sâu về các công nghệ và giải pháp CNTT hiện đại
+Cơ hội thăng tiến rõ ràng theo năng lực và đóng góp
+Môi trường làm việc chuyên nghiệp, năng động và sáng tạo
+Được tham gia các dự án lớn, tiếp xúc với công nghệ mới
+Chế độ bảo hiểm đầy đủ theo quy định của pháp luật
+Nghỉ phép năm
+Địa điểm làm việc
+- Hà Nội: Số 5, ngõ 70, Trương Công Giai, Cầu Giấy, Hà Nội, Cầu Giấy
+Thời gian làm việc
+Thứ 2 - Thứ 6 (từ 08:30 đến 17:30)
+Thứ 7 (từ 08:30 đến 12:00)
+----------------------------------
+ Chuyên Viên Công Nghệ Thông Tin
+ Công ty Cổ phần Điện cơ Thống Nhất
+Mô tả công việc
+Hỗ trợ, hướng dẫn người dùng sử dụng các ứng dụng và trang thiết bị CNTT
+Chịu trách nhiệm quản lý và tận dụng hiệu quà toàn bộ các tài sản CNTT, các ứng dụng CNTT, đảm bảo luôn trong tình trạng tốt.
+Đề xuất sửa chữa, nâng cấp thay thế theo yêu cầu công việc và tình trạng trang thiết bị
+Phối hợp, tham gia triển khai các ứng dụng, trang thiết bị CNTT cho người dùng sử dụng
+Hỗ trợ vận hành hạ tầng công nghệ thông tin doanh nghiệp
+Xây dựng hệ thống, tiêu chuẩn lưu trữ vào bảo mật dữ liệu
+Các công việc được phân công khác theo chức năng nhiệm vụ
+Yêu cầu ứng viên
+1. Trình độ: Tốt nghiệp đại học trở lên chuyên ngành Công nghệ thông tin, Hệ thống công nghệ..
+2. Kinh nghiệm: Có kinh nghiệm 2 - 3 năm
+3. Tin học: Sử dụng thành thạo tin học văn phòng
+4. Các yêu cầu khác:
+- Kiên nhẫn, chủ động trong công việc
+- Nắm vững các kiến thức về phần cứng PC, Laptop, Hệ điều hành Windows, các ứng dụng văn phòng, máy chiếu, hệ thống mạng, máy in...
+- Kỹ năng làm việc nhóm, ,kỹ năng làm việc độc lập
+- Học hỏi và luôn cập nhật kiến thức
+Quyền lợi
+Thu nhập: 12.000.000 - 14.000.000đ/tháng + Phụ cấp + Thưởng theo quy định của Công ty
+Chế độ BHXH, BHYT, BHTN,...
+Chế độ nghỉ Lễ, Tết, Phép...
+Chế độ khám sức khỏe, nghỉ mát, bảo hiểm sức khỏe...
+Địa điểm làm việc
+- Hà Nội: Số 164 Nguyễn Đức Cảnh, Tương Mai, Hoàng Mai
+Thời gian làm việc
+Thứ 2 - Thứ 7 (từ 07:30 đến 16:30)
+----------------------------------
