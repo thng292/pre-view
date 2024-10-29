@@ -2,6 +2,7 @@ from datasets import Dataset
 
 content = []
 
+j = 0
 for i in range(1, 9):
     with open(f'jobData{i}.txt', 'r') as file:
         current_element = []
@@ -13,10 +14,9 @@ for i in range(1, 9):
                 current_element.append(line.strip())
 
     with open(f'jobLink{i}.txt', 'r') as file:
-        i = 0
         for line in file:
-            content[i]['link'] = line
-            i += 1
+            content[j]['link'] = line
+            j += 1
 
 dataset = Dataset.from_list(content)
 print(dataset)
