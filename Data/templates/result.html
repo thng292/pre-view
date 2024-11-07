@@ -1,0 +1,28 @@
+<!-- templates/result.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Info Extraction Result</title>
+</head>
+<body>
+    <h1>Extracted Job Information</h1>
+    <ul>
+        <li><strong>Company Name:</strong> {{ info.companyName }}</li>
+        <li><strong>Job Title:</strong> {{ info.jobTitle }}</li>
+        <li><strong>Job Level:</strong> {{ info.jobLevel }}</li>
+        <li><strong>Years of Experience:</strong> {{ info.yoe }}</li>
+        <li><strong>Programming Languages:</strong> {{ info.programmingLanguages | join(", ") }}</li>
+        <li><strong>Frameworks:</strong> {{ info.frameworks | join(", ") }}</li>
+        <li><strong>Skills:</strong> {{ info.skills | join(", ") }}</li>
+        <li><strong>Responsibilities:</strong></li>
+        <ul>
+            {% for responsibility in info.responsibilities %}
+                <li>{{ responsibility }}</li>
+            {% endfor %}
+        </ul>
+    </ul>
+    <a href="/">Go Back</a>
+</body>
+</html>
