@@ -69,7 +69,8 @@ async def extract_job_info(request: Request, job_description: str = Form(...)):
     Do not add more words to the JSON output; if you want to add a little thought or notes, use a comment instead."""
 
     # Load API key from environment variable
-    api_key = dotenv.get_key("GEMINI_API_KEY")
+    dotenv.load_dotenv()
+    api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         raise HTTPException(status_code=500, detail="API key not found")
     
