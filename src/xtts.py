@@ -38,7 +38,7 @@ class Text2SpeechModule:
         output_path = 'output.wav'
     ): 
         if self.gpt_cond_latent == None or self.speaker_embedding ==None:
-            return None
+            return
         out = self.model.inference(
             prompt,
             language,
