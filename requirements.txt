@@ -1,10 +1,6 @@
+dotenv
 fastapi[standard]==0.115.0
 google-generativeai==0.8.3
 langchain==0.3.3
 datasets
-transformers==4.45.2
---extra-index-url=https://download.pytorch.org/whl/cu121
-torch==2.4.1+cu121
-torchaudio==2.4.1+cu121
-torchvision==0.19.1+cu121
-TTS==0.22.0
+transformers==4.46.1
