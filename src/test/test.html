@@ -1,0 +1,103 @@
+<!-- Home.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <input type="file" id="fileInput" />
+    </div>
+    <div>
+        <input type="text" id="textInput" />
+    </div>
+    <div>
+        <button id="startAudioBtn">Start Audio</button>
+    </div>
+    <div>
+        <button id="stopAudioBtn">Stop Audio</button>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.8.1/socket.io.js"></script>
+    <script>
+        const socket = io("http://localhost:8000/", { transports: ['websocket'] });
+
+        const audioElement = document.getElementById('audioOutput');
+        const fileInput = document.getElementById('fileInput');
+        const textInput = document.getElementById('textInput');
+
+
+        textInput.addEventListener('change', function (event) {
+            console.log(`Text: ${event.target.value}`);
+
+            socket.emit('input_text', { 'text': event.target.value, 'code': 'hello world' });
+        });
+
+        fileInput.addEventListener('change', function (event) {
+            const file = event.target.files[0];
+
+            if (file) {
+                console.log(`File selected: ${file.name}`);
+                const reader = new FileReader();
+
+                reader.onload = function (e) {
+                    // This function is triggered when the file is read successfully
+                    const fileContent = e.target.result;
+                    console.log('File content as ArrayBuffer:', fileContent);
+
+                    socket.emit('input_audio', { 'audio': fileContent, 'code': 'hello world' });
+                };
+
+                reader.onerror = function (e) {
+                    console.error('Error reading file:', e.target.error);
+                };
+
+                reader.readAsArrayBuffer(file);
+            }
+        });
+        let audioBuffer = null;
+        let audioContext = new AudioContext();
+        let source = null;
+
+        socket.on('response', function (data) {
+            console.log(data);
+            let text = data['text'];
+            let buffer = data['audio'];
+            let enable_code = data['enable_code']
+            console.log('Received text from server: ' + text);
+            console.log('Received enable_code: ' + enable_code);
+            audioContext.decodeAudioData(buffer, function (decodedBuffer) {
+                console.log('Audio decoded successfully.');
+                audioBuffer = decodedBuffer;
+                source = audioContext.createBufferSource();
+            }, function (error) {
+                console.error('Error decoding audio data: ', error);
+            });
+        });
+
+        document.getElementById('startAudioBtn').addEventListener('click', function () {
+            if (audioBuffer) {
+                source.buffer = audioBuffer;
+                source.connect(audioContext.destination);
+                source.start(0);
+                console.log('Audio started playing');
+            } else {
+                console.log('Audio data not ready yet');
+            }
+        });
+
+        document.getElementById('stopAudioBtn').addEventListener('click', function () {
+            if (audioBuffer) {
+                source.stop();
+                console.log('Audio stopped');
+            } else {
+                console.log('Audio data not ready yet');
+            }
+        });
+    </script>
+</body>
+
+</html>
