@@ -1,6 +1,5 @@
-from fastapi import FastAPI, Form, HTTPException, Request
-from fastapi.responses import HTMLResponse
-from fastapi.templating import Jinja2Templates
+from fastapi import FastAPI, HTTPException
+from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 import httpx
 import os
@@ -13,7 +12,6 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 app = FastAPI()
-templates = Jinja2Templates(directory="./Data/templates")
 
 # Define a Pydantic model to structure the expected response
 class JobExtractedInfo(BaseModel):
@@ -26,14 +24,19 @@ class JobExtractedInfo(BaseModel):
     skills: list
     responsibilities: list
 
-# Render the form for user input
-@app.get("/", response_class=HTMLResponse)
-async def read_root(request: Request):
-    return templates.TemplateResponse("index.html", {"request": request})
+# Define a Pydantic model for the input data
+class JobDescriptionRequest(BaseModel):
+    job_description: str
+
+@app.get("/")
+async def read_root():
+    return {"message": "Welcome to the Job Description Extractor API!"}
 
 # Define the endpoint for submitting the job description
-@app.post("/extract-job-info", response_class=HTMLResponse)
-async def extract_job_info(request: Request, job_description: str = Form(...)):
+@app.post("/extract-job-info", response_model=JobExtractedInfo)
+async def extract_job_info(request: JobDescriptionRequest):
+    job_description = request.job_description
+    
     # Define the prompt template
     prompt = f"""This is a job description of a job related to IT field: 
     \n\n{job_description}\n\nExtract the following information from the above paragraph and export it to valid JSON:
@@ -100,7 +103,7 @@ async def extract_job_info(request: Request, job_description: str = Form(...)):
         
         try:
             extracted_info = JobExtractedInfo(**json.loads(job_info))
-            return templates.TemplateResponse("result.html", {"request": request, "info": extracted_info})
+            return extracted_info
         except Exception as e:
             logger.error("Failed to parse JSON: %s", str(e))
             raise HTTPException(status_code=500, detail=f"Failed to parse JSON: {str(e)}")

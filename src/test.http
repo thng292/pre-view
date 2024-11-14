@@ -1,0 +1,12 @@
+
+
+GET http://localhost:8000/
+
+###
+
+POST http://localhost:8000/extract-job-info
+Content-Type: application/json
+
+{
+    "job_description": "Cán Bộ Phát Triển Hệ Thống - Trường Đại Học FPT   TỔ CHỨC GIÁO DỤC FPT Pro Company Mô tả công việc Lập trình các tính năng theo yêu cầu và quản trị website, Fanpage của Trung tâm MKT & TSTT. Quản trị và cải tiến hệ thống CRM, Tổng đài tư vấn của Trung tâm. Tham gia triển khai các hạng mục kỹ thuật trong kế hoạch hoạt động tuyển sinh của năm. Chịu trách nhiệm cá nhân trực tiếp các công việc do Giám đốc Trung tâm phân công. Tham gia các hoạt động khác của Trung tâm do Giám đốc Trung tâm phân công Tham gia các hoạt động chung của tổ chức khi có yêu cầu Các công việc khác theo sự phân công của cán bộ quản lý trực tiếp. Yêu cầu ứng viên Tốt nghiệp Đại học chuyên ngành CNTT (Phần mềm)/Kỹ thuật phần mềm/Thiết kế website Có kinh nghiệm lập trình PHP, MySQL, Wordpress Development (themes, plugin) Có kinh nghiệm với Web Services, NoSQL, Node.js, SugarCRM Có kinh nghiệm và hiểu biết thực tế về SEO Kỹ năng đọc hiểu tiếng Anh tốt Có khả năng phân tích và xử lý tình huống tốt Có khả năng & chủ động học công nghệ mới Có khả năng làm việc nhóm cũng như độc lập, có khả năng chịu đựng được áp lực công việc Ưu tiên: Có kinh nghiệm lập trình ít nhất 1 năm với PHP/ MySQL/Wordpress Development (themes, plugin). Có kinh nghiệm và hiểu biết thực tế ít nhất 6 tháng về SEO. Có kinh nghiệm triển khai các hoạt động kỹ thuật Digital Marketing. Quyền lợi Môi trường làm việc năng động, chuyên nghiệp Có mức thu nhập hấp dẫn Có cơ hội tham gia các hoạt động đào tạo nâng cao trình độ Hưởng chế độ chăm sóc sức khỏe đặc biệt dành cho bản thân và gia đình (FPT care) Được đóng BHXH, BHYT, BHTN... theo quy định của Nhà nước Người nhà được hưởng chế độ ưu đãi học phí khi học tập tại Tổ chức Giáo dục FPT Các quyền lợi khác: du lịch nghỉ mát hàng năm, tham gia các hoạt động vui chơi giải trí... Địa điểm làm việc - Hà Nội: Trường Đại học FPT, Khu công nghệ cao Hòa Lạc, Thạch Hòa, Thạch Thất, Hà Nội (có xe đưa đón hàng ngày), Thạch Thất Thời gian làm việc Thứ 2 - Thứ 6 (từ 08:15 đến 17:15)"
+}
