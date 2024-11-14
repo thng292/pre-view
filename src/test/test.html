@@ -34,7 +34,12 @@
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.8.1/socket.io.js"></script>
     <script>
-        const socket = io("http://localhost:8000/", { transports: ['websocket'] });
+        const socket = io("http://localhost:8000/", {
+            reconnectionDelay: 1000,
+            pingInterval: 100000,
+            ping_timeout: 1000000,
+            transports: ['websocket']
+        });
 
         const audioElement = document.getElementById('audioOutput');
         const fileInput = document.getElementById('fileInput');
@@ -76,6 +81,14 @@
         let audioBuffer = null;
         let audioContext = new AudioContext();
         let source = null;
+
+        socket.on('connect_error', (err) => {
+            console.error('Connection Error:', err);
+        });
+
+        socket.on('disconnect', (reason) => {
+            console.log('Disconnected due to:', reason);
+        });
 
         socket.on('response', function (data) {
             console.log(data);

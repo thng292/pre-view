@@ -27,8 +27,11 @@ tts.setSpeaker('model\\samples\\nu-luu-loat.wav')
 
 app = FastAPI()
 sio=socketio.AsyncServer(async_mode="asgi", 
+                         connection_timeout = 1000,
+                         ping_interval=100,
+                         ping_timeout=1000,
                          cors_allowed_origins="*",
-                         max_http_buffer_size=10 * 1024 * 1024, # 10MB
+                         max_http_buffer_size=100 * 1024 * 1024, # 100MB
                          transports=['websocket'])
 app.add_middleware(
     CORSMiddleware,
@@ -55,14 +58,7 @@ async def disconnect(sid):
     if str(sid) in chat_sessions:
         del chat_sessions[str(sid)]
 
-@sio.on('input_audio')
-async def input_audio_process(sid, data):
-    print("- Client: " + str(sid) + 'sent audio:')
-    # testing
-    print('code: ' + data['code'])
-    #with open('src\\test\\output_file.wav', 'wb') as file:
-    #    file.write(data['audio'])
-
+async def processAudio(sid, data):
     if str(sid) in chat_sessions:
         if data['code'] != '':
             rep = chat_sessions[str(sid)].send_message([{
@@ -77,18 +73,13 @@ async def input_audio_process(sid, data):
         print('TTS running for text: ' + rep.text)
         tts.predict(rep.text, 'vi', f'temp\\{str(sid)}.wav')
         print('TTS finish')
+        print('sending data')
         
         with open(f'temp\\{str(sid)}.wav', 'rb') as f:
             audio_data = f.read()
         await response(sid, audio_data, rep.text, False)
 
-@sio.on('input_text')
-async def input_audio_process(sid, data):
-    print("- Client: " + str(sid) + 'sent text:')
-    # testing
-    print('code: ' + data['code'])
-    print('text: ' + data['text'])
-
+async def processText(sid, data):
     if str(sid) in chat_sessions:
         if data['code'] != '':
             rep = chat_sessions[str(sid)].send_message(data['text'])
@@ -100,7 +91,25 @@ async def input_audio_process(sid, data):
 
         with open(f'temp\\{str(sid)}.wav', 'rb') as f:
             audio_data = f.read()
+        print('sending data')
         await response(sid, audio_data, rep.text, False)
+
+@sio.on('input_audio')
+async def input_audio_process(sid, data):
+    print("- Client: " + str(sid) + 'sent audio:')
+    # testing
+    print('code: ' + data['code'])
+    #with open('src\\test\\output_file.wav', 'wb') as file:
+    #    file.write(data['audio'])
+    sio.start_background_task(processAudio,sid, data)
+
+@sio.on('input_text')
+async def input_audio_process(sid, data):
+    print("- Client: " + str(sid) + 'sent text:')
+    # testing
+    print('code: ' + data['code'])
+    print('text: ' + data['text'])
+    sio.start_background_task(processText,sid, data)
 
 # Hosting web
 templates = Jinja2Templates(directory="pre-view-frontend/dist")
