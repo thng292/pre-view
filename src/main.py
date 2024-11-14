@@ -16,11 +16,6 @@ gemini_flash = genai.GenerativeModel(model_name="gemini-1.5-flash")
 
 app = FastAPI()
 
-templates = Jinja2Templates(directory="pre-view-frontend/dist")
-
-app.mount("/assets", StaticFiles(directory="pre-view-frontend/dist/assets"), "static")
-# app.mount('/unity', StaticFiles(directory="pre-view-frontend/unity"), 'static')
-
 
 # Define a Pydantic model to structure the expected response
 class JobExtractInput(BaseModel):
