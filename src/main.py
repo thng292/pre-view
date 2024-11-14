@@ -11,8 +11,19 @@ from fastapi.requests import Request
 from fastapi.middleware.cors import CORSMiddleware
 import socketio
 
-#load_dotenv('.env')
-#genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+from xtts import Text2SpeechModule
+
+load_dotenv('.env')
+genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+
+model = genai.GenerativeModel(
+  model_name="gemini-1.5-flash",
+  #system_instruction=""
+)
+chat_sessions = {}
+
+tts = Text2SpeechModule()
+tts.setSpeaker('model\\samples\\nu-luu-loat.wav')
 
 app = FastAPI()
 sio=socketio.AsyncServer(async_mode="asgi", 
@@ -27,44 +38,69 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-socket_app = socketio.ASGIApp(sio)
-
-app.mount("/socket.io/", socket_app)
-
 # Socketio
+socket_app = socketio.ASGIApp(sio)
+app.mount("/socket.io/", socket_app)
 async def response(sid, audio_data, text, enable_code):
     await sio.emit('response', {'audio': audio_data, 'text': text, 'enable_code': enable_code}, to=sid)
 
 @sio.event
 async def connect(sid, environ, auth=None):
-    print("- New Client Connected to This id :"+" "+str(sid))
+    print("- New Client Connected to This id: "+ str(sid))
+    chat_sessions[str(sid)] = model.start_chat()
 
 @sio.event
 async def disconnect(sid):
-    print("- Client Disconnected: "+" "+str(sid))
+    print("- Client Disconnected: " + str(sid))
+    if str(sid) in chat_sessions:
+        del chat_sessions[str(sid)]
 
 @sio.on('input_audio')
 async def input_audio_process(sid, data):
     print("- Client: " + str(sid) + 'sent audio:')
-    print('code: ' + data['code'])
-    
     # testing
-    with open('src\\test\\output_file.wav', 'wb') as file:
-        file.write(data['audio'])
-    with open('src\\test\\nu-luu-loat.wav', 'rb') as f:
-        audio_data = f.read()
-    await response(sid, audio_data, 'hello', True)
+    print('code: ' + data['code'])
+    #with open('src\\test\\output_file.wav', 'wb') as file:
+    #    file.write(data['audio'])
+
+    if str(sid) in chat_sessions:
+        if data['code'] != '':
+            rep = chat_sessions[str(sid)].send_message([{
+                "mime_type": "audio/wav",
+                "data": data['audio']
+            }, data['code']])
+        else:
+            rep = chat_sessions[str(sid)].send_message({
+                "mime_type": "audio/wav",
+                "data": data['audio']
+            })
+        print('TTS running for text: ' + rep.text)
+        tts.predict(rep.text, 'vi', f'temp\\{str(sid)}.wav')
+        print('TTS finish')
+        
+        with open(f'temp\\{str(sid)}.wav', 'rb') as f:
+            audio_data = f.read()
+        await response(sid, audio_data, rep.text, False)
 
 @sio.on('input_text')
 async def input_audio_process(sid, data):
     print("- Client: " + str(sid) + 'sent text:')
+    # testing
     print('code: ' + data['code'])
     print('text: ' + data['text'])
 
-    # testing
-    with open('src\\test\\nu-luu-loat.wav', 'rb') as f:
-        audio_data = f.read()
-    await response(sid, audio_data, 'hello', True)
+    if str(sid) in chat_sessions:
+        if data['code'] != '':
+            rep = chat_sessions[str(sid)].send_message(data['text'])
+        else:
+            rep = chat_sessions[str(sid)].send_message([data['text'], data['code']])
+        print('TTS running for text: ' + rep.text)
+        tts.predict(rep.text, 'vi', f'temp\\{str(sid)}.wav')
+        print('TTS finish')
+
+        with open(f'temp\\{str(sid)}.wav', 'rb') as f:
+            audio_data = f.read()
+        await response(sid, audio_data, rep.text, False)
 
 # Hosting web
 templates = Jinja2Templates(directory="pre-view-frontend/dist")

@@ -17,8 +17,12 @@ RUN npm install
 RUN npm run build
 WORKDIR /app
 
+
 RUN python -m pip install --upgrade pip
 COPY ./requirements.txt requirements.txt
+
+RUN pip install git+https://github.com/thinhlpg/TTS.git@add-vietnamese-xtts
 RUN pip install --no-cache-dir --upgrade -r requirements.txt
+#RUN python src/download_model.py
 
 CMD ["fastapi", "run", "src/main.py"]
