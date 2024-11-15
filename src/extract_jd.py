@@ -1,4 +1,4 @@
-from enum import StrEnum
+from enum import Enum
 from pydantic import BaseModel
 from google.generativeai import GenerativeModel, GenerationConfig
 import json
@@ -9,7 +9,7 @@ You are a senior developer. You will assist a friend finding job."""
 model = GenerativeModel("gemini-1.5-flash-002", system_instruction=SYSTEM_INSTRUCTION)
 
 
-class JobLevel(StrEnum):
+class JobLevel(str, Enum):
     intern = "intern"
     fresher = "fresher"
     junior = "junior"
@@ -17,13 +17,13 @@ class JobLevel(StrEnum):
     senior = "senior"
 
 
-class ProblemDifficulty(StrEnum):
+class ProblemDifficulty(str, Enum):
     easy = "easy"
     medium = "medium"
     hard = "hard"
 
 
-class ProblemTag(StrEnum):
+class ProblemTag(str, Enum):
     hashTable = "Hash Table"
     math = "Math"
     twoPointers = "Two Pointers"

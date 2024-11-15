@@ -1,16 +1,17 @@
 import os
-import re
-import time
 
 import torch
 import torchaudio
 from TTS.tts.configs.xtts_config import XttsConfig
 from TTS.tts.models.xtts import Xtts
+from download_model import downloadModel
 
 model_path = "model/"
 
+
 class Text2SpeechModule:
     def __init__(self):
+        downloadModel()
         xtts_config_path = os.path.join(model_path, "config.json")
         config = XttsConfig()
         config.load_json(xtts_config_path)
@@ -19,7 +20,10 @@ class Text2SpeechModule:
 
         self.model = Xtts.init_from_config(config)
         self.model.load_checkpoint(
-            config, checkpoint_dir=model_path, use_deepspeed=False, vocab_path=vocab_path
+            config,
+            checkpoint_dir=model_path,
+            use_deepspeed=False,
+            vocab_path=vocab_path,
         )
         if torch.cuda.is_available():
             self.model.cuda()
@@ -27,17 +31,14 @@ class Text2SpeechModule:
         self.speaker_embedding = None
 
     def setSpeaker(self, speaker_wav: str):
-        self.gpt_cond_latent,self.speaker_embedding = self.model.get_conditioning_latents(
-                audio_path=speaker_wav,
-                gpt_cond_len=30,
-                gpt_cond_chunk_len=4)
+        self.gpt_cond_latent, self.speaker_embedding = (
+            self.model.get_conditioning_latents(
+                audio_path=speaker_wav, gpt_cond_len=30, gpt_cond_chunk_len=4
+            )
+        )
 
-    def predict(self,
-        prompt,
-        language,
-        output_path = 'output.wav'
-    ): 
-        if self.gpt_cond_latent == None or self.speaker_embedding ==None:
+    def predict(self, prompt, language, output_path="output.wav"):
+        if self.gpt_cond_latent == None or self.speaker_embedding == None:
             return
         out = self.model.inference(
             prompt,
@@ -46,11 +47,12 @@ class Text2SpeechModule:
             self.speaker_embedding,
             repetition_penalty=5.0,
             temperature=0.75,
-            enable_text_splitting=True
+            enable_text_splitting=True,
         )
         torchaudio.save(output_path, torch.tensor(out["wav"]).unsqueeze(0), 24000)
 
-'''
+
+"""
 tts = Text2SpeechModule()
 tts.setSpeaker('model/samples/nu-luu-loat.wav')
 
@@ -60,4 +62,4 @@ for i in range(10):
             'vi',f'output{i}.wav')
     print(time.time() - t)
     time.sleep(5)
-'''
+"""

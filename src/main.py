@@ -23,7 +23,7 @@ model = genai.GenerativeModel(
 chat_sessions = {}
 
 tts = Text2SpeechModule()
-tts.setSpeaker("model\\samples\\nu-luu-loat.wav")
+tts.setSpeaker("model/samples/nu-luu-loat.wav")
 
 app = FastAPI()
 sio = socketio.AsyncServer(
