@@ -7,4 +7,4 @@ torchvision
 torchaudio
 transformers==4.46.1
 datasets
-TTS
+coqui-tts[server, notebooks]
