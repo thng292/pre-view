@@ -1,9 +1,13 @@
-import os, dotenv, logging, json, time
-from fastapi import FastAPI, HTTPException
-from pydantic import BaseModel
-from typing import Any
+import os, dotenv, logging, socketio
 import google.generativeai as genai
-
+from pydantic import BaseModel
+from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI
+from fastapi.staticfiles import StaticFiles
+from fastapi.templating import Jinja2Templates
+from fastapi.requests import Request
+from fastapi.middleware.cors import CORSMiddleware
+from xtts import Text2SpeechModule
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -12,24 +16,9 @@ logger = logging.getLogger(__name__)
 # Load API key from environment variable
 dotenv.load_dotenv(".env")
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-gemini_flash = genai.GenerativeModel(model_name="gemini-1.5-flash")
-import os
-from fastapi import FastAPI
-from fastapi.staticfiles import StaticFiles
-from fastapi.templating import Jinja2Templates
-from fastapi.requests import Request
-
-from fastapi.middleware.cors import CORSMiddleware
-import socketio
-
-from xtts import Text2SpeechModule
-
-dotenv.load_dotenv(".env")
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
 model = genai.GenerativeModel(
     model_name="gemini-1.5-flash",
-    # system_instruction=""
 )
 chat_sessions = {}
 
@@ -58,7 +47,7 @@ app.add_middleware(
 
 # Socketio
 socket_app = socketio.ASGIApp(sio)
-app.mount("/socket.io/", socket_app)
+app.mount("/api/ws/", socket_app)
 
 
 async def response(sid, audio_data, text, enable_code):
@@ -103,7 +92,7 @@ async def processAudio(sid, data):
 
 
 async def processText(sid, data):
-    if str(sid) in chat_sessions:
+    if str(object=sid) in chat_sessions:
         if data["code"] != "":
             rep = chat_sessions[str(sid)].send_message(data["text"])
         else:
@@ -129,7 +118,7 @@ async def input_audio_process(sid, data):
 
 
 @sio.on("input_text")
-async def input_audio_process(sid, data):
+async def input_text_process(sid, data):
     print("- Client: " + str(sid) + "sent text:")
     # testing
     print("code: " + data["code"])
@@ -156,7 +145,7 @@ class JobExtractInput(BaseModel):
 from extract_jd import JobExtractedOutput, extractJD
 
 
-@app.post("/extract-job-info/", response_model=JobExtractedOutput)
+@app.post("/api/jd/", response_model=JobExtractedOutput)
 async def extract_job_info(request: JobExtractInput):
     job_description = request.jd
 

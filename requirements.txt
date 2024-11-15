@@ -1,7 +1,10 @@
 python-dotenv
 fastapi[standard]==0.115.0
 google-generativeai==0.8.3
-langchain==0.3.3
-datasets
-transformers==4.46.1
 python-socketio
+torch
+torchvision 
+torchaudio
+transformers==4.46.1
+datasets
+TTS
