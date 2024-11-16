@@ -1,20 +1,22 @@
 import os, dotenv, logging, socketio
+
+dotenv.load_dotenv(".env")
 import google.generativeai as genai
 from pydantic import BaseModel
 from fastapi import FastAPI, HTTPException
 from fastapi import FastAPI
+from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from fastapi.requests import Request
 from fastapi.middleware.cors import CORSMiddleware
-from xtts import Text2SpeechModule
+from .xtts import Text2SpeechModule
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Load API key from environment variable
-dotenv.load_dotenv(".env")
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
 model = genai.GenerativeModel(
@@ -33,12 +35,14 @@ sio = socketio.AsyncServer(
     ping_timeout=1000,
     cors_allowed_origins="*",
     max_http_buffer_size=100 * 1024 * 1024,  # 100MB
-    transports=["websocket"],
+    transports=["websocket", "polling"],
 )
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "*"
+        "http://localhost:8000",
+        "https://hoppscotch.io",  # Testing
+        "*",  # Testing
     ],  # or specify a list of allowed origins, e.g., ["http://localhost:3000"]
     allow_credentials=True,
     allow_methods=["*"],
@@ -47,7 +51,7 @@ app.add_middleware(
 
 # Socketio
 socket_app = socketio.ASGIApp(sio)
-app.mount("/api/ws/", socket_app)
+app.mount("/socket.io", socket_app)
 
 
 async def response(sid, audio_data, text, enable_code):
@@ -60,13 +64,13 @@ async def response(sid, audio_data, text, enable_code):
 
 @sio.event
 async def connect(sid, environ, auth=None):
-    print("- New Client Connected to This id: " + str(sid))
+    logger.info("- New Client Connected to This id: " + str(sid))
     chat_sessions[str(sid)] = model.start_chat()
 
 
 @sio.event
 async def disconnect(sid):
-    print("- Client Disconnected: " + str(sid))
+    logger.info("- Client Disconnected: " + str(sid))
     if str(sid) in chat_sessions:
         del chat_sessions[str(sid)]
 
@@ -81,13 +85,11 @@ async def processAudio(sid, data):
             rep = chat_sessions[str(sid)].send_message(
                 {"mime_type": "audio/wav", "data": data["audio"]}
             )
-        print("TTS running for text: " + rep.text)
-        tts.predict(rep.text, "vi", f"temp\\{str(sid)}.wav")
-        print("TTS finish")
-        print("sending data")
+        logger.info("TTS running for text: " + rep.text)
+        audio_data = tts.predict(rep.text, "en")
+        logger.info("TTS finish")
+        logger.info("sending data")
 
-        with open(f"temp\\{str(sid)}.wav", "rb") as f:
-            audio_data = f.read()
         await response(sid, audio_data, rep.text, False)
 
 
@@ -97,32 +99,28 @@ async def processText(sid, data):
             rep = chat_sessions[str(sid)].send_message(data["text"])
         else:
             rep = chat_sessions[str(sid)].send_message([data["text"], data["code"]])
-        print("TTS running for text: " + rep.text)
-        tts.predict(rep.text, "vi", f"temp\\{str(sid)}.wav")
-        print("TTS finish")
+        logger.info("TTS running for text: " + rep.text)
+        audio_data = tts.predict(rep.text, "en")
+        logger.info("TTS finish")
 
-        with open(f"temp\\{str(sid)}.wav", "rb") as f:
-            audio_data = f.read()
-        print("sending data")
+        logger.info("sending data")
         await response(sid, audio_data, rep.text, False)
 
 
 @sio.on("input_audio")
 async def input_audio_process(sid, data):
-    print("- Client: " + str(sid) + "sent audio:")
+    logger.info("- Client: " + str(sid) + "sent audio:")
     # testing
-    print("code: " + data["code"])
-    # with open('src\\test\\output_file.wav', 'wb') as file:
-    #    file.write(data['audio'])
+    logger.info("code: " + data["code"])
     sio.start_background_task(processAudio, sid, data)
 
 
 @sio.on("input_text")
 async def input_text_process(sid, data):
-    print("- Client: " + str(sid) + "sent text:")
+    logger.info("- Client: " + str(sid) + "sent text:")
     # testing
-    print("code: " + data["code"])
-    print("text: " + data["text"])
+    logger.info("code: " + data["code"])
+    logger.info("text: " + data["text"])
     sio.start_background_task(processText, sid, data)
 
 
@@ -136,13 +134,14 @@ app.mount("/assets", StaticFiles(directory="pre-view-frontend/dist/assets"), "st
 @app.get("/")
 async def root(request: Request):
     return templates.TemplateResponse("index.html", {"request": request})
+    # return HTMLResponse(open("src/test/test.html").read())
 
 
 class JobExtractInput(BaseModel):
     jd: str
 
 
-from extract_jd import JobExtractedOutput, extractJD
+from .extract_jd import JobExtractedOutput, extractJD
 
 
 @app.post("/api/jd/", response_model=JobExtractedOutput)

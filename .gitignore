@@ -4,3 +4,4 @@ __pycache__
 model/
 TTS/
 temp/
+tmp.*

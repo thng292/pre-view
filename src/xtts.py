@@ -1,15 +1,19 @@
 import os
 
-import torch
-import torchaudio
-from TTS.tts.configs.xtts_config import XttsConfig
-from TTS.tts.models.xtts import Xtts
-from download_model import downloadModel
+LOAD_TTS = "LOAD_TTS" in os.environ and os.environ["LOAD_TTS"] == "1"
+
+if not LOAD_TTS:
+    from io import BytesIO
+    import torch
+    import torchaudio
+    from TTS.tts.configs.xtts_config import XttsConfig
+    from TTS.tts.models.xtts import Xtts
+    from .download_model import downloadModel
 
 model_path = "model/"
 
 
-class Text2SpeechModule:
+class TTSModule:
     def __init__(self):
         downloadModel()
         xtts_config_path = os.path.join(model_path, "config.json")
@@ -26,7 +30,7 @@ class Text2SpeechModule:
             vocab_path=vocab_path,
         )
         if torch.cuda.is_available():
-            self.model.cuda()
+            self.model.to(device="cuda")
         self.gpt_cond_latent = None
         self.speaker_embedding = None
 
@@ -37,7 +41,7 @@ class Text2SpeechModule:
             )
         )
 
-    def predict(self, prompt, language, output_path="output.wav"):
+    def predict(self, prompt, language):
         if self.gpt_cond_latent == None or self.speaker_embedding == None:
             return
         out = self.model.inference(
@@ -49,8 +53,23 @@ class Text2SpeechModule:
             temperature=0.75,
             enable_text_splitting=True,
         )
-        torchaudio.save(output_path, torch.tensor(out["wav"]).unsqueeze(0), 24000)
+        buffer = BytesIO()
+        torchaudio.save(buffer, torch.tensor(out["wav"]).unsqueeze(0), 24000)
+        return buffer.read()
 
+
+class NoTTS:
+    def __init__(self):
+        pass
+
+    def setSpeaker(self, speaker_wav: str):
+        pass
+
+    def predict(self, prompt, language):
+        return open("output.wav", "rb").read()
+
+
+Text2SpeechModule = TTSModule if LOAD_TTS else NoTTS
 
 """
 tts = Text2SpeechModule()

@@ -34,11 +34,11 @@
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.8.1/socket.io.js"></script>
     <script>
-        const socket = io("http://localhost:8000/", {
+        const socket = io("", {
             reconnectionDelay: 1000,
             pingInterval: 100000,
             ping_timeout: 1000000,
-            transports: ['websocket']
+            transports: ['websocket', "polling"]
         });
 
         const audioElement = document.getElementById('audioOutput');
