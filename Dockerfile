@@ -3,16 +3,27 @@
 
 FROM nikolaik/python-nodejs:python3.10-nodejs18
 
-WORKDIR /app
+# https://huggingface.co/docs/hub/spaces-sdks-docker#permissions
+# Set up a new user named "user" with user ID 1000
+RUN useradd -m -u 1000 user
+# Switch to the "user" user
+USER user
 
-COPY . /app 
+# Set home to the user's home directory
+ENV HOME=/home/user \
+    PATH=/home/user/.local/bin:$PATH
 
-WORKDIR /app/pre-view-frontend
+# Set the working directory to the user's home directory
+WORKDIR $HOME/app
+COPY --chown=user . $HOME/app 
+
+
+WORKDIR $HOME/app/pre-view-frontend
 RUN npm ci
 RUN npm run build
-WORKDIR /app
 
 
+WORKDIR $HOME/app
 RUN python -m pip install --upgrade pip
 COPY ./requirements.txt requirements.txt
 
