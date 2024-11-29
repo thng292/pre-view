@@ -3,8 +3,19 @@ from pydantic import BaseModel
 from google.generativeai import GenerativeModel, GenerationConfig
 import json
 
-SYSTEM_INSTRUCTION = """
-You are a senior developer. You will assist a friend finding job."""
+SYSTEM_INSTRUCTION = """You are a helpful assistant. You will receive job description related to IT from the user, your job is to extract the information in the given IT job description. Only use the information provided in the job description. Here are some hint for the json fields:
+- companyName: the name of the company
+- jobTitle: the job title
+- jobLevel: the experience level required for the job (intern, junior, ...)
+- yoe: year of experiences required for the job
+- programmingLanguages: the programming language(s) listed in the job description
+- frameworks: the framework(s) listed in the job description
+- skills: the skills that the candidate should have
+- responsibilities: the job's responsibilities
+- problems: what type of problem should the interviewer ask the candidate in coding interview to know if he fit the requirements
+- problemDifficulty: what should be the difficulty of the above question
+- interviewTopics: what should the interviewer ask the candidate during the interview
+"""
 
 model = GenerativeModel("gemini-1.5-flash-002", system_instruction=SYSTEM_INSTRUCTION)
 
@@ -68,7 +79,7 @@ class JobExtractedOutput(BaseModel):
     frameworks: list[str]
     skills: list[str]
     responsibilities: list[str]
-    problems: list[ProblemTag]
+    problems: list[str]
     problemDifficulty: ProblemDifficulty
     interviewTopics: list[str]
 
@@ -78,9 +89,9 @@ def extractJD(jd: str, retry: int = 1):
         response = model.generate_content(
             jd.strip(),
             generation_config=GenerationConfig(
-                temperature=i * 0.2,
+                temperature=(i + 1) * 0.4,
                 response_mime_type="application/json",
-                response_schema=JobExtractedOutput,
+                # response_schema=JobExtractedOutput,
             ),
         )
         try:
