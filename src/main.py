@@ -33,19 +33,14 @@ sio = socketio.AsyncServer(
     connection_timeout=1000,
     ping_interval=100,
     ping_timeout=1000,
-    cors_allowed_origins=["*", "http://localhost:5173"],  # Replace with your frontend origin
+    cors_allowed_origins="*",  # Replace with your frontend origin
     max_http_buffer_size=100 * 1024 * 1024,  # 100MB
-    transports=["websocket", "polling"],
+    transports=["websocket"],
 )
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:8000",
-        "https://hoppscotch.io",  # Testing
-        "http://localhost:5173"
-        "*",  # Testing
-    ],  # or specify a list of allowed origins, e.g., ["http://localhost:3000"]
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -53,7 +48,7 @@ app.add_middleware(
 
 # Socketio
 socket_app = socketio.ASGIApp(sio)
-app.mount("/socket.io", socket_app)
+app.mount("/socket.io/", socket_app)
 
 
 async def response(sid, audio_data, text, enable_code):
@@ -129,13 +124,13 @@ async def input_text_process(sid, data):
 # Hosting web
 templates = Jinja2Templates(directory="pre-view-frontend/dist")
 
-# app.mount("/assets", StaticFiles(directory="pre-view-frontend/dist/assets"), "static")
-# app.mount('/unity', StaticFiles(directory="pre-view-frontend/unity"), 'static')
+app.mount("/assets", StaticFiles(directory="pre-view-frontend/dist/assets"), "static")
+app.mount('/unity', StaticFiles(directory="pre-view-frontend/unity"), 'static')
 
 
 @app.get("/")
-#async def root(request: Request):
-#    return templates.TemplateResponse("index.html", {"request": request})
+async def root(request: Request):
+    return templates.TemplateResponse("index.html", {"request": request})
     # return HTMLResponse(open("src/test/test.html").read())
 
 
