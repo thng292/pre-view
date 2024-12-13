@@ -2,7 +2,7 @@ import os
 
 LOAD_TTS = "LOAD_TTS" in os.environ and os.environ["LOAD_TTS"] == "1"
 
-if not LOAD_TTS:
+if LOAD_TTS:
     from io import BytesIO
     import torch
     import torchaudio

@@ -38,7 +38,7 @@ sio = socketio.AsyncServer(
         "http://localhost:8000",
     ],  # Replace with your frontend origin
     max_http_buffer_size=100 * 1024 * 1024,  # 100MB
-    transports=["websocket", "polling"],
+    transports=["websocket"],
 )
 
 app.add_middleware(
@@ -55,7 +55,7 @@ app.add_middleware(
 
 # Socketio
 socket_app = socketio.ASGIApp(sio)
-app.mount("/socket.io", socket_app)
+app.mount("/socket.io/", socket_app)
 
 
 async def response(sid, audio_data, text, enable_code):
@@ -132,7 +132,7 @@ async def input_text_process(sid, data):
 templates = Jinja2Templates(directory="pre-view-frontend/dist")
 
 app.mount("/assets", StaticFiles(directory="pre-view-frontend/dist/assets"), "static")
-# app.mount('/unity', StaticFiles(directory="pre-view-frontend/unity"), 'static')
+app.mount("/unity", StaticFiles(directory="pre-view-frontend/unity"), "static")
 
 
 @app.get("/")
