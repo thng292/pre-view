@@ -33,7 +33,10 @@ sio = socketio.AsyncServer(
     connection_timeout=1000,
     ping_interval=100,
     ping_timeout=1000,
-    cors_allowed_origins=["*", "http://localhost:5173"],  # Replace with your frontend origin
+    cors_allowed_origins=[
+        "http://localhost:5173",
+        "http://localhost:8000",
+    ],  # Replace with your frontend origin
     max_http_buffer_size=100 * 1024 * 1024,  # 100MB
     transports=["websocket", "polling"],
 )
@@ -43,8 +46,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:8000",
         "https://hoppscotch.io",  # Testing
-        "http://localhost:5173"
-        "*",  # Testing
+        "http://localhost:5173",
     ],  # or specify a list of allowed origins, e.g., ["http://localhost:3000"]
     allow_credentials=True,
     allow_methods=["*"],
@@ -129,14 +131,16 @@ async def input_text_process(sid, data):
 # Hosting web
 templates = Jinja2Templates(directory="pre-view-frontend/dist")
 
-# app.mount("/assets", StaticFiles(directory="pre-view-frontend/dist/assets"), "static")
+app.mount("/assets", StaticFiles(directory="pre-view-frontend/dist/assets"), "static")
 # app.mount('/unity', StaticFiles(directory="pre-view-frontend/unity"), 'static')
 
 
 @app.get("/")
-#async def root(request: Request):
-#    return templates.TemplateResponse("index.html", {"request": request})
-    # return HTMLResponse(open("src/test/test.html").read())
+async def root(request: Request):
+    return templates.TemplateResponse("index.html", {"request": request})
+
+
+# return HTMLResponse(open("src/test/test.html").read())
 
 
 class JobExtractInput(BaseModel):
@@ -150,7 +154,7 @@ from .extract_jd import JobExtractedOutput, extractJD
 async def extract_job_info(request: JobExtractInput):
     job_description = request.jd
 
-    output = extractJD(job_description)
+    output = extractJD(job_description, retry=2)
     if output:
         return output
     raise HTTPException(status_code=400, detail=f"Couldn't process this")
