@@ -20,20 +20,6 @@ SYSTEM_INSTRUCTION = """You are a helpful assistant. You will receive job descri
 model = GenerativeModel("gemini-1.5-flash-002", system_instruction=SYSTEM_INSTRUCTION)
 
 
-class JobLevel(str, Enum):
-    intern = "intern"
-    fresher = "fresher"
-    junior = "junior"
-    mid_level = "mid-level"
-    senior = "senior"
-
-
-class ProblemDifficulty(str, Enum):
-    easy = "easy"
-    medium = "medium"
-    hard = "hard"
-
-
 class ProblemTag(str, Enum):
     hashTable = "Hash Table"
     math = "Math"
@@ -70,6 +56,20 @@ class ProblemTag(str, Enum):
     slidingWindow = "Sliding Window"
 
 
+class JobLevel(str, Enum):
+    intern = "intern"
+    fresher = "fresher"
+    junior = "junior"
+    mid_level = "mid-level"
+    senior = "senior"
+
+
+class ProblemDifficulty(str, Enum):
+    easy = "easy"
+    medium = "medium"
+    hard = "hard"
+
+
 class JobExtractedOutput(BaseModel):
     companyName: str | None
     jobTitle: str
@@ -91,7 +91,7 @@ def extractJD(jd: str, retry: int = 1):
             generation_config=GenerationConfig(
                 temperature=(i + 1) * 0.4,
                 response_mime_type="application/json",
-                # response_schema=JobExtractedOutput,
+                response_schema=JobExtractedOutput,
             ),
         )
         try:
