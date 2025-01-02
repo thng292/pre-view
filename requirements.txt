@@ -7,4 +7,4 @@ torchvision
 torchaudio
 transformers==4.46.1
 datasets
-coqui-tts[server, notebooks]
+coqui-tts[server, notebooks] @ git+https://github.com/thng292/coqui-ai-TTS.git
