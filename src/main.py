@@ -141,20 +141,3 @@ async def root(request: Request):
 
 
 # return HTMLResponse(open("src/test/test.html").read())
-
-
-class JobExtractInput(BaseModel):
-    jd: str
-
-
-from .extract_jd import JobExtractedOutput, extractJD
-
-
-@app.post("/api/jd/", response_model=JobExtractedOutput)
-async def extract_job_info(request: JobExtractInput):
-    job_description = request.jd
-
-    output = extractJD(job_description, retry=2)
-    if output:
-        return output
-    raise HTTPException(status_code=400, detail=f"Couldn't process this")
