@@ -1,31 +1,47 @@
 import os, dotenv, logging, socketio
+import google.generativeai as genai
 
 dotenv.load_dotenv(".env")
-import google.generativeai as genai
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+
 from pydantic import BaseModel
-from fastapi import FastAPI, HTTPException
 from fastapi import FastAPI
-from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from fastapi.requests import Request
 from fastapi.middleware.cors import CORSMiddleware
+from vinorm import TTSnorm
+from enum import Enum
 from .xtts import Text2SpeechModule
+from .interviewAI import InterviewAI
+from .stt import speech_to_text
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Load API key from environment variable
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
-model = genai.GenerativeModel(
-    model_name="gemini-1.5-flash",
-)
-chat_sessions = {}
+interview = None
+
+
+class SupportedLanguage(str, Enum):
+    vi = "vi"
+    en = "en"
+
+
+LANGUAGE_MAP: dict[SupportedLanguage, str] = {
+    SupportedLanguage.vi: "Vietnamese",
+    SupportedLanguage.en: "English",
+}
+
+LANGUAGE_MAP_R: dict[str, SupportedLanguage] = {
+    "Vietnamese": SupportedLanguage.vi,
+    "English": SupportedLanguage.en,
+}
 
 tts = Text2SpeechModule()
-tts.setSpeaker("model/samples/nu-luu-loat.wav")
+tts.setSpeaker("model/vi_sample.wav")
 
 app = FastAPI()
 sio = socketio.AsyncServer(
@@ -58,10 +74,10 @@ socket_app = socketio.ASGIApp(sio)
 app.mount("/socket.io/", socket_app)
 
 
-async def response(sid, audio_data, text, enable_code):
+async def response(sid, data):
     await sio.emit(
         "response",
-        {"audio": audio_data, "text": text, "enable_code": enable_code},
+        data,
         to=sid,
     )
 
@@ -69,62 +85,68 @@ async def response(sid, audio_data, text, enable_code):
 @sio.event
 async def connect(sid, environ, auth=None):
     logger.info("- New Client Connected to This id: " + str(sid))
-    chat_sessions[str(sid)] = model.start_chat()
 
 
 @sio.event
 async def disconnect(sid):
     logger.info("- Client Disconnected: " + str(sid))
-    if str(sid) in chat_sessions:
-        del chat_sessions[str(sid)]
+
+
+def chat(userInp: str):
+    if interview is None:
+        return
+    resp = interview.chat(userInp)
+    normalized = TTSnorm(
+        resp.text,
+        unknown=False,
+        lower=False,
+        rule=True,
+    )
+    logger.info("Normalized: " + normalized)
+    audio_data = tts.predict(normalized, LANGUAGE_MAP_R[interview.language])
+    logger.info("TTS finish")
+
+    return dict(audio=audio_data, enableCode=resp.switch_to_code, text=resp.text)
+
+
+audioKey = "fromAudio"
 
 
 async def processAudio(sid, data):
-    if str(sid) in chat_sessions:
-        if data["code"] != "":
-            rep = chat_sessions[str(sid)].send_message(
-                [{"mime_type": "audio/wav", "data": data["audio"]}, data["code"]]
-            )
-        else:
-            rep = chat_sessions[str(sid)].send_message(
-                {"mime_type": "audio/wav", "data": data["audio"]}
-            )
-        logger.info("TTS running for text: " + rep.text)
-        audio_data = tts.predict(rep.text, "en")
-        logger.info("TTS finish")
-        logger.info("sending data")
-
-        await response(sid, audio_data, rep.text, False)
+    logger.info("Converting STT")
+    text = speech_to_text(data["audio"])
+    logger.info("Converted: " + text)
+    result = chat(text)
+    if result is None:
+        await response(sid, {})
+        return
+    result["userText"] = text
+    await response(sid, result)
 
 
 async def processText(sid, data):
-    if str(object=sid) in chat_sessions:
-        if data["code"] != "":
-            rep = chat_sessions[str(sid)].send_message(data["text"])
-        else:
-            rep = chat_sessions[str(sid)].send_message([data["text"], data["code"]])
-        logger.info("TTS running for text: " + rep.text)
-        audio_data = tts.predict(rep.text, "en")
-        logger.info("TTS finish")
-
-        logger.info("sending data")
-        await response(sid, audio_data, rep.text, False)
+    result = chat(data["text"])
+    if result is None:
+        await response(sid, {})
+        return
+    await response(sid, result)
 
 
 @sio.on("input_audio")
-async def input_audio_process(sid, data):
-    logger.info("- Client: " + str(sid) + "sent audio:")
-    # testing
-    logger.info("code: " + data["code"])
+async def input_audio_handler(sid, data):
+    logger.info(msg="- Client: " + str(sid) + "sent audio")
     sio.start_background_task(processAudio, sid, data)
 
 
+@sio.on("input_code")
+async def input_code_handler(sid, data):
+    logger.info("- Client: " + str(sid) + "sent code")
+    sio.start_background_task(processText, sid, {"text": data["code"]})
+
+
 @sio.on("input_text")
-async def input_text_process(sid, data):
-    logger.info("- Client: " + str(sid) + "sent text:")
-    # testing
-    logger.info("code: " + data["code"])
-    logger.info("text: " + data["text"])
+async def input_text_handler(sid, data):
+    logger.info("- Client: " + str(sid) + "sent text")
     sio.start_background_task(processText, sid, data)
 
 
@@ -138,6 +160,28 @@ app.mount("/unity", StaticFiles(directory="pre-view-frontend/unity"), "static")
 @app.get("/")
 async def root(request: Request):
     return templates.TemplateResponse("index.html", {"request": request})
+
+
+class StartArgs(BaseModel):
+    language: SupportedLanguage
+    jd: str
+
+
+@app.post("/api/start")
+async def start(args: StartArgs):
+    global interview
+    interview = InterviewAI(
+        language=LANGUAGE_MAP[args.language], job_description=args.jd
+    )
+    return (
+        genai.GenerativeModel(
+            system_instruction="You are a text formatter assistant. Your task is to take unstructured text and convert it into a well-organized Markdown document. The output should be clear, readable, and well-structured"
+        )
+        .generate_content(args.jd)
+        .text
+    )
+    print(res)
+    return res
 
 
 # return HTMLResponse(open("src/test/test.html").read())

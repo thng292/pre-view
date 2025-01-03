@@ -41,7 +41,7 @@ At the end of the interview, summarize the main points discussed. Thank the cand
 
 Before response to the candidate, you must seek the next question from a human using getNextQuestion function. Don't tell the candidate that you are seeking guidance. You can rewrite the question to match the conversation tone and language.
 
-You should start by getting to know the candidate (name, seniority level)"""
+You must always response in {language}. You should start by getting to know the candidate (name, seniority level)"""
 
 EXTRACT_JD_SYSTEM_PROMPT = """You are a senior developer with extensive experience in the IT industry. Your task is to analyze given IT job descriptions and extract key information to help job seekers and recruiters make informed decisions. Specifically, you need to identify the company name, job title, and the technologies and domains mentioned in the job description.
 
@@ -84,7 +84,7 @@ Additional Note:
 2. Be mindful of the seniority level of the role when evaluating the candidate's responses.
 3. Ensure your analysis and recommendations are objective and free from personal biases.
 4. Coding interview should be the last thing in the interview process.
-5. Your analysis and next question must be in the same language as the provided conversation. Example: If the conversation is in Vietnamese, you must response in Vietnamse
+5. Your analysis and next question must be in {language}
 """
 
 FORCE_SWITCH_TO_CODING_INTERVIEW_PROMPT = """You are a highly experienced senior developer participating in technical interviews. Your goal is to assist the human interviewer in evaluating candidates. You will be provided with the job description for the role and the ongoing conversation between the interviewer and the candidate. You need to analyze the candidate answer, provide a score reflecting your assessment, and suggest a coding problem for the human interviewer. Your analysis should consider the key areas of the interview: Technical Skills, Problem-Solving, Experience, Teamwork and Collaboration, and Adaptability, as defined in the job description. Be objective and justify your score and coding problem reccommendation for the interviewer to ask next. This question should focused, and aimed at further exploring relevant areas or addressing any weaknesses identified in the analysis. Focus on the relevance of the candidate's answer to the job requirements and the overall quality of their response. If the candidate is asked a direct technical question, assess their technical accuracy and depth of understanding. When discussing experience, evaluate the alignment of their past roles and responsibilities with the job requirements and their ability to articulate their contributions and learnings. For teamwork questions, assess their understanding of collaborative principles and their ability to work effectively in a team. For adaptability, consider their openness to learning new technologies and their experience with handling change. Remember that your primary responsibility is to provide insightful and actionable feedback to aid the interview process. Do not engage in conversation with the candidate; your output is solely for the human interviewer's benefit.
@@ -112,7 +112,7 @@ Analysis Guidelines:
 Additional Note:
 1. Be mindful of the seniority level of the role when evaluating the candidate's responses.
 2. Ensure your analysis and recommendations are objective and free from personal biases.
-3. Your analysis and next question must be in the same language as the provided conversation. Example: If the conversation is in Vietnamese, you must response in Vietnamse"""
+3. Your analysis and next question must be in {language}"""
 
 
 class NextAction(str, Enum):
@@ -124,7 +124,7 @@ class NextAction(str, Enum):
 class AnalysisAndNextActionOutput(BaseModel):
     analysis: str
     score: Optional[float] = Field(ge=0, le=10, default=0)
-    nextAction: NextAction
+    nextAction: str
     nextQuestion: str
 
 
@@ -156,7 +156,7 @@ class InterviewAI:
         except:
             pass
 
-    def __init__(self, job_description: str):
+    def __init__(self, language: str, job_description: str):
         self.addLogger()
 
         self.extractJD_model = genai.GenerativeModel(
@@ -169,19 +169,25 @@ class InterviewAI:
 
         self.jd = job_description
         self.jd_extracted = self.extractJD(self.jd)
+        self.language = language
         self.history = []
         self.current_turn = None
-        self.remaining_turn = 10
+        self.remaining_turn = 4
+        self.switch_to_code = False
 
         self.getAnalysisAndNextAction_model = genai.GenerativeModel(
-            system_instruction=ANALYSIS_AND_NEXT_ACTION_SYSTEM_PROMPT,
+            system_instruction=ANALYSIS_AND_NEXT_ACTION_SYSTEM_PROMPT.replace(
+                "{language}", language
+            ),
             generation_config={
                 "temperature": 0.5,
                 "response_mime_type": "application/json",
             },
         )
         self.forceCoding_model = genai.GenerativeModel(
-            system_instruction=FORCE_SWITCH_TO_CODING_INTERVIEW_PROMPT,
+            system_instruction=FORCE_SWITCH_TO_CODING_INTERVIEW_PROMPT.replace(
+                "{language}", language
+            ),
             generation_config={
                 "temperature": 0.5,
                 "response_mime_type": "application/json",
@@ -194,6 +200,7 @@ class InterviewAI:
                 domain=self.jd_extracted.domain,
                 job_title=self.jd_extracted.jobTitle,
                 job_description=self.jd,
+                language=language,
             ),
             generation_config={"temperature": 0.5},
             tools=[self.getNextAction],
@@ -257,19 +264,25 @@ class InterviewAI:
             self.current_turn = {}
             self.remaining_turn -= 1
 
-        switch_to_code = self.remaining_turn < 0
+        if self.switch_to_code:
+            resp = self.getAnalysisAndNextAction()
+            return ChatOutput(text=resp.analysis, switch_to_code=self.switch_to_code)
+
+        self.switch_to_code = self.remaining_turn < 0
 
         self.wait()
-        if switch_to_code:
+        if self.switch_to_code:
             resp = self.getAnalysisAndNextAction()
             self.current_turn["interviewer"] = resp.nextQuestion
             self.prompt_logger.debug({"input": user_inp, "output": resp.nextQuestion})
-            return ChatOutput(text=resp.nextQuestion, switch_to_code=switch_to_code)
+            return ChatOutput(
+                text=resp.nextQuestion, switch_to_code=self.switch_to_code
+            )
         else:
             resp = self.main_chat.send_message(user_inp)
             self.current_turn["interviewer"] = resp.text
             self.prompt_logger.debug({"input": user_inp, "output": resp.text})
-            return ChatOutput(text=resp.text, switch_to_code=switch_to_code)
+            return ChatOutput(text=resp.text, switch_to_code=self.switch_to_code)
 
     def addLogger(self):
         # Create a logger
@@ -291,7 +304,8 @@ class InterviewAI:
 
 if __name__ == "__main__":
     ai = InterviewAI(
-        "We need a person know HTML, CSS and JS to help with our landing page"
+        "Vietnamese",
+        "We need a Python developer intern, no experience required",
     )
     while True:
         user_inp = input("User: ").strip()

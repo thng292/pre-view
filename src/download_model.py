@@ -4,7 +4,7 @@ from huggingface_hub import snapshot_download
 
 def downloadModel(force=False):
     model_path = "model/"
-    model_id = "capleaf/viXTTS"
+    model_id = "pre-view/viXTTS-ft-code"
 
     if os.path.exists(model_path) and not force:
         return

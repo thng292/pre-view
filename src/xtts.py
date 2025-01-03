@@ -2,13 +2,12 @@ import os
 
 LOAD_TTS = "LOAD_TTS" in os.environ and os.environ["LOAD_TTS"] == "1"
 
-if LOAD_TTS:
-    from io import BytesIO
-    import torch
-    import torchaudio
-    from TTS.tts.configs.xtts_config import XttsConfig
-    from TTS.tts.models.xtts import Xtts
-    from .download_model import downloadModel
+from io import BytesIO
+import torch
+import torchaudio
+from TTS.tts.configs.xtts_config import XttsConfig
+from TTS.tts.models.xtts import Xtts
+from .download_model import downloadModel
 
 model_path = "model/"
 
@@ -16,21 +15,13 @@ model_path = "model/"
 class TTSModule:
     def __init__(self):
         downloadModel()
-        xtts_config_path = os.path.join(model_path, "config.json")
         config = XttsConfig()
-        config.load_json(xtts_config_path)
-
-        vocab_path = os.path.join(model_path, "vocab.json")
-
+        config.load_json(model_path + "config.json")
         self.model = Xtts.init_from_config(config)
-        self.model.load_checkpoint(
-            config,
-            checkpoint_dir=model_path,
-            use_deepspeed=False,
-            vocab_path=vocab_path,
-        )
+        self.model.load_checkpoint(config, checkpoint_dir=model_path)
+        self.model.eval()
         if torch.cuda.is_available():
-            self.model.to(device="cuda")
+            self.model.cuda()
         self.gpt_cond_latent = None
         self.speaker_embedding = None
 
@@ -54,7 +45,10 @@ class TTSModule:
             enable_text_splitting=True,
         )
         buffer = BytesIO()
-        torchaudio.save(buffer, torch.tensor(out["wav"]).unsqueeze(0), 24000)
+        torchaudio.save(
+            buffer, torch.tensor(out["wav"]).unsqueeze(0), 24000, format="wav"
+        )
+        buffer.seek(0)
         return buffer.read()
 
 
