@@ -173,9 +173,9 @@ async def start(args: StartArgs):
     interview = InterviewAI(
         language=LANGUAGE_MAP[args.language], job_description=args.jd
     )
-    return (
+    res = (
         genai.GenerativeModel(
-            system_instruction="You are a text formatter assistant. Your task is to take unstructured text and convert it into a well-organized Markdown document. The output should be clear, readable, and well-structured"
+            system_instruction="You are a text formatter assistant. Your task is to take unstructured text and convert it into a well-organized Markdown document. The output should be clear, readable, and well-structured. You must use <br> instead of new line character"
         )
         .generate_content(args.jd)
         .text
